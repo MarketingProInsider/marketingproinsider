@@ -1,37 +1,3 @@
-<style>
-
-</style>
-
-<p>{{ SITEURL }}</p>
-<input type="hidden" id="hidden-input" value='[
-  {% for article in articles %}
-    {
-      "thumbnail": "{{ article.thumbnail }}",
-      "category": "{{ article.category}}",
-      "alt": "{{ article.alt }}",
-      "slug": "{{ article.slug }}",
-      "title": "{{ article.title }}",
-      "author": [
-      {"name":"{{ article.author }}", "url":"{{ article.author.url }}"}      
-      ],
-      "date": "{{ article.date.strftime("%B %d, %Y") }}",
-      "resume": 
-      {% if article.resume %}
-      "{{ article.resume }}",
-      {% else %}
-      "",
-      {% endif %}
-      "tags": [
-      {% for tag in article.tags %}
-      { "name": "{{ tag }}", "url": "{{ tag.url }}" }{% if not loop.last %},{% endif %}
-      {% endfor %}
-      ],
-      "SITEURL": "{{ SITEURL }}"
-    }
-    {% if not loop.last %},{% endif %}
-  {% endfor %}
-]'>
-
 <div class="row" id="articles-container">
   <!-- Waiting for data to load here through id-->  
 </div>
@@ -40,8 +6,4 @@
   {% include 'partial/pagination.html' %} #}
 </div>
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">&#94;</button>
-
-<script>
-
-</script>
+<!--<button onclick="topFunction()" id="myBtn" title="Go to top">&#94;</button>-->
