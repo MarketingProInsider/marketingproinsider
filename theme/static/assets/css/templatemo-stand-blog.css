@@ -715,6 +715,7 @@ ul.page-numbers li a:hover {
 
 /* Load More Button */
 #loadMore {
+cursor: pointer;
 display: block;
 padding: 10px;
 text-align: center;
@@ -738,6 +739,9 @@ transition: all 600ms ease-in-out;
 }
 
 /* Move to the top */
+#nodisplay {
+	display: none;
+}
 #myBtn {
 	display: inline-flex; /* Use flexbox */
 	align-items: center; /* Vertically center the content */
