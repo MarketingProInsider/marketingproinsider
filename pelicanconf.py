@@ -5,7 +5,7 @@ import os
 AUTHOR = 'Bilal Khalid'
 SITENAME = 'MarketingProInsider'
 SITEURL = ''
-CATEGORY = 'Blog'
+CATEGORY = ''
 SITEDESCRIPTION = 'My Blog'
 DEFAULT_LOCALE = 'en_US'
 
@@ -81,7 +81,6 @@ AUTHOR_URL_SAVE_AS = 'author/{slug}/index.html'
 
 # Pages
 TEMPLATE_PAGES = {
-    'blog.html': 'blog.html',
     'contact.html': 'contact.html',
     '404.html': '404.html',
 }
