@@ -71,7 +71,6 @@
 <script defer>
   // Get the button
   let mybutton = document.getElementById("nodisplay");
-  var loadMoreButton = document.getElementById('load-more-button');  
 
   // When the user scrolls down 200px from the top of the document, show the button
   window.onscroll = function() {scrollFunction()};
@@ -89,12 +88,5 @@
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
   }
-
-  // Load more button click event
-  loadMoreButton.addEventListener('click', function() {
-    var startIndex = articlesContainer.children.length;
-    var endIndex = startIndex + 7;
-    displayArticles(startIndex, endIndex);
-  });
 </script>
 {% endblock %}

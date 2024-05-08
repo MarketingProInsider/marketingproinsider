@@ -2,6 +2,7 @@ window.addEventListener('DOMContentLoaded', function() {
   // Get the hidden input field
   var hiddenInput = document.getElementById('hidden-input');
   var articlesContainer = document.getElementById('articles-container');
+  var loadMoreButton = document.getElementById('load-more-button'); 
 
   // Check if hiddenInput exists
   if (hiddenInput) {
@@ -54,5 +55,12 @@ window.addEventListener('DOMContentLoaded', function() {
 
       // Initial display of articles
       displayArticles(0, 7);
+
+      // Load more button click event
+      loadMoreButton.addEventListener('click', function() {
+        var startIndex = articlesContainer.children.length;
+        var endIndex = startIndex + 7;
+        displayArticles(startIndex, endIndex);
+      });
   }
 });
