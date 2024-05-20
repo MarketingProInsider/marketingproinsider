@@ -57,6 +57,11 @@ Features:
 *   **Free Google Fonts:** Style your blog with over 1,000 free Google Fonts.
 *   **Free updates & support:** Stand Bog is constantly updated with new features and bug fixes. You also get free support from the PyPiThemes team.
 
+## To Build
+pelican content -o output
+
+## To listen
+pelican content
 ## To debug:
 pelican content --debug > pelicandebug.txt
 
