@@ -131,9 +131,9 @@ SITEMAP = {
         'pages': 0.5
     },
     'changefreqs': {
-        'articles': 'daily',
-        'pages': 'daily',
-        'indexes': 'daily',
+        'articles': 'weekly',
+        'pages': 'weekly',
+        'indexes': 'monthly',
     },
     'exclude': [],  # ex: ['categories', 'tags']
 }

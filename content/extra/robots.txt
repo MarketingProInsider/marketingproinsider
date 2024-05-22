@@ -1,7 +1,5 @@
-User-agent: *               #for all
+User-agent: *
 
-#Disallow: /page/*
-#Disallow: /category/*/page/*
-#Disallow: /tag/*/page/*
+Disallow: 
                         
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://marketingproinsider.com/sitemap.xml
