@@ -34,6 +34,7 @@ class FeedSummaryWriter(Writer):
                                             item.date.date(),
                                             urlparse(link).path.lstrip('/')),
                 description=item.summary if hasattr(item, 'summary') else item.get_content(self.site_url),
+                meta_title=item.summary if hasattr(item, 'meta_title') else item.get_content(self.site_url),
                 categories=item.tags if hasattr(item, 'tags') else None,
                 author_name=getattr(item, 'author', ''),
                 pubdate=set_date_tzinfo(item.modified if hasattr(item, 'modified') else item.date,

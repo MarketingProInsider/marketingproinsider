@@ -3,7 +3,7 @@
         Copyright (c) 2024 Your Website.
         Theme developed by pypithemes.com
     -->
-<html lang="{{ DEFAULT_LANG }}">
+<html hreflang="{{ DEFAULT_LANG }}">
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -45,10 +45,12 @@
    {% if page %}
    <!-- Page-specific meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
+   <meta name="title" content="{{ page.meta_title|striptags|escape }}">
    <meta name="description" content="{{ page.description|striptags|escape }}">
    {% elif article %}
    <!-- Article-specific meta tags -->
    <meta name="author" content="{{ article.author.name }}">
+   <meta name="title" content="{{ article.meta_title|striptags|escape }}">
    <meta name="description" content="{{ article.description|striptags|escape }}">
    {% elif category %}
    <!-- Category-specific meta tags -->
@@ -61,6 +63,7 @@
    {% else %}
    <!-- Default meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
+   <meta name="title" content="{{ SITEMETATITLE }}">
    <meta name="description" content="{{ SITEDESCRIPTION }}">
    {% endif %}
    {% if OPEN_GRAPH %}
@@ -89,7 +92,7 @@
       <nav class="navbar navbar-expand-lg">
          <div class="container">
             <a class="navbar-brand" href="/">
-               <img loading="lazy" src="{{SITEURL}}/theme/assets/images/contents/logo/MPI-Black-Logo.jpg" alt="Marketing Pro Insider Logo" style="max-width: 70px; height: auto;">
+               <img loading="lazy" src="{{SITEURL}}/theme/assets/images/contents/logo/MPI-Black-Logo.png" alt="Marketing Pro Insider Logo" style="max-width: 250px; height: auto;">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
