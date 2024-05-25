@@ -102,11 +102,10 @@ LINKS = (
 
 # Social media links
 SOCIAL_MEDIA_LINKS = (
-    ('Twitter', 'https://twitter.com/your_twitter_username'),
-    ('Facebook', 'https://facebook.com/your_facebook_username'),
-    ('GitHub', 'https://github.com/your_github_username'),
-    ('Youtube', 'https://youtube.com/your_youtube_username'),
-    ('Tiktok', ''),
+    ('Reddit', 'https://www.reddit.com/user/MarketingProInsider/'),
+    ('Quora', 'https://marketingproinsider.quora.com/'),
+    ('Facebook', 'https://www.facebook.com/profile.php?id=61559969553167&mibextid=ZbWKwL'),
+    ('Github', 'https://github.com/MarketingProInsider'),
     # Add more social media links here
 )
 
