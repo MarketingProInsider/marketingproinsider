@@ -4,7 +4,7 @@ import os
 # Author and site information
 AUTHOR = 'Bilal Khalid'
 SITENAME = 'MarketingProInsider'
-SITEURL = ''
+SITEURL = 'marketingproinsider.com'
 CATEGORY = ''
 SITEMETATITLE = 'Achieve Your Goals with New Free Social Media Solutions Now'
 SITEDESCRIPTION = "Stay ahead of the competition by implementing the latest free social media solutions today. Don't miss out on this opportunity to revolutionize your online presence"
