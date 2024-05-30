@@ -4,7 +4,7 @@ import os
 # Author and site information
 AUTHOR = 'Bilal Khalid'
 SITENAME = 'MarketingProInsider'
-SITEURL = 'marketingproinsider.com'
+SITEURL = ''
 CATEGORY = ''
 SITEMETATITLE = 'Achieve Your Goals with New Free Social Media Solutions Now'
 SITEDESCRIPTION = "Stay ahead of the competition by implementing the latest free social media solutions today. Don't miss out on this opportunity to revolutionize your online presence"
@@ -102,10 +102,11 @@ LINKS = (
 
 # Social media links
 SOCIAL_MEDIA_LINKS = (
-    ('Reddit', 'https://www.reddit.com/user/MarketingProInsider/'),
-    ('Quora', 'https://marketingproinsider.quora.com/'),
-    ('Facebook', 'https://www.facebook.com/profile.php?id=61559969553167&mibextid=ZbWKwL'),
-    ('Github', 'https://github.com/MarketingProInsider'),
+    ('linkedin', 'https://www.linkedin.com/company/103871776/'),
+    ('pinterest', 'https://pin.it/dJggaRJ3K'),
+    ('reddit', 'https://www.reddit.com/user/MarketingProInsider/'),
+    ('quora', 'https://marketingproinsider.quora.com/'),
+    ('facebook-f', 'https://www.facebook.com/profile.php?id=61559969553167&mibextid=ZbWKwL'),
     # Add more social media links here
 )
 

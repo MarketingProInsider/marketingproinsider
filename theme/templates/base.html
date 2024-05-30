@@ -22,6 +22,7 @@
    <!-- Bootstrap core CSS -->
    <link href="{{ SITEURL }}/theme/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
    <!-- Additional CSS Files -->
+   <script src="https://kit.fontawesome.com/642529fdb6.js" crossorigin="anonymous"></script>
    <link rel="stylesheet" href="{{SITEURL}}/theme/assets/css/fontawesome.css">
    <link rel="stylesheet" href="{{SITEURL}}/theme/assets/css/templatemo-stand-blog.css">
    <link rel="stylesheet" href="{{SITEURL}}/theme/assets/css/landing-page.css">
@@ -111,9 +112,6 @@
                   <li class="nav-item" id="contact">
                      <a class="nav-link" href="/contact">Contact Us</a>
                   </li>
-                  <li class="nav-item" id="privacyt">
-                     <a class="nav-link" href="/privacy">Privacy & Policy</a>
-                  </li>
                </ul>
             </div>
          </div>
@@ -125,11 +123,21 @@
       <div class="container">
          <div class="row">
             <div class="col-lg-12">
+               <ul class="footer-links list-unstyled">
+                  <li>
+                     <a class="nav-link" href="/privacy">Privacy & Policy</a>
+                  </li>
+                  <li>
+                     <a class="nav-link" href="/faq">Frequently Asked Questions</a>
+                  </li>
+               </ul>
+            </div>
+            <div class="col-lg-12">
                <ul class="social-icons">
                   {% for name, link in SOCIAL_MEDIA_LINKS %}
                   {% if link %}
                   <li>
-                     <a href="{{ link }}">{{ name }}</a>
+                     <a href="{{ link }}"><i class="fa-brands fa-{{ name }}"></i></a>
                   </li>
                   {% endif %}
                   {% endfor %}
