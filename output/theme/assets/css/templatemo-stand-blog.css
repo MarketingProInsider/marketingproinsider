@@ -62,13 +62,40 @@ h6 {
 
 .page-heading {
 	margin: 0px 10px;
-	padding: 120px 0px;
+	padding: 150px 0px;
 	text-align: left;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-image: url(../images/heading-bg.jpg);
 }
+
+/* Media queries for further adjustments on different screen sizes */
+@media (max-width: 1200px) {
+	.page-heading {
+	  padding: 8vh 0;
+	}
+  }
+  
+  @media (max-width: 992px) {
+	.page-heading {
+	  padding: 6vh 0;
+	  text-align: center; /* Center align text on smaller screens */
+	}
+  }
+  
+  @media (max-width: 768px) {
+	.page-heading {
+	  padding: 4vh 0;
+	  margin: 0 5px; /* Reduce margins on smaller screens */
+	}
+  }
+  
+  @media (max-width: 576px) {
+	.page-heading {
+	  padding: 3vh 0;
+	}
+  }
 
 .page-heading .text-content h4 {
 	color: #f48840;
@@ -285,12 +312,10 @@ header .navbar {
 	top: 25px;
 }
 
-.navbar .navbar-toggler-icon:after {
-	content: '\f0c9';
+.navbar .navbar-toggler-icon i {
 	color: #fff;
 	font-size: 18px;
 	line-height: 30px;
-	font-family: 'FontAwesome';
 }
 
 

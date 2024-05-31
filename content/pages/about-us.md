@@ -1,6 +1,5 @@
-Title: About Us
+Title: Exclusive free Social Media Tips to uplift your business
 Description: Explore new ways to uplift your social media strategy with practical and actionable free social media tips in this must-read blog post.
-Meta_Title: Exclusive free Social Media Tips to uplift your business
 Slug: about
 Save_as: about.html
 

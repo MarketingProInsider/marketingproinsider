@@ -1,5 +1,4 @@
-Title: Privacy & Policy
-Meta_Title: Practical Social Media Tips for Successful Online Presence
+Title: Practical Social Media Tips for Successful Online Presence
 Description: Explore practical tips to boost your social media presence and attract a larger audience. Don't miss out on these proven strategies.
 Slug: privacy
 Save_as: privacy.html

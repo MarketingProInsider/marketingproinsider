@@ -6,7 +6,6 @@ AUTHOR = 'Bilal Khalid'
 SITENAME = 'MarketingProInsider'
 SITEURL = ''
 CATEGORY = ''
-SITEMETATITLE = 'Achieve Your Goals with New Free Social Media Solutions Now'
 SITEDESCRIPTION = "Stay ahead of the competition by implementing the latest free social media solutions today. Don't miss out on this opportunity to revolutionize your online presence"
 DEFAULT_LOCALE = 'en_US'
 
@@ -102,11 +101,9 @@ LINKS = (
 
 # Social media links
 SOCIAL_MEDIA_LINKS = (
+    ('facebook-f', 'https://www.facebook.com/profile.php?id=61559969553167&mibextid=ZbWKwL'),
     ('linkedin', 'https://www.linkedin.com/company/103871776/'),
     ('pinterest', 'https://pin.it/dJggaRJ3K'),
-    ('reddit', 'https://www.reddit.com/user/MarketingProInsider/'),
-    ('quora', 'https://marketingproinsider.quora.com/'),
-    ('facebook-f', 'https://www.facebook.com/profile.php?id=61559969553167&mibextid=ZbWKwL'),
     # Add more social media links here
 )
 

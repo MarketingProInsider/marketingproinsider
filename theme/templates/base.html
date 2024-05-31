@@ -12,10 +12,8 @@
       href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"
       rel="stylesheet">
    {% endif %}
-   <title>
-      {% block title %}{% endblock %}
-      -
-      {{ SITENAME }}</title>
+   <title>{% set page_title %}{% block title %}{% endblock %}{% endset %}</title>
+   
    {% if FAVEICON %}
    <link rel="icon" href="{{ FAVEICON }}" type="image/x-icon">
    {% endif %}
@@ -46,12 +44,12 @@
    {% if page %}
    <!-- Page-specific meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
-   <meta name="title" content="{{ page.meta_title|striptags|escape }}">
+   <meta name="title" content="{{ page_title }}">
    <meta name="description" content="{{ page.description|striptags|escape }}">
    {% elif article %}
    <!-- Article-specific meta tags -->
    <meta name="author" content="{{ article.author.name }}">
-   <meta name="title" content="{{ article.meta_title|striptags|escape }}">
+   <meta name="title" content="{{ page_title }}">
    <meta name="description" content="{{ article.description|striptags|escape }}">
    {% elif category %}
    <!-- Category-specific meta tags -->
@@ -64,7 +62,7 @@
    {% else %}
    <!-- Default meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
-   <meta name="title" content="{{ SITEMETATITLE }}">
+   <meta name="title" content="{{ page_title }}">
    <meta name="description" content="{{ SITEDESCRIPTION }}">
    {% endif %}
    {% if OPEN_GRAPH %}
@@ -97,7 +95,7 @@
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-               <span class="navbar-toggler-icon"></span>
+               <span class="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                <ul class="navbar-nav ml-auto">
@@ -128,7 +126,7 @@
                      <a class="nav-link" href="/privacy">Privacy & Policy</a>
                   </li>
                   <li>
-                     <a class="nav-link" href="/faq">Frequently Asked Questions</a>
+                     <a class="nav-link" href="/faq">FAQs</a>
                   </li>
                </ul>
             </div>
