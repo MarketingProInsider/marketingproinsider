@@ -81,8 +81,8 @@ AUTHOR_URL_SAVE_AS = 'author/{slug}/index.html'
 
 # Pages
 TEMPLATE_PAGES = {
-    'contact.html': 'contact',
-    '404.html': '404',
+    'contact.html': 'contact.html',
+    '404.html': '404.html',
 }
 
 # Static files

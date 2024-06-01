@@ -939,7 +939,7 @@ footer .nav-link:hover {
 
 /* Hide the third column on small screens */
 @media (max-width: 576px) {
-	footer .row .col:nth-child(3) {
+	footer .row .col:nth-child(4) {
 		display: none;
 	}
 }
