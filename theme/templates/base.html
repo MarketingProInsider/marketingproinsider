@@ -18,24 +18,24 @@
    <link rel="icon" href="{{ FAVEICON }}" type="image/x-icon">
    {% endif %}
    <!-- Bootstrap core CSS -->
-   <link href="{{ SITEURL }}/theme/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+   <link href="/theme/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
    <!-- Additional CSS Files -->
    <script src="https://kit.fontawesome.com/642529fdb6.js" crossorigin="anonymous"></script>
-   <link rel="stylesheet" href="{{SITEURL}}/theme/assets/css/fontawesome.css">
-   <link rel="stylesheet" href="{{SITEURL}}/theme/assets/css/templatemo-stand-blog.css">
-   <link rel="stylesheet" href="{{SITEURL}}/theme/assets/css/owl.css">
+   <link rel="stylesheet" href="/theme/assets/css/fontawesome.css">
+   <link rel="stylesheet" href="/theme/assets/css/templatemo-stand-blog.css">
+   <link rel="stylesheet" href="/theme/assets/css/owl.css">
    {% if not PLUGINS or 'seo' not in PLUGINS %}
    {% if REL_CANONICAL %}
    {% if page %}
-   <link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
+   <link rel="canonical" href="/{{ page.url }}">
    {% elif article %}
-   <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
+   <link rel="canonical" href="/{{ article.url }}">
    {% elif page_name == 'index' and not articles_previous_page %}
    <link rel="canonical" href="{{ SITEURL }}">
    {% elif author or category or tag or page_name == 'index' %}
-   <link rel="canonical" href="{{ SITEURL }}/{{ articles_page.url }}">
+   <link rel="canonical" href="/{{ articles_page.url }}">
    {% else %}
-   <link rel="canonical" href="{{ SITEURL }}/{{ output_file }}">
+   <link rel="canonical" href="/{{ output_file }}">
    {% endif %}
    {% endif %}
    {% endif %}
@@ -90,7 +90,7 @@
       <nav class="navbar navbar-expand-lg">
          <div class="container">
             <a class="navbar-brand" href="/">
-               <img loading="lazy" src="{{SITEURL}}/theme/assets/images/contents/logo/MPI-Black-Logo.png" alt="Marketing Pro Insider Logo" style="max-width: 250px; height: auto;">
+               <img loading="lazy" src="/theme/assets/images/contents/logo/MPI-Black-Logo.png" alt="Marketing Pro Insider Logo" style="max-width: 250px; height: auto;">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -119,7 +119,7 @@
    <footer>
     <div class="container">
         <div class="row">
-            <div class="col mb-3"><img class="log" loading="lazy" src="{{SITEURL}}/theme/assets/images/contents/logo/MPI-White-Logo.jpg" alt="Marketing Pro Insider Logo" style="max-width: 250px; height: auto;"></div>
+            <div class="col mb-3"><img class="log" loading="lazy" src="/theme/assets/images/contents/logo/MPI-White-Logo.jpg" alt="Marketing Pro Insider Logo" style="max-width: 250px; height: auto;"></div>
             <div class="col mb-3"><a class="nav-link" href="/privacy">Privacy & Policy</a></div>
             <div class="col mb-3"><a class="nav-link" href="/faq">FAQs</a></div>
             <div class="col mb-3"></div>
@@ -145,10 +145,10 @@
       </div>
    </footer>
    <!-- Bootstrap core JavaScript -->
-   <script src="{{SITEURL}}/theme/vendor/jquery/jquery.min.js"></script>
-   <script src="{{SITEURL}}/theme/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+   <script src="/theme/vendor/jquery/jquery.min.js"></script>
+   <script src="/theme/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
    <!-- Additional Scripts -->
-   <script src="{{SITEURL}}/theme/assets/js/custom.js"></script>
+   <script src="/theme/assets/js/custom.js"></script>
    {% block defer_js_code %}{% endblock %}
 </body>
 
