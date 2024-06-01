@@ -19,3 +19,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+PELICAN_CONFIG_FILE= '.github/.workflows/pelican.yml'
+PELICAN_CONTENT_FOLDER= 'content/'
