@@ -134,7 +134,7 @@ SITEMAP = {
         'pages': 'weekly',
         'indexes': 'monthly',
     },
-    'exclude': ['archives', 'tags', 'categories', 'authors'],  # ex: ['categories', 'tags']
+    'exclude': ['404', 'archives', 'tags', 'categories', 'authors'],  # ex: ['categories', 'tags']
 }
 
 # SEO settings
