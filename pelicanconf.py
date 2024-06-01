@@ -53,36 +53,36 @@ AUTHOR_FEED_RSS = None
 
 # Article settings
 ARTICLE_URL = '{slug}'
-ARTICLE_SAVE_AS = '{slug}.html'
+ARTICLE_SAVE_AS = '{slug}'
 
 # Page settings
 PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_SAVE_AS = '{slug}/index'
 
 # Index settings
-INDEX_URL = '/'
-INDEX_SAVE_AS = 'index.html'
+INDEX_URL = ''
+INDEX_SAVE_AS = 'index'
 
 # Category settings
 CATEGORY_URL = 'category/{slug}/'
-CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+CATEGORY_SAVE_AS = 'category/{slug}/index'
 CATEGORY_PAGINATION_URL = 'category/{slug}/page/{number}/'
-CATEGORY_PAGINATION_SAVE_AS = 'category/{slug}/page/{number}/index.html'
+CATEGORY_PAGINATION_SAVE_AS = 'category/{slug}/page/{number}/index'
 
 # Tag settings
 TAG_URL = 'tag/{slug}/'
-TAG_SAVE_AS = 'tag/{slug}/index.html'
+TAG_SAVE_AS = 'tag/{slug}/index'
 TAG_PAGINATION_URL = 'tag/{slug}/page/{number}/'
-TAG_PAGINATION_SAVE_AS = 'tag/{slug}/page/{number}/index.html'
+TAG_PAGINATION_SAVE_AS = 'tag/{slug}/page/{number}/index'
 
 # Author settings
 AUTHOR_URL = 'author/{slug}/'
-AUTHOR_URL_SAVE_AS = 'author/{slug}/index.html'
+AUTHOR_URL_SAVE_AS = 'author/{slug}/index'
 
 # Pages
 TEMPLATE_PAGES = {
-    'contact.html': 'contact.html',
-    '404.html': '404.html',
+    'contact.html': 'contact',
+    '404.html': '404',
 }
 
 # Static files
@@ -111,7 +111,7 @@ SOCIAL_MEDIA_LINKS = (
 DEFAULT_PAGINATION = False
 '''PAGINATION_PATTERNS = (
     (1, '{url}', '{save_as}'),
-    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index'),
 )'''
 
 # Plugins
