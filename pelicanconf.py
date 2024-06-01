@@ -52,32 +52,32 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Article settings
-ARTICLE_URL = '{slug}'
-ARTICLE_SAVE_AS = '{slug}'
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}.html'
 
 # Page settings
 PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index'
+PAGE_SAVE_AS = '{slug}/index.html'
 
 # Index settings
 INDEX_URL = ''
-INDEX_SAVE_AS = 'index'
+INDEX_SAVE_AS = 'index.html'
 
 # Category settings
 CATEGORY_URL = 'category/{slug}/'
-CATEGORY_SAVE_AS = 'category/{slug}/index'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 CATEGORY_PAGINATION_URL = 'category/{slug}/page/{number}/'
-CATEGORY_PAGINATION_SAVE_AS = 'category/{slug}/page/{number}/index'
+CATEGORY_PAGINATION_SAVE_AS = 'category/{slug}/page/{number}/index.html'
 
 # Tag settings
 TAG_URL = 'tag/{slug}/'
-TAG_SAVE_AS = 'tag/{slug}/index'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
 TAG_PAGINATION_URL = 'tag/{slug}/page/{number}/'
-TAG_PAGINATION_SAVE_AS = 'tag/{slug}/page/{number}/index'
+TAG_PAGINATION_SAVE_AS = 'tag/{slug}/page/{number}/index.html'
 
 # Author settings
 AUTHOR_URL = 'author/{slug}/'
-AUTHOR_URL_SAVE_AS = 'author/{slug}/index'
+AUTHOR_URL_SAVE_AS = 'author/{slug}/index.html'
 
 # Pages
 TEMPLATE_PAGES = {
@@ -90,6 +90,7 @@ STATIC_PATHS = ['extra/robots.txt']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
 }
+
 
 # Blogroll links
 LINKS = (
@@ -133,7 +134,7 @@ SITEMAP = {
         'pages': 'weekly',
         'indexes': 'monthly',
     },
-    'exclude': [],  # ex: ['categories', 'tags']
+    'exclude': ['archives', 'tags', 'categories', 'authors'],  # ex: ['categories', 'tags']
 }
 
 # SEO settings
