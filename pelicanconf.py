@@ -4,7 +4,7 @@ import os
 # Author and site information
 AUTHOR = 'Bilal Khalid'
 SITENAME = 'MarketingProInsider'
-SITEURL = 'marketingproinsider.com'
+SITEURL = ''
 CATEGORY = ''
 SITEDESCRIPTION = "Stay ahead of the competition by implementing the latest free social media solutions today. Don't miss out on this opportunity to revolutionize your online presence"
 DEFAULT_LOCALE = 'en_US'
@@ -25,10 +25,10 @@ READERS = {'md': MarkdownReader}
 
 # Contact information
 CONTACT_INFORMATION = {
-    'Phone Number': '+92 342-270-0268',
-    'Email Address': 'captivesmeta@gmail.com',
-    'Street Address': 'Shahrah e Sher Shah Suri, North Nazimabad Town, Karachi, Pakistan',
-    'Map Embed URL': 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28941.979462981402!2d67.0418153!3d24.9406726!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33f8014fe5943%3A0x11df7a65effb1ef6!2sNorth%20Nazimabad%20Town%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh!5e0!3m2!1sen!2s!4v1713872000240!5m2!1sen!2s'
+    'Phone Number': '',
+    'Email Address': 'marketingproinsider@gmail.com',
+    'Street Address': "Al A'amal Street - Business Bay - Dubai - United Arab Emirates",
+    'Map Embed URL': "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.6860030359576!2d55.264665667777344!3d25.18007811938221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69cb98cd9041%3A0xe6be587070e7a89d!2sDAMAC%20Executive%20Bay!5e0!3m2!1sen!2s!4v1717221569842!5m2!1sen!2s"
 }
 
 # Content settings

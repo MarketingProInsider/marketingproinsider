@@ -3,7 +3,8 @@
 {{ category|striptags|escape }}
 {% endblock %}
 {% block section_title %}
-<h4>Recent Posts in "{{ category }}"</h4>
-<h2>Category:
-    {{ category }}</h2>
+<div class="text-content">
+    <h4>Recent Posts in "{{ category }}"</h4>
+    <h2>Category: {{ category }}</h2>
+</div>
 {% endblock %}

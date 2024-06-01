@@ -2,7 +2,9 @@
 {% block title %} {{tag|striptags|escape}} {% endblock %}
 
 {% block section_title %}
-<h4>Recent Posts in '{{ tag }}"</h4>
-<h2>Tag: {{ tag }}</h2>
+<div class="text-content">
+    <h4>Recent Posts in '{{ tag }}"</h4>
+    <h2>Tag: {{ tag }}</h2>
+</div>
 {% endblock %}
 

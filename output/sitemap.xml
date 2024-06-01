@@ -4,71 +4,71 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>marketingproinsider.com//</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>//</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/tags.html</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/categories.html</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/authors.html</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>/authors.html</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/archives.html</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/contact.html</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>/contact.html</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/404.html</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>/404.html</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/about/</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>/about/</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/faq/</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>/faq/</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/privacy/</loc>
-<lastmod>2024-06-01T09:34:21-00:00</lastmod>
+<loc>/privacy/</loc>
+<lastmod>2024-06-01T11:00:27-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>

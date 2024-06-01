@@ -70,32 +70,18 @@ h6 {
 	background-image: url(../images/heading-bg.jpg);
 }
 
-/* Media queries for further adjustments on different screen sizes */
-@media (max-width: 1200px) {
-	.page-heading {
-	  padding: 8vh 0;
-	}
-  }
-  
-  @media (max-width: 992px) {
-	.page-heading {
-	  padding: 6vh 0;
-	  text-align: center; /* Center align text on smaller screens */
-	}
-  }
-  
-  @media (max-width: 768px) {
-	.page-heading {
-	  padding: 4vh 0;
-	  margin: 0 5px; /* Reduce margins on smaller screens */
-	}
-  }
-  
-  @media (max-width: 576px) {
-	.page-heading {
-	  padding: 3vh 0;
-	}
-  }
+.banner {
+    margin: 0 auto; /* Center the banner horizontally */
+    text-align: center;
+    background-color: #f0f0f0; /* Add a background color for better contrast */
+}
+
+.banner img {
+    max-width: 100%; /* Ensure the image does not exceed the container width */
+    height: auto; /* Maintain the aspect ratio */
+    display: inline-block; /* Ensure the image is displayed as a block element */
+    border-radius: 10px; /* Add some border radius for a smoother look */
+}
 
 .page-heading .text-content h4 {
 	color: #f48840;

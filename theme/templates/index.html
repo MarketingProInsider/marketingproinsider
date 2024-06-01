@@ -3,16 +3,17 @@
 
 {% block content %}
 <div class="heading-page header-text">
-    <section class="page-heading">
+    <section class="">
       <!-- Recent Posts Banner -->
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <div class="text-content">
-              {% block section_title %}
-              <!-- Section Title for Recent Posts -->
-              {% endblock %}
+            {% block section_title %}
+            <!-- Section Title for Recent Posts -->
+            <div class="banner">
+              <img loading="lazy" src="{{SITEURL}}/theme/assets/images/banner.jpg" alt="Marketing Pro Insider Logo">
             </div>
+            {% endblock %}
           </div>
         </div>
       </div>
@@ -20,7 +21,7 @@
   </div>
   <!-- Banner Ends Here -->
   
-  <section class="blog-posts grid-system">
+  <section class="blog-posts grid-system" style="margin-top: 25px">
     <div class="container">
       <div class="row">
         <div class="col-lg-8">
