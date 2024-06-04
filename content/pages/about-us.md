@@ -2,7 +2,8 @@ Title: Exclusive free Social Media Tips to uplift your business
 Description: Explore new ways to uplift your social media strategy with practical and actionable free social media tips in this must-read blog post.
 Slug: about
 Save_as: about.html
-
+Thumbnail: /theme/assets/images/about_us_banner.jpg
+Alt: About us banner
 
 # About Us
 
