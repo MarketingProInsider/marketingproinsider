@@ -1,6 +1,7 @@
 # Import required module
 import os
 
+
 # Author and site information
 AUTHOR = 'Bilal Khalid'
 SITENAME = 'MarketingProInsider'

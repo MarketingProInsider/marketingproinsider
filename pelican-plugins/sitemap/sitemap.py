@@ -18,7 +18,6 @@ from pytz import timezone
 
 from pelican import signals, contents
 from pelican.utils import get_date
-
 log = logging.getLogger(__name__)
 
 TXT_HEADER = """{0}/index.html
@@ -37,10 +36,10 @@ XML_URL = """
 <url>
 <loc>{0}/{1}</loc>
 <lastmod>{2}</lastmod>
-<changefreq>{3}</changefreq>
 <priority>{4}</priority>
 </url>
 """
+#<changefreq>{3}</changefreq>
 
 XML_FOOTER = """
 </urlset>
@@ -177,7 +176,7 @@ class SitemapGenerator(object):
                     flag = True
                     break
             if not flag:
-                fd.write(XML_URL.format(self.siteurl, pageurl, lastmod, chfreq, pri))
+                fd.write(XML_URL.format(self.siteurl, pageurl.replace(".html", ""), lastmod, chfreq, pri))
         else:
             fd.write(self.siteurl + '/' + pageurl + '\n')
 
