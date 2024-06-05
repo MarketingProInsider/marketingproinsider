@@ -917,10 +917,8 @@ footer .row {
 }
 
 footer .logo-container {
-	position: absolute;
-	left: 0;
-	top: 50%;
-	transform: translateY(-50%);
+	max-width: 150px;
+	height: auto;
 }
 
 footer .nav-link {
