@@ -18,7 +18,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "G-J8RL7PZHWE"
 
 PELICAN_CONFIG_FILE= '.github/workflows/pelican.yml'
 PELICAN_CONTENT_FOLDER= 'content/'

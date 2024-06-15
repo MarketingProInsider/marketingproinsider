@@ -1,6 +1,7 @@
 # Import required module
 import os
 
+GOOGLE_ANALYTICS = "G-J8RL7PZHWE"
 
 # Author and site information
 AUTHOR = 'Bilal Khalid'
