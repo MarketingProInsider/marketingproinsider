@@ -42,7 +42,7 @@ DEFAULT_LANG = 'en'
 
 # Appearance settings
 SITELOGO = ""
-FAVEICON = '{}/theme/assets/images/icon.png'.format(SITEURL)
+FAVEICON = '{}/theme/assets/images/icon.jpeg'.format(SITEURL)
 DELETE_OUTPUT_DIRECTORY = True
 THEME = 'theme/'
 
