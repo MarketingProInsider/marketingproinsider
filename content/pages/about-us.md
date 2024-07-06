@@ -1,4 +1,4 @@
-Title: Exclusive free Social Media Tips to uplift your business
+Title: Social Media Solutions | Social Media Experts | Social Media Expert
 Description: Explore new ways to uplift your social media strategy with practical and actionable free social media tips in this must-read blog post.
 Slug: about
 Save_as: about.html
