@@ -27,10 +27,11 @@ As a marketing pro, knowing the basics of social media is key. At Marketing Pro 
 
 ### Mastering the Various Platforms
 Each social media platform like Facebook, Instagram, Twitter, and LinkedIn has its own special features. To be expert on social media , you need to get to know these well. Learn how to use their strengths to connect with your audience.
-- **Facebook:** Learn how visuals work, the power of community, and Facebook Ads targeting.
-- **Instagram:** Discover the art of telling stories with pictures, the power of Reels, and influencer marketing.
-- **Twitter:** Improve at making short, impactful tweets, engaging with followers, and using hashtags.
-- **LinkedIn:** Use the platform's professional network to show your skills, connect with peers, and target your content.
+
+**Facebook:** Learn how visuals work, the power of community, and Facebook Ads targeting.
+**Instagram:** Discover the art of telling stories with pictures, the power of Reels, and influencer marketing.
+**Twitter:** Improve at making short, impactful tweets, engaging with followers, and using hashtags
+**LinkedIn:** Use the platform's professional network to show your skills, connect with peers, and target your content.
 
 ### Knowing Your Target Audience
 Finding and understanding your audience is key in social media. Do thorough research on your audience, create detailed personas, and tailor your content to their needs. This way, you can build a strong connection with your audience.
