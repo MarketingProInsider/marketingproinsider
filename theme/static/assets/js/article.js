@@ -25,7 +25,7 @@ window.addEventListener('DOMContentLoaded', function() {
                   </div>
                   <div class="down-content">
                     <span>${article.category}</span>
-                    <a href="${article.slug}"><h4>${article.title}</h4></a>
+                    <a href="${article.SITEURL}/${article.slug}"><h4>${article.title}</h4></a>
                     <ul class="post-info">
                       ${article.author.map(author => `<li><a href="${author.url}">${author.name}</a></li>`).join('')}
                       <li><a href="">${article.date}</a></li>
