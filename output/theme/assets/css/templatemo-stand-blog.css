@@ -469,11 +469,23 @@ img {
 }
 
 .blog-posts .down-content {
-	padding: 40px;
+	padding: 10px;
 	border-right: 1px solid #eee;
 	border-left: 1px solid #eee;
 	border-bottom: 1px solid #eee;
 }
+
+.down-content ul {
+  list-style: none;
+}
+
+.down-content ul li:before {
+  content: '✓ ';
+}
+
+.down-content th, .down-content td {
+	border-style: solid;
+  }
 
 .blog-posts .down-content span {
 	font-size: 18px;
