@@ -464,6 +464,10 @@ header .navbar {
 	overflow: hidden;
 }
 
+img {
+	max-width: 100%;
+}
+
 .blog-posts .down-content {
 	padding: 40px;
 	border-right: 1px solid #eee;
