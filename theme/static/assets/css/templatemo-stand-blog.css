@@ -479,8 +479,13 @@ img {
   list-style: none;
 }
 
-.down-content ul li:before {
+.col-lg-12 .blog-post .down-content ul li:before {
   content: '✓ ';
+}
+
+.col-lg-8 .all-blog-posts .row .col-lg-12 .blog-posts .down-content p {
+	padding: 0px 0px;
+	margin: 0px 0px;
 }
 
 .down-content th, .down-content td {

@@ -6,7 +6,7 @@ GOOGLE_ANALYTICS = "G-J8RL7PZHWE"
 # Author and site information
 AUTHOR = 'Bilal Khalid'
 SITENAME = 'MarketingProInsider'
-SITEURL = 'marketingproinsider.com'
+SITEURL = ''
 CATEGORY = ''
 SITEDESCRIPTION = "Stay ahead of the competition by implementing the latest free social media solutions today. Don't miss out on this opportunity to revolutionize your online presence"
 DEFAULT_LOCALE = 'en_US'
