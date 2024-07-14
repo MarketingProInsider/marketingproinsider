@@ -479,9 +479,21 @@ img {
   list-style: none;
 }
 
+/* Add a checkmark before each <li> in specific sections */
 .col-lg-12 .blog-post .down-content ul li:before {
-  content: '✓ ';
+	content: '✓ ';
 }
+  
+/* Reset content for other specific elements */
+.post-info,
+.post-info li,
+.row .col-6 .post-tags,
+.row .col-6 .post-tags li,
+.row .col-6 .post-share,
+.row .col-6 .post-share li {
+	content: none;
+}
+  
 
 .col-lg-8 .all-blog-posts .row .col-lg-12 .blog-posts .down-content p {
 	padding: 0px 0px;
