@@ -484,8 +484,8 @@ img {
 }
 
 .blog-posts .down-content ul.post-info li::before,
-.blog-posts .down-content ul.post-tags li,
-.blog-posts .down-content ul.post-share li {
+.blog-posts .down-content ul.post-tags li::before,
+.blog-posts .down-content ul.post-share li::before {
 	content: none;
 }
 
