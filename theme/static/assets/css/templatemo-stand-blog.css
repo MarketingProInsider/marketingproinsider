@@ -188,7 +188,6 @@ h6 {
 
 /* Header Style */
 header {
-	position: absolute;
 	z-index: 99999;
 	width: 100%;
 	height: 100px;
@@ -441,7 +440,7 @@ header .navbar {
 /* Blog Posts */
 
 .blog-posts {
-	margin-top: 100px;
+	margin-top: 20px;
 }
 
 .blog-posts .blog-post {
@@ -484,17 +483,6 @@ img {
 	content: '• ';
 }
   
-/* Reset content for other specific elements */
-.post-info,
-.post-info li,
-.row .col-6 .post-tags,
-.row .col-6 .post-tags li,
-.row .col-6 .post-share,
-.row .col-6 .post-share li,
-.col-lg-12 .blog-post .down-content h4 + ul li:before {
-	content: none;
-}
-  
 
 .col-lg-8 .all-blog-posts .row .col-lg-12 .blog-posts .down-content p {
 	padding: 0px 0px;
@@ -525,6 +513,7 @@ img {
 .blog-posts .down-content ul.post-info li {
 	display: inline-block;
 	margin-right: 8px;
+	content: none;
 }
 
 .blog-posts .down-content ul.post-info li:after {
@@ -575,6 +564,7 @@ img {
 .blog-posts .down-content ul.post-tags li,
 .blog-posts .down-content ul.post-share li {
 	display: inline-block;
+	content: none;
 }
 
 .blog-posts .down-content ul.post-tags li:first-child i,
