@@ -481,7 +481,7 @@ img {
 
 /* Add a checkmark before each <li> in specific sections */
 .col-lg-12 .blog-post .down-content ul li:before {
-	content: '✓ ';
+	content: '• ';
 }
   
 /* Reset content for other specific elements */
@@ -490,7 +490,8 @@ img {
 .row .col-6 .post-tags,
 .row .col-6 .post-tags li,
 .row .col-6 .post-share,
-.row .col-6 .post-share li {
+.row .col-6 .post-share li,
+.col-lg-12 .blog-post .down-content h4 + ul li:before {
 	content: none;
 }
   
