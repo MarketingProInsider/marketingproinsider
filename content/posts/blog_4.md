@@ -88,14 +88,19 @@ Smart businesses get ready for the unexpected. They make detailed backup plans t
 
 ## FAQ
 *What are the common causes of social media outages?*
+
 Social media outages can happen for many reasons. These include technical problems, network issues, data center failures, or cyberattacks. These issues can lead to lost connections, missed chances, and financial losses for people and businesses.
 
 *How can I stay informed during a social media platform crash?*
+
 It's key to keep up with the latest news during social media outages. Check the official platform status pages and follow trusted news sources. Also, use other ways to communicate with your loved ones and work team.
 
 *What are some alternative communication channels I can use when social media is down?*
+
 Having other ways to communicate is vital during a social media outage. You can use messaging apps, video calls, email, or phone calls. This helps keep you connected and productive, even when social media is down.
 
 *How can businesses prepare for social media outages?*
+
 Businesses that use social media a lot should be ready for outages. They should have backup plans, use different communication tools, and not rely too much on social media. Being prepared helps businesses keep running smoothly during social media problems.
+
 [Read Most Relevant Blog](https://marketingproinsider.com/)
