@@ -120,3 +120,6 @@ Using just one social media app can work well, but using many can be even more p
 ## FAQ
 *What are the most popular social media apps in the US?*
 In the US, the top social media apps are Facebook, Instagram, Twitter, TikTok,
+
+## Most Relevant Blogs
+[Social Media Down? What To Do When Platforms Crash](https://marketingproinsider.com/social-media-down)
