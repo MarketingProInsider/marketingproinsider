@@ -103,4 +103,4 @@ Having other ways to communicate is vital during a social media outage. You can 
 
 Businesses that use social media a lot should be ready for outages. They should have backup plans, use different communication tools, and not rely too much on social media. Being prepared helps businesses keep running smoothly during social media problems.
 
-[Read Most Relevant Blog](https://marketingproinsider.com/)
+[Must Read Blog](https://marketingproinsider.com/how-do-i-become-a-social-media-specialist)
