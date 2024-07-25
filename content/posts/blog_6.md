@@ -4,7 +4,7 @@ Slug: What-is-social-media-app-banality-of-life
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_6.jpg
 Author: Max Quinton
 resume: Social media's "banality of life" refers to the boredom and disconnection from overuse. Balance online time with offline activities to stay fulfilled.....
-Category: Social Media Marketing
+Category: Social Media 
 Tags: social media app banality of life, soical media apps, social media experts, social media marketing, social media tips, digital marketing, social media strategy
 Date: 2024-07-26
 Alt: social media app banality of life
