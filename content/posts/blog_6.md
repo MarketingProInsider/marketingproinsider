@@ -10,7 +10,7 @@ Date: 2024-07-26
 Alt: social media app banality of life
 Status: published
 
-Did you know the average American adult spends almost 3 hours daily on social media? This fact shows how big an impact these platforms have on our lives. Marketing Pro Insider, a top (social media expert] (https://marketingproinsider.com/about)), says this constant online time can make us feel bored, uninterested, and disconnected. This is what they call the "banality of life" on social media.
+Did you know the average American adult spends almost 3 hours daily on social media? This fact shows how big an impact these platforms have on our lives. Marketing Pro Insider, a top [social media expert] (https://marketingproinsider.com/about), says this constant online time can make us feel bored, uninterested, and disconnected. This is what they call the "banality of life" on social media.
 
 ### Key Takeaways
 
@@ -73,7 +73,6 @@ Social media is now a big part of our daily lives. It changes how we talk, see, 
 Social media makes our lives better in many ways. It helps us stay in touch with family and friends. We can share our lives and feel part of a community.
 
 These platforms are great for learning new things and expressing ourselves. They let us meet people who think like us and discover new hobbies.
-
 - Improved social connections and relationships
 - Access to a wealth of information and educational resources
 - Opportunities for personal growth and self-expression
@@ -83,7 +82,6 @@ These platforms are great for learning new things and expressing ourselves. They
 But, social media isn't all good. Using it too much can make us less productive and more anxious. It can make us feel bad about ourselves.
 
 Seeing perfect images online can make us feel like we're not good enough. The fear of missing out can also make us unhappy.
-
 - Reduced productivity and attention span
 - Increased feelings of anxiety, depression, and social isolation
 - Distorted perception of reality and unrealistic expectations
@@ -99,7 +97,6 @@ Social media apps are a big part of our lives today. It's important to find ways
 ### Finding Balance in the Digital Age
 
 To get this balance, Marketing Pro Insider offers some tips:
-
 - Limit your social media use to certain times, like during lunch or in the evenings.
 - Make time for real-life socializing and activities, like hanging out with friends or enjoying hobbies.
 - Choose what you see on social media to keep it interesting and useful.
