@@ -5,31 +5,55 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>marketingproinsider.com/</loc>
-<lastmod>2024-07-21T16:08:56-00:00</lastmod>
+<lastmod>2024-07-29T02:12:20-00:00</lastmod>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>marketingproinsider.com/contact</loc>
-<lastmod>2024-07-21T16:08:56-00:00</lastmod>
+<lastmod>2024-07-29T02:12:20-00:00</lastmod>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>marketingproinsider.com/about/</loc>
-<lastmod>2024-07-21T16:08:56-00:00</lastmod>
+<lastmod>2024-07-29T02:12:20-00:00</lastmod>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>marketingproinsider.com/faq/</loc>
-<lastmod>2024-07-21T16:08:56-00:00</lastmod>
+<lastmod>2024-07-29T02:12:20-00:00</lastmod>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>marketingproinsider.com/privacy/</loc>
-<lastmod>2024-07-21T16:08:56-00:00</lastmod>
+<lastmod>2024-07-29T02:12:20-00:00</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/What-is-social-media-app-banality-of-life/</loc>
+<lastmod>2024-07-26T00:00:00+02:00</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/What-are-the-Best-Social-Media-Apps-in-the-US/</loc>
+<lastmod>2024-07-25T00:00:00+02:00</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/social-media-down/</loc>
+<lastmod>2024-07-23T00:00:00+02:00</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/how-do-i-become-a-social-media-specialist/</loc>
+<lastmod>2024-07-22T00:00:00+02:00</lastmod>
 <priority>0.5</priority>
 </url>
 
@@ -52,38 +76,80 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>marketingproinsider.com/category/social-media/</loc>
+<lastmod>2024-07-26T00:00:00+00:50</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/category/social-media-management/</loc>
+<lastmod>2024-07-23T00:00:00+00:50</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/category/social-media-marketing/</loc>
+<lastmod>2024-07-25T00:00:00+00:50</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/tag/social-media-app-banality-of-life/</loc>
+<lastmod>2024-07-26T00:00:00+00:50</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/tag/soical-media-apps/</loc>
+<lastmod>2024-07-26T00:00:00+00:50</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>marketingproinsider.com/tag/social-media-experts/</loc>
-<lastmod>2024-07-08T00:00:00+00:50</lastmod>
+<lastmod>2024-07-26T00:00:00+00:50</lastmod>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>marketingproinsider.com/tag/social-media-marketing/</loc>
-<lastmod>2024-07-08T00:00:00+00:50</lastmod>
+<lastmod>2024-07-26T00:00:00+00:50</lastmod>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>marketingproinsider.com/tag/influencer-marketing/</loc>
-<lastmod>2024-07-08T00:00:00+00:50</lastmod>
+<loc>marketingproinsider.com/tag/social-media-tips/</loc>
+<lastmod>2024-07-26T00:00:00+00:50</lastmod>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>marketingproinsider.com/tag/digital-marketing/</loc>
-<lastmod>2024-07-08T00:00:00+00:50</lastmod>
+<lastmod>2024-07-26T00:00:00+00:50</lastmod>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>marketingproinsider.com/tag/social-media-strategy/</loc>
-<lastmod>2024-07-08T00:00:00+00:50</lastmod>
+<lastmod>2024-07-26T00:00:00+00:50</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/tag/influencer-marketing/</loc>
+<lastmod>2024-07-25T00:00:00+00:50</lastmod>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>marketingproinsider.com/tag/social-media-downs/</loc>
+<lastmod>2024-07-23T00:00:00+00:50</lastmod>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>marketingproinsider.com/author/max-quinton/</loc>
-<lastmod>2024-07-08T00:00:00+00:50</lastmod>
+<lastmod>2024-07-26T00:00:00+00:50</lastmod>
 <priority>0.5</priority>
 </url>
 

@@ -1,9 +1,9 @@
 Title: What is social media app banality of life?
-Description: Explore the "banality of life" on social media—where endless scrolling can lead to boredom and disconnection. Discover practical tips and strategies to balance your online and real-world life effectively.
+Description: Explore the banality of life on social media—where endless scrolling can lead to boredom and disconnection. Discover practical tips and strategies to balance your online and real-world life effectively.
 Slug: What-is-social-media-app-banality-of-life
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_6.jpg
 Author: Max Quinton
-resume: Social media's "banality of life" refers to the boredom and disconnection from overuse. Balance online time with offline activities to stay fulfilled.....
+resume: Social medias banality of life refers to the boredom and disconnection from overuse. Balance online time with offline activities to stay fulfilled.....
 Category: Social Media 
 Tags: social media app banality of life, soical media apps, social media experts, social media marketing, social media tips, digital marketing, social media strategy
 Date: 2024-07-26
