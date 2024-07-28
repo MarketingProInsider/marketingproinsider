@@ -556,7 +556,6 @@ img {
 }
 
 .blog-posts .down-content p {
-	padding: 25px 0px;
 	margin: 25px 0px;
 	/* border-top: 1px solid #eee;
 	border-bottom: 1px solid #eee; */
@@ -694,10 +693,6 @@ ul.page-numbers li a:hover {
 	font-weight: 400;
 	letter-spacing: 0.25px;
 	margin-left: 20px;
-}
-
-.blog-posts .submit-comment {
-	margin-top: 60px;
 }
 
 .blog-posts .submit-comment input {

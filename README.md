@@ -58,10 +58,11 @@ Features:
 *   **Free updates & support:** Stand Bog is constantly updated with new features and bug fixes. You also get free support from the PyPiThemes team.
 
 ## To Build
-a
+pelican content -o output
 
 ## To listen
-pelican content
+pelican --listen 
+
 ## To debug:
 pelican content --debug > pelicandebug.txt
 

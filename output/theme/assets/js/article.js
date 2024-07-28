@@ -9,6 +9,8 @@ window.addEventListener('DOMContentLoaded', function() {
       // Get the JSON value from the hidden input field
       var inputValueJson = hiddenInput.value;
 
+      console.log(inputValueJson)
+
       // Parse the JSON value
       var inputArray = JSON.parse(inputValueJson);
 
