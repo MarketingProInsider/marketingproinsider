@@ -5,7 +5,7 @@ Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_8.jpg
 Author: Professor.John
 resume: Master social media marketing with these 5 key steps: set goals, know your audience, pick platforms, create engaging content, and track performance......
 Category: Social Media Marketing 
-Tags: steps in social media marketing, Social Media Planner, social media app banality of life, soical media apps, social media experts, social media marketing, social media tips, digital marketing, marketing, social media strategy
+Tags: steps in social media marketing, soical media apps, social media experts, social media marketing, social media tips, digital marketing, marketing, social media strategy
 Date: 2024-07-30
 Alt: Steps in Social Media Marketing
 Status: published
