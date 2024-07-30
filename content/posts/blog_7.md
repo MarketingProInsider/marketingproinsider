@@ -56,7 +56,7 @@ Developing a customized social media planner template involves several steps tha
 ### Setting Goals
 The first step in creating a social media planner template is to set clear goals. What do you hope to achieve through your social media marketing efforts? Whether it's increasing brand awareness, driving website traffic, or generating leads, having specific objectives will guide your content strategy.
 
-When setting goals, consider using the SMART criteria—Specific, Measurable, Achievable, Relevant, and Time-bound. For example, instead of saying, "I want more followers," a SMART goal would be, "I want to increase my Instagram followers by 20% within three months." This clarity will help you stay focused and measure progress effectively.
+When setting goals, consider using the SMART criteria—Specific, Measurable, Achievable, Relevant, and Time-bound. For example, instead of saying, I want more followers, a SMART goal would be, I want to increase my Instagram followers by 20% within three months. This clarity will help you stay focused and measure progress effectively.
 
 ### Defining Target Audiences
 
