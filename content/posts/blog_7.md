@@ -20,7 +20,7 @@ One of the primary benefits of using a social media planner is improved organiza
 
 When content is organized in advance, it reduces the last-minute scramble to create posts, leading to higher quality content. Marketers can take the time to craft thoughtful messages that resonate with their audience rather than rushing to meet deadlines. This level of organization fosters creativity and encourages teams to brainstorm innovative ideas for engaging content.
 
-![Social Media Planner](/theme/assets/images/contents/post/blog_7_pic_1.jpg)
+![Social Media Planner](/theme/assets/images/contents/post/blog_7_pic_1.png)
 ### Enhanced Consistency
 Consistency is key in social media marketing. A well-structured social media planner ensures that brands maintain a regular posting schedule, which is crucial for building and retaining an audience. When followers know when to expect new content, they are more likely to engage with the brand and develop a sense of loyalty.
 
