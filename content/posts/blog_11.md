@@ -1,4 +1,4 @@
-Title: what are the top social media platforms in the us??
+Title: what are the top social media platforms in the us?
 Description: Explore top social media platforms in the U.S., their unique features, and how to leverage them for effective marketing. Stay ahead with expert insights!
 Slug: top-social-media-platforms-us-marketing-guide
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_11.png
