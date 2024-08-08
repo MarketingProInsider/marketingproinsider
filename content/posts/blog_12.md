@@ -22,7 +22,7 @@ OOH marketing is characterized by its ability to create brand awareness and driv
 ### History and Evolution of OOH Advertising
 The roots of OOH advertising can be traced back to ancient civilizations, where merchants used signs to attract customers to their shops. Over the centuries, OOH advertising has evolved dramatically, particularly with the advent of modern technology. The introduction of lithography in the 19th century allowed for more colorful and visually appealing posters, paving the way for the billboard industry.
 
-![OOH marketing](/theme/assets/images/contents/post/blog_12_pic_1.png)
+![OOH marketing](/theme/assets/images/contents/post/blog_12_pic_1.jpg)
 In the mid-20th century, the rise of automobiles led to the proliferation of roadside billboards, becoming a staple of American culture. As urbanization increased, so did the demand for OOH advertising in cities, leading to the development of transit advertising on buses and subways. The late 20th century saw the emergence of digital billboards, revolutionizing the industry by allowing for dynamic content and real-time updates.
 
 Today, OOH marketing continues to evolve with advancements in technology, including programmatic buying and interactive displays. The integration of data analytics and geolocation targeting has further enhanced the effectiveness of OOH campaigns, enabling advertisers to reach specific audiences with precision.
@@ -44,7 +44,7 @@ Street furniture advertising involves placing advertisements on public amenities
 
 Bus shelters are particularly effective for OOH advertising, as they serve as waiting areas for commuters. Advertisements placed in these shelters can capture the attention of individuals waiting for transportation, creating a moment of engagement. Similarly, benches and kiosks located in busy pedestrian areas can serve as valuable advertising platforms, allowing brands to connect with consumers in a relaxed setting.
 
-![OOH marketing](/theme/assets/images/contents/post/blog_12_pic_2.png)
+![OOH marketing](/theme/assets/images/contents/post/blog_12_pic_2.jpg)
 ### Place-Based Advertising: Malls, Airports, and Stadiums
 Place-based advertising refers to targeted advertising in specific venues where consumers gather, such as shopping malls, airports, and sports stadiums. This type of OOH marketing allows brands to reach consumers in environments where they are likely to make purchasing decisions.
 
@@ -74,7 +74,7 @@ Geolocation technology has transformed the way brands approach OOH marketing by 
 
 Audience measurement tools can provide insights into foot traffic patterns, dwell times, and demographic profiles of individuals exposed to OOH ads. This data allows brands to optimize their placements and ensure they are reaching the right audience at the right time. Additionally, geolocation data can inform digital retargeting efforts, creating a seamless experience for consumers as they transition between online and offline interactions.
 
-![OOH marketing](/theme/assets/images/contents/post/blog_12_pic_3.png)
+![OOH marketing](/theme/assets/images/contents/post/blog_12_pic_3.jpg)
 ## Crafting Effective OOH Advertising Messages
 
 ### Importance of Visual Appeal
