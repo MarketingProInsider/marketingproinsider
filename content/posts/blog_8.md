@@ -1,7 +1,7 @@
 Title: 5 steps in social media marketing?
 Description: Discover the 5 essential steps for successful social media marketing: set clear goals, understand your audience, choose the right platforms, create engaging content, and monitor performance.
 Slug: steps-in-social-media-marketing
-Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_8.png
+Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_8.jpg
 Author: Professor.John
 resume: Master social media marketing with these 5 key steps: set goals, know your audience, pick platforms, create engaging content, and track performance......
 Category: Social Media Marketing 
