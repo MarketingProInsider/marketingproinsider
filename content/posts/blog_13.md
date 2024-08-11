@@ -68,7 +68,9 @@ Creating an effective marketing funnel requires careful planning and execution. 
 Several tools can assist in building and optimizing your marketing funnel. These tools range from customer relationship management (CRM) software to marketing automation platforms. Some popular options include:
 
 **HubSpot:** [HubSpot](https://www.hubspot.com/products/get-started-am-cr003?irclickid=1dPxlSXH7xyPUXn24c1FV1ZXUkCz74zDW24sSQ0&irgwc=1&mpid=3196359&utm_id=am3196359&utm_medium=am&utm_source=am3196359&utm_campaign=amcid_1dPxlSXH7xyPUXn24c1FV1ZXUkCz74zDW24sSQ0_irpid_3196359) offers a comprehensive suite of marketing tools, including CRM, email marketing, and analytics. It allows businesses to create and manage their marketing funnels seamlessly.
+
 **ClickFunnels:** [ClickFunnels](https://www.clickfunnels.com/) specializes in building sales funnels and landing pages. It provides templates and features that simplify the process of creating high-converting funnels.
+
 **Mailchimp:** [Mailchimp](https://mailchimp.com/landers/email-marketing-platform/?ds_c=DEPT_AOC_Google_Search_ROW_EN_Brand_Acquire_Omega_MKAG_T3&ds_kids=p78376200121&ds_a_lid=kwd-2285511033&ds_cid=71700000115522774&ds_agid=58700008586041551&gad_source=1&gclid=Cj0KCQjwwuG1BhCnARIsAFWBUC1YYaIVOo827LhQP00Z2RIAhCI3Be_e7Wo_qqxCDFMEWWp4qQAElZAaAmL1EALw_wcB&gclsrc=aw.ds) is an email marketing platform that also offers automation features. It allows businesses to nurture leads through targeted email campaigns based on their position in the marketing funnel.
 
 By utilizing these tools, businesses can streamline their marketing efforts and create a more efficient marketing funnel.
