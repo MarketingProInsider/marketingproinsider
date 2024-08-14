@@ -66,18 +66,18 @@
                           <ul class="post-share">
                             <li><i class="fa fa-share-alt"></i></li>
                             {% if article.share_post['twitter'] %}
-                            <li><a href="{{ article.share_post['twitter'] }}" title="Share on Twitter">Twitter</a></li>
+                            <li><a href="{{ article.share_post['twitter'] }}" title="Share on Twitter"><i class="fa-brands fa-twitter" aria-hidden="true"></i></a></li>
                             {% endif %}
                             {% if article.share_post['facebook'] %}
-                            <li><a href="{{ article.share_post['facebook'] }}" title="Share on Facebook">Facebook</a>
+                            <li><a href="{{ article.share_post['facebook'] }}" title="Share on Facebook"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
                             </li>
                             {% endif %}
                             {% if article.share_post['linkedin'] %}
-                            <li><a href="{{ article.share_post['linkedin'] }}" title="Share on LinkedIn">LinkedIn</a>
+                            <li><a href="{{ article.share_post['linkedin'] }}" title="Share on LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
                             </li>
                             {% endif %}
                             {% if article.share_post['reddit'] %}
-                            <li><a href="{{ article.share_post['reddit'] }}" title="Share via Reddit">Reddit</a></li>
+                            <li><a href="{{ article.share_post['reddit'] }}" title="Share via Reddit"><i class="fa-brands fa-reddit" aria-hidden="true"></a></li>
                             {% endif %}
                           </ul>
                         </div>
