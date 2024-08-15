@@ -4,7 +4,7 @@ import os
 GOOGLE_ANALYTICS = "G-J8RL7PZHWE"
 
 # Author and site information
-AUTHOR = 'Bilal Khalid'
+AUTHOR = 'Professor John'
 SITENAME = 'MarketingProInsider'
 SITEURL = 'marketingproinsider.com'
 CATEGORY = ''
@@ -52,6 +52,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+# Limitting related posts
+RELATED_POSTS_MAX = 10
 
 # Article settings
 ARTICLE_URL = '{slug}/'
