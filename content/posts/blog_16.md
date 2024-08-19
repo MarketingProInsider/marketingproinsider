@@ -293,7 +293,7 @@ Social media specialists rely on data to inform decision-making.
 ## Tracking Performance Metrics
 They can analyze key performance metrics to assess the effectiveness of campaigns. By evaluating engagement rates, reach, and conversions, specialists can identify areas for improvement.
 
-### *Adjusting Strategies*
+- Adjusting Strategies
 Based on performance insights, specialists can adjust strategies and tactics to optimize future campaigns. Continuous monitoring allows brands to stay agile and responsive to shifting consumer preferences.
 
 ## Conclusion:
