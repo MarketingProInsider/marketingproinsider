@@ -1,5 +1,5 @@
 Title: how to become experts on social media?
-Description: "Learn the essential strategies and techniques to master social media, build a strong online presence, and connect with your target audience. Discover insights from Marketing Pro Insider on creating engaging content, leveraging data and analytics, and staying up-to-date with the latest social media trends.
+Description: Master social media with Marketing Pro Insider. Build your online presence, engage your audience, and stay ahead with the latest trends and techniques!
 Slug: how-to-become-experts-on-social-media
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_2.jpg
 Author: Max Quinton
