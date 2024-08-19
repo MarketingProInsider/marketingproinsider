@@ -1,4 +1,4 @@
-Title: What is a Marketing Funnel? Simple Steps to Understand and Make One
+Title: What is a Marketing Funnel? Simple Steps to Understand
 Description: Discover the marketing funnel's stages from awareness to purchase. Learn to map, optimize, and enhance conversions with practical strategies and real-world examples.
 Slug: marketing-funnel-guide-stages-strategies
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_13.png
