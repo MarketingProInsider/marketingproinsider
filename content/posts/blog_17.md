@@ -141,7 +141,7 @@ Social media helps increase brand visibility and engage customers. It lets you r
 ### What responsibilities does a social media marketing specialist have?
 A *social media marketing specialist* creates social media strategies and manages accounts. They make and share content, analyze data, and help with community interactions. They mix creativity with analytics to improve your brand's online image.
 
-#### How can hiring a social media specialist benefit my company?
+### How can hiring a social media specialist benefit my company?
 Hiring a social media specialist brings expert knowledge of social media and strategies tailored to your business goals. This ensures every post and ad helps your business grow.
 
 ### What types of content are most engaging on social media platforms?
