@@ -79,12 +79,12 @@ Mixing videos, images, and text posts creates a varied content mix. Storytelling
 
 By using these tips, brands can get more visible and engage more people on different platforms. Making content that starts conversations helps build deeper connections and spreads the word. This focus on engaging content keeps audiences coming back and helps a brand stand out in the social media world.
 
-| Content Type            | Platform        | Engagement Potential      |
-|-------------------------|-----------------|---------------------------|
-| Infographics            | Instagram       | High                      |
-| Short Videos            | TikTok          | Very High                 |
-| Long-form Articles      | LinkedIn        | Moderate                  |
-| Live Streams            | Facebook        | High                      |
+|   Content Type            |     Platform        |     Engagement Potential      |
+|---------------------------|---------------------|-------------------------------|
+|    Infographics           |     Instagram       |     High                      |
+|   Short Videos            |     TikTok          |     Very High                 |
+|   Long-form Articles      |     LinkedIn        |     Moderate                  |
+|   Live Streams            |     Facebook        |     High                      |
 
 
 #### Managing Your Social Media Accounts Effectively
