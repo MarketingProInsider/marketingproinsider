@@ -8,7 +8,7 @@ resume: Boost your business with a social media specialist who crafts strategies
 Category: Social Media Marketing
 Tags: Social Media Specialist, Digital Marketing, Social Media Strategy, Content Creation, Online Presence, Brand Engagement, Social Media Management, Business Growth, Audience Engagement, Marketing Metrics
 Date: 2024-08-20
-Alt: Food Marketing
+Alt: Social Media Specialist
 Status: published 
 
 # Why do you need a social media specialist for your business? Find Out!
