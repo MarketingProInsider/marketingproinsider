@@ -1,4 +1,3 @@
-
 Title: Why do you need a social media specialist for your business?
 Description: Discover how a social media specialist can boost your business with tailored strategies, engaging content, and expert account management.
 Slug: social-media-specialist-benefits
