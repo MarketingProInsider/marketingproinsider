@@ -41,24 +41,19 @@ Before picking the right social media for your business, it's key to know your a
 Demographic analysis looks at basic traits like age, gender, where they live, their income, and education. This info helps you see which social media they use most. For instance, if your audience is mostly young adults, Instagram and TikTok might work better than LinkedIn.
 
 #### Psychographic Profiling
-Demographic Factors
-Psychographic Factors
-Age
-Gender
-Location
-Income
-Education Level
-Interests and Hobbies
-Values and Beliefs
-Lifestyle and Habits
-Motivations and Aspirations
-Pain Points and Challenges
+Psychographic profiling digs deeper than just basic traits. It looks at what drives your audience, what they value, and what they're interested in. Knowing this lets you make content that meets their needs and interests. This is key to a social media plan that really connects with your audience.
 
+| **Demographic Factors** | **Psychographic Factors**     |
+|-------------------------|------------------------------|
+| Age                     | Interests and Hobbies        |
+| Gender                  | Values and Beliefs           |
+| Location                | Lifestyle and Habits         |
+| Income                  | Motivations and Aspirations  |
+| Education Level         | Pain Points and Challenges   |
 
-Create an image of a diverse group of people standing on different social media platforms, each platform representing a different target audience. Each person is visually connected to the platform that best represents their demographic. The platforms are presented as colorful and dynamic, suggesting the unique opportunities they offer for businesses to connect with customers.
+![Best Social Media Platforms for Business](/theme/assets/images/contents/post/blog_17_pic_2d.jpg)
+
 Knowing your audience's demographics and psychographics helps you craft a social media plan that hits the mark. This way, you can meet your business goals.
-
-![Best Social Media Platforms for Business](/theme/assets/images/contents/post/blog_17_pic_2.jpg)
 
 #### Evaluating Popular Social Media Platforms
 In the world of digital marketing, knowing the differences between social media platforms is key. Each one has its own special features and users. This can greatly affect how well a brand does in social media marketing.
