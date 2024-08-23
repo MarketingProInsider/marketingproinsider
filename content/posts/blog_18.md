@@ -32,7 +32,7 @@ By using the power of social media platforms, businesses can open up new chances
 
 A vibrant collage of iconic logos from the top social media platforms, each with their unique color scheme and shape. The symbols should overlap and interweave, creating a sense of unity and connectivity. The background should have a subtle gradient that complements the colors of the logos.
 
-![Best Social Media Platforms for Business](/theme/assets/images/contents/post/blog_17_pic_1.jpg)
+![Best Social Media Platforms for Business](/theme/assets/images/contents/post/blog_18_pic_1.jpg)
 
 ### Understanding Your Target Audience on Social Media
 Before picking the right social media for your business, it's key to know your audience. Doing demographic and psychographic studies gives you insights into who your ideal customers are. This knowledge lets you choose the best social media and make content they'll love.
@@ -51,7 +51,7 @@ Psychographic profiling digs deeper than just basic traits. It looks at what dri
 | Income                  | Motivations and Aspirations  |
 | Education Level         | Pain Points and Challenges   |
 
-![Best Social Media Platforms for Business](/theme/assets/images/contents/post/blog_17_pic_2d.jpg)
+![Best Social Media Platforms for Business](/theme/assets/images/contents/post/blog_18_pic_2d.jpg)
 
 Knowing your audience's demographics and psychographics helps you craft a social media plan that hits the mark. This way, you can meet your business goals.
 
