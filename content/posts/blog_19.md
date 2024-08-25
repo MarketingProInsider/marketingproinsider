@@ -147,12 +147,12 @@ Creating ads that grab attention is also crucial. Your ads should look good, mak
 **Test and optimize:** Try out different versions of your ads and see which ones work best. Use the data to improve your strategy.
 
 Being able to track how well your ads are doing is key. Use the tools on social platforms to see things like how many people saw your ad, how they reacted to it, and what they did next. This helps you make better choices for your **social advertising** in the future.
+
 | Platform    | Targeting Options                                  | Key Metrics                                        |
 |-------------|----------------------------------------------------|----------------------------------------------------|
 | Facebook    | Demographics, interests, behaviors, online activities | Reach, engagement, conversions, cost per acquisition |
 | Instagram   | Demographics, interests, behaviors, location     | Reach, impressions, engagement, click-through rate |
 | LinkedIn    | Job title, industry, company size, skills, interests | Impressions, click-through rate, conversion rate, cost per lead |
-
 
 By getting good at social advertising, you can make the most of your social media marketing. This means more people will see your brand, interact with it, and maybe even buy something from you or your digital marketing agency.
 
