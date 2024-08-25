@@ -44,22 +44,11 @@ In today's digital world, knowing how to use social media is key for those wanti
 The digital marketing courses here are for all levels. They cover the basics of social media and go all the way to advanced topics like making content, analyzing data, and managing campaigns. These online courses give you everything you need to be great at social media.
 
 There are courses on popular social networks and special topics like influencer marketing and handling crises. This selection makes sure you find a course that matches your goals and level. Start learning and become a top social media expert!
-Course Title
-Platform
-Level
-Key Takeaways
-Social Media Marketing Masterclass
-[Udemy](https://www.udemy.com/courses/business/)
-Beginner
-Fundamentals of social media platforms, content creation, and campaign planning.
-Advanced Social Media Strategies
-[Coursera](https://www.coursera.org/courseraplus?utm_source=gg&utm_medium=sem&utm_campaign=b2c_apac_coursera-plus_coursera_ftcof_subscription_arte_dec-23_dr_geo-pk_sem_rsa_gads_lg-all&utm_content=b2c&campaignid=20882940687&adgroupid=160111577194&device=c&keyword=coursera&matchtype=e&network=g&devicemodel=&adpostion=&creativeid=696907040380&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwrKu2BhDkARIsAD7GBot15giHUp_0Hmc7p31lTlyQiT_TiA-xfJ8wC-28mCiZmckNu2yNMnAaAn03EALw_wcB) 
-Intermediate
-Mastering social media analytics, influencer marketing, and crisis management.
-Social Media for Business Growth
-Skillshare
-Advanced
-Leveraging social media to drive business objectives, **community building**, and *emerging trend**.
+| Course Title                     | Platform                                                                 | Level       | Key Takeaways                                                                 |
+|----------------------------------|--------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------|
+| Social Media Marketing Masterclass | [Udemy](https://www.udemy.com/courses/business/)                         | Beginner    | Fundamentals of social media platforms, content creation, and campaign planning. |
+| Advanced Social Media Strategies  | [Coursera](https://www.coursera.org/courseraplus?utm_source=gg&utm_medium=sem&utm_campaign=b2c_apac_coursera-plus_coursera_ftcof_subscription_arte_dec-23_dr_geo-pk_sem_rsa_gads_lg-all&utm_content=b2c&campaignid=20882940687&adgroupid=160111577194&device=c&keyword=coursera&matchtype=e&network=g&devicemodel=&adpostion=&creativeid=696907040380&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwrKu2BhDkARIsAD7GBot15giHUp_0Hmc7p31lTlyQiT_TiA-xfJ8wC-28mCiZmckNu2yNMnAaAn03EALw_wcB) | Intermediate | Mastering social media analytics, influencer marketing, and crisis management. |
+| Social Media for Business Growth  | Skillshare                                                               | Advanced    | Leveraging social media to drive business objectives, community building, and emerging trends.  |
 
 Take your skills to the next level as a [social media specialist](https://marketingproinsider.com/) with these top digital marketing courses and online courses. They're made to boost your abilities in the fast-changing world of social media.
 
@@ -87,18 +76,13 @@ There are many social media metrics, but focusing on the right ones is important
 **Click-through rate:** The percentage of users who click on your content or calls-to-action.
 **Conversions:** The actions your audience takes, like visiting your website, generating leads, or making a purchase.
 Reviewing these *metrics* often gives social media pros deep insights. They learn about their audience, how well their content does, and the success of their marketing efforts.
-Metric
-Definition
-Why it Matters
-Engagement Rate
-The level of interaction (likes, comments, shares) with your content
-Shows how well your content grabs your audience's attention and keeps them engaged.
-Reach
-The number of people who have seen your content, including both organic and paid reach
-Shows how wide your content spreads and the chance to get new leads or customers.
-Follower Growth
-The growth of your social media following over time
-Shows how well you're building a loyal audience and growing your brand's reach.
+
+| Metric           | Definition                                                                  | Why it Matters                                                                               |
+|------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Engagement Rate  | The level of interaction (likes, comments, shares) with your content        | Shows how well your content grabs your audience's attention and keeps them engaged.          |
+| Reach            | The number of people who have seen your content, including both organic and paid reach | Shows how wide your content spreads and the chance to get new leads or customers.             |
+| Follower Growth  | The growth of your social media following over time                         | Shows how well you're building a loyal audience and growing your brand's reach.              |
+
 
 Using social media analytics helps digital marketing pros refine their strategies. They can make content that grabs attention and drive success for their brands.
 
@@ -127,18 +111,12 @@ Being consistent is important in **social media marketing**. This part will show
 - Use content from your followers and work with influencers
 
 Learning how to make a good content calendar will help you stay strong on social media. You'll keep your followers engaged and interested in what you share.
-Content Format
-Key Considerations
-Engagement Potential
-Text-based Posts
-Concise, captivating captions; use of hashtags and relevant keywords
-High for driving discussions and conversations
-Visual Content (Images, Videos)
-Aesthetically pleasing, on-brand visuals; strategic use of multimedia
-High for capturing attention and inspiring shares
-Interactive Elements
-Polls, quizzes, user-generated content that encourages participation
-High for fostering audience engagement and building a sense of community
+
+| Content Format        | Key Considerations                                             | Engagement Potential                                   |
+|-----------------------|---------------------------------------------------------------|------------------------------------------------------|
+| Text-based Posts      | Concise, captivating captions; use of hashtags and relevant keywords | High for driving discussions and conversations       |
+| Visual Content (Images, Videos) | Aesthetically pleasing, on-brand visuals; strategic use of multimedia | High for capturing attention and inspiring shares   |
+| Interactive Elements  | Polls, quizzes, user-generated content that encourages participation | High for fostering audience engagement and building a sense of community |
 
 This Content Creation Masterclass for Social Channels will give you the skills and strategies to boost your** social media marketing** efforts. You'll learn how to make content that really speaks to your audience and performs well.
 
@@ -164,18 +142,12 @@ Creating ads that grab attention is also crucial. Your ads should look good, mak
 **Test and optimize:** Try out different versions of your ads and see which ones work best. Use the data to improve your strategy.
 
 Being able to track how well your ads are doing is key. Use the tools on social platforms to see things like how many people saw your ad, how they reacted to it, and what they did next. This helps you make better choices for your **social advertising** in the future.
-Platform
-Targeting Options
-Key Metrics
-Facebook
-Demographics, interests, behaviors, online activities
-Reach, engagement, conversions, cost per acquisition
-Instagram
-Demographics, interests, behaviors, location
-Reach, impressions, engagement, click-through rate
-LinkedIn
-Job title, industry, company size, skills, interests
-Impressions, click-through rate, conversion rate, cost per lead
+| Platform    | Targeting Options                                  | Key Metrics                                        |
+|-------------|----------------------------------------------------|----------------------------------------------------|
+| Facebook    | Demographics, interests, behaviors, online activities | Reach, engagement, conversions, cost per acquisition |
+| Instagram   | Demographics, interests, behaviors, location     | Reach, impressions, engagement, click-through rate |
+| LinkedIn    | Job title, industry, company size, skills, interests | Impressions, click-through rate, conversion rate, cost per lead |
+
 
 By getting good at social advertising, you can make the most of your social media marketing. This means more people will see your brand, interact with it, and maybe even buy something from you or your digital marketing agency.
 
@@ -192,35 +164,34 @@ When a social media crisis hits, act fast, be real, and show you care. Keep an e
 - Keep an eye on what people say online and answer quickly to any new feedback or complaints.
 
 By taking charge of your brand's social media and having a solid crisis plan, you can handle tough situations well. This keeps your reputation positive.
-Effective Strategies for Social Media Crisis Management
-Benefits
-Rapid response and acknowledgment of the issue
-Shows you're open and quick to act, calming the situation
-Providing solutions and a plan of action
-Shows you're serious about fixing the problem and gaining back customer trust
-Leveraging positive brand stories
-Helps balance out the negative views and highlights your brand's values
-Developing a comprehensive crisis communication plan
-Ensures a well-thought-out and consistent answer on all social channels
-Continuous monitoring and reputation management
-Keeps you on top of new issues and keeps your online image positive
+
+| Effective Strategies for Social Media Crisis Management | Benefits                                               |
+|----------------------------------------------------------|--------------------------------------------------------|
+| Rapid response and acknowledgment of the issue          | Shows you're open and quick to act, calming the situation |
+| Providing solutions and a plan of action                | Shows you're serious about fixing the problem and gaining back customer trust |
+| Leveraging positive brand stories                        | Helps balance out the negative views and highlights your brand's values |
+| Developing a comprehensive crisis communication plan      | Ensures a well-thought-out and consistent answer on all social channels |
+| Continuous monitoring and reputation management          | Keeps you on top of new issues and keeps your online image positive |
+
 
 Handling crises on social media well is key to keeping a strong brand and gaining trust from your audience. By using these strategies, social media pros can confidently get through tough times and come out even stronger.
 
 #### Emerging Trends in the Social Media Landscape
 In the fast-changing world of **digital marketing**, staying up-to-date with new trends is key. Social media specialists need to keep an eye on changes to stay ahead. New trends are changing how brands and specialists plan their social media campaigns.
+
 Short-form video content is becoming a big deal. TikTok and Instagram Reels are winning over fans with their short, engaging videos. This has made **social media specialists** rethink their content. Now, making short, catchy videos is a must for **digital marketing** pros.
+
 There's also a big push for **social media** communities and content made by users. People want real, relatable stories. **Social media specialists** are using their followers to create true, engaging stories. Building strong online communities is now key for brands.
+
 Augmented reality (AR) and virtual reality (VR) are also big in **social media**. Brands are using these techs to connect with people in new ways. They're making the digital and real worlds mix together.
+
 As **emerging trends** keep changing **social media, social media specialists** must be ready to adapt. They need to be open to new ideas and willing to try new things. This way, they can use social platforms fully and make campaigns that really speak to their audience.
-Emerging Trend
-Impact on Social Media Strategies
-Short-form Video Content
-Requires the development of attention-grabbing, visually compelling video content for platforms like TikTok and Instagram Reels
-Social Media Communities and User-Generated Content
-Necessitates a focus on fostering authentic, engaged communities and leveraging the power of user-generated content
-Augmented Reality (AR) and Virtual Reality (VR)
-Presents opportunities for brands to create immersive, interactive experiences that blur the lines between digital and physical realms
+
+| Emerging Trend                              | Impact on Social Media Strategies                                               |
+|---------------------------------------------|-----------------------------------------------------------------------------------|
+| Short-form Video Content                    | Requires the development of attention-grabbing, visually compelling video content for platforms like TikTok and Instagram Reels |
+| Social Media Communities and User-Generated Content | Necessitates a focus on fostering authentic, engaged communities and leveraging the power of user-generated content |
+| Augmented Reality (AR) and Virtual Reality (VR) | Presents opportunities for brands to create immersive, interactive experiences that blur the lines between digital and physical realms |
 
 #### Crafting a Winning Social Media Marketing Plan
 Creating a solid social media **marketing plan** is key for businesses and individuals aiming to succeed online. This part of the course covers how to make a strategy that fits your brand, audience, and the competition.
@@ -231,20 +202,16 @@ Here are the main parts of a good social media **marketing plan**:
 - Plan your content with a mix of educational, fun, and promotional posts to keep people interested.
 - Run social media campaigns that bring real results, like more website visits or sales.
 - Check your social media stats often to see how well you're doing and tweak your strategy based on the data.
+
 Mastering these key points will help you create a top-notch social media marketing plan. This plan will help your brand soar in the digital world.
 
-Key Components of a Social Media Marketing Plan
-Description
-Goal Setting
-Clearly define your social media marketing objectives, such as increased brand awareness, lead generation, or customer engagement.
-Platform Selection
-Identify the social media platforms that are most relevant to your target audience and align with your brand's messaging.
-Content Planning
-Create a content calendar that incorporates a mix of educational, entertaining, and promotional content to keep your audience engaged.
-Campaign Execution
-Develop and execute social media campaigns that drive measurable results, such as increased website traffic or conversions.
-Performance Evaluation
-Regularly analyze your social media analytics to measure the success of your efforts and make data-driven adjustments to your strategy.
+| Key Components of a Social Media Marketing Plan | Description                                                                                      |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Goal Setting                                    | Clearly define your social media marketing objectives, such as increased brand awareness, lead generation, or customer engagement. |
+| Platform Selection                              | Identify the social media platforms that are most relevant to your target audience and align with your brand's messaging. |
+| Content Planning                                | Create a content calendar that incorporates a mix of educational, entertaining, and promotional content to keep your audience engaged. |
+| Campaign Execution                              | Develop and execute social media campaigns that drive measurable results, such as increased website traffic or conversions. |
+| Performance Evaluation                          | Regularly analyze your social media analytics to measure the success of your efforts and make data-driven adjustments to your strategy. |
 
 By getting good at these key parts, aspiring digital marketing pros can make a strong and effective marketing plan. This plan will help your brand do well on social media for a long time.
 "A well-crafted social media **marketing plan** is the foundation for a brand's digital success. It's not just about posting content, but rather a strategic approach to connecting with your audience and achieving your business goals."
