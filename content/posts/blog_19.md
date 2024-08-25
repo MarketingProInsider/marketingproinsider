@@ -36,6 +36,8 @@ To succeed in social media marketing, you need to know the strengths and weaknes
 
 By getting good at **social media marketing**, businesses and agencies can make a strong online presence. They can connect deeply with their audience and see real results from their efforts.
 
+![Social Media Courses](/theme/assets/images/contents/post/blog_19_pic_1.jpg)
+
 "Effective social media marketing is not about being everywhere, but about being where your audience is and providing them with value."
 
 #### Social Media Courses
@@ -51,6 +53,8 @@ There are courses on popular social networks and special topics like influencer 
 | Social Media for Business Growth  | Skillshare                                                               | Advanced    | Leveraging social media to drive business objectives, community building, and emerging trends.  |
 
 Take your skills to the next level as a [social media specialist](https://marketingproinsider.com/) with these top digital marketing courses and online courses. They're made to boost your abilities in the fast-changing world of social media.
+
+![Social Media Courses](/theme/assets/images/contents/post/blog_19_pic_2.jpg)
 
 #### Unleashing the Power of Influencer Marketing
 In today's fast-changing social media world, influencer marketing is a key strategy for smart social media marketing agencies. These courses teach future pros how to find, work with, and use influencers to spread the word about their brands. This helps increase their brand's reach and interaction on different platforms.
@@ -258,3 +262,6 @@ The courses talk about the latest social media trends. You'll learn about new pl
 #### How do the courses help in crafting a winning social media marketing plan?
 The final part of the courses teaches how to make a successful social media marketing plan. You'll learn to set goals, choose platforms, plan content, execute campaigns, and evaluate their success. This aligns with your brand and audience.
 
+---
+#### Relevant Blogs
+[what are the best social media platforms for a business?](https://marketingproinsider.com/best-social-media-platforms-business)
