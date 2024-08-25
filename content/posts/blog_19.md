@@ -1,10 +1,10 @@
-Title: top social media sourses to become a social media specialist
+Title: top social media courses to become a social media specialist
 Description: Discover the top 5 online social media courses to boost your digital marketing skills, whether you're a beginner or looking to refine your expertise.
 Slug: top-social-media-courses
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_19.jpg
 Author: Professor. John
 resume: This blog explores the top 5 online social media courses, providing valuable insights for beginners and experts to enhance their digital marketing skills.
-Category: Social Media Marketing
+Category: Social Media
 Tags: SocialMediaCourses, DigitalMarketing, OnlineLearning, MarketingSkills, SocialMediaTraining, DigitalSkills, OnlineCourses, SocialMediaMarketing, ProfessionalDevelopment, MarketingEducation
 Date: 2024-08-26
 Alt: Social Media Courses
@@ -46,6 +46,7 @@ In today's digital world, knowing how to use social media is key for those wanti
 The digital marketing courses here are for all levels. They cover the basics of social media and go all the way to advanced topics like making content, analyzing data, and managing campaigns. These online courses give you everything you need to be great at social media.
 
 There are courses on popular social networks and special topics like influencer marketing and handling crises. This selection makes sure you find a course that matches your goals and level. Start learning and become a top social media expert!
+
 | Course Title                     | Platform                                                                 | Level       | Key Takeaways                                                                 |
 |----------------------------------|--------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------|
 | Social Media Marketing Masterclass | [Udemy](https://www.udemy.com/courses/business/)                         | Beginner    | Fundamentals of social media platforms, content creation, and campaign planning. |
