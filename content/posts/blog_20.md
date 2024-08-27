@@ -88,9 +88,9 @@ Moreover, online courses often incorporate various multimedia formats, such as v
 Several platforms specialize in providing high-quality online digital marketing courses. Notable options include:
 
 - [Coursera](https://www.coursera.org/)
-- Udemy
-- LinkedIn Learning
-- edX
+- [Udemy](https://www.udemy.com/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/)
+- [edX](https://www.edx.org/)
 
 Each platform offers a unique selection of courses taught by industry experts, allowing students to choose programs that align with their interests and level of expertise.
 
