@@ -20,6 +20,8 @@ Digital marketing courses provide an extensive overview of marketing strategies 
 
 The structured nature of these courses allows students to gain insights into how digital marketing fits into the larger context of overall marketing strategy. By understanding the tools and techniques used in digital marketing, students can develop campaigns that effectively engage target audiences.
 
+![Digital Marketing Courses](/theme/assets/images/contents/post/blog_20_pic_2.jpg)
+
 ####  Importance of Digital Marketing Courses
 In an era where consumers spend substantial time online, businesses must adapt their marketing strategies to reach potential clients effectively. Digital marketing courses empower students with knowledge and skills that are highly sought after in the job market.
 A well-rounded foundation in digital marketing equips students to contribute meaningfully to their organizations' marketing efforts. Whether it's crafting engaging social media campaigns or optimizing website content for search engines, the benefits of a digital marketing course are myriad.
@@ -43,6 +45,8 @@ Ultimately, digital marketing courses serve as a catalyst for professional growt
 #### Digital Marketing Course in the US
 Digital marketing courses in the US are offered by a variety of institutions, ranging from universities and colleges to specialized training centers. Many reputable educational establishments have recognized the importance of digital marketing and introduced dedicated programs to meet the growing demand for knowledgeable professionals.
 With a diverse array of options available, prospective students can select courses that align with their career goals, preferred learning styles, and schedules.
+
+![Digital Marketing Courses](/theme/assets/images/contents/post/blog_20_pic_1.jpg)
 
 #### Types of Digital Marketing Courses Available
 In the US, students can choose from different types of digital marketing courses, including:
