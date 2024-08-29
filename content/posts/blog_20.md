@@ -6,7 +6,7 @@ Author: Professor. John
 resume: Explore top digital marketing courses in the US, covering SEO, social media, and more. Learn from renowned institutions online or in-person, enhancing your marketing career.
 Category: Digital Marketing Education
 Tags: Digital Marketing, Online Courses, Social Media Marketing, SEO, Marketing Education, US Universities, Career Growth, Online Learning, Marketing Skills
-Date: 2024-08-26
+Date: 2024-08-28
 Alt: Digital Marketing Courses
 Status: published 
 
