@@ -1,4 +1,4 @@
-Title: tailored marketing solutions: experts in your industry
+Title: Tailored marketing solutions: Experts in your industry
 Description: Discover how tailored marketing solutions, driven by industry expertise, can elevate your brand, engage your audience, and fuel sustainable growth.
 Slug: tailored-marketing-solutions
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_21.png
