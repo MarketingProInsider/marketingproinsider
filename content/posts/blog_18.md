@@ -1,4 +1,4 @@
-Title: what are the best social media platforms for a business?
+Title: What are the best social media platforms for a business?
 Description: Discover the top social media platforms that can elevate your business's online presence. Learn which platforms are best for reaching your target audience and driving growth.
 Slug: best-social-media-platforms-business
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_18.jpg
@@ -55,7 +55,7 @@ Psychographic profiling digs deeper than just basic traits. It looks at what dri
 | Income                  | Motivations and Aspirations  |
 | Education Level         | Pain Points and Challenges   |
 
-![Best Social Media Platforms for Business](/theme/assets/images/contents/post/blog_18_pic_2d.jpg)
+![Best Social Media Platforms for Business](/theme/assets/images/contents/post/blog_18_pic_2.jpg)
 
 Knowing your audience's demographics and psychographics helps you craft a social media plan that hits the mark. This way, you can meet your business goals.
 
