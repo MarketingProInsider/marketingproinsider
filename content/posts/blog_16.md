@@ -1,4 +1,4 @@
-Title: food marketing on social media: strategies & tactics
+Title: Food marketing on social media: Strategies & tactics
 Description: Explore key food marketing strategies, digital trends, and the power of social media in building brand loyalty and driving sales in the food industry.
 Slug: food-marketing-strategies
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_16.png

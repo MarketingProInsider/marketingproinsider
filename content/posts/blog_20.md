@@ -1,4 +1,4 @@
-Title: all you need on digital marketing courses in the us
+Title: All you need on digital marketing courses in the us
 Description: Discover top US digital marketing courses, from SEO to social media, offered online and in-person, to boost your career with expert insights and skills.
 Slug: top-us-digital-marketing-courses
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_20.jpg

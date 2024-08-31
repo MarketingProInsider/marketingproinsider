@@ -1,4 +1,4 @@
-Title: top social media courses to become a social media specialist
+Title: Top social media courses to become a social media specialist
 Description: Discover the top 5 online social media courses to boost your digital marketing skills, whether you're a beginner or looking to refine your expertise.
 Slug: top-social-media-courses
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_19.jpg
@@ -153,7 +153,7 @@ Being able to track how well your ads are doing is key. Use the tools on social 
 | Facebook    | Demographics, interests, behaviors, online activities | Reach, engagement, conversions, cost per acquisition |
 | Instagram   | Demographics, interests, behaviors, location     | Reach, impressions, engagement, click-through rate |
 | LinkedIn    | Job title, industry, company size, skills, interests | Impressions, click-through rate, conversion rate, cost per lead |
-
+d
 By getting good at social advertising, you can make the most of your social media marketing. This means more people will see your brand, interact with it, and maybe even buy something from you or your digital marketing agency.
 
 #### Management on Social Media Platforms

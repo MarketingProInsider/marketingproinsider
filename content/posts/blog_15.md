@@ -1,4 +1,4 @@
-Title: Do You Know the Best Time to Post on Instagram?
+Title: Do you know the best time to post on instagram?
 Description: Discover the best times to post on Instagram with insights into audience behavior, industry trends, and effective strategies for maximizing engagement.
 Slug: best-time-to-post-on-instagram
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_15.png
