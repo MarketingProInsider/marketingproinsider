@@ -358,8 +358,8 @@ Businesses that adapt to these shifts in consumer behavior can position themselv
 #### Case Studies: Real-World Examples of Successful Digital Marketing Campaigns
 Examining real-world case studies can provide valuable insights into the effectiveness of various digital marketing strategies. This section will explore notable examples of successful campaigns, highlighting key takeaways and lessons learned.
 
-#### Nike's "Dream Crazy" Campaign
-[Nike's "Dream Crazy" campaign](https://www.wk.com/work/nike-dream-crazy/) featuring Colin Kaepernick sparked widespread conversation and engagement. The campaign's message centered around inspiring individuals to pursue their dreams, regardless of obstacles.
+#### Nike's Dream Crazy Campaign
+[Nike's Dream Crazy campaign](https://www.wk.com/work/nike-dream-crazy/) featuring Colin Kaepernick sparked widespread conversation and engagement. The campaign's message centered around inspiring individuals to pursue their dreams, regardless of obstacles.
 
 Through powerful storytelling and emotive visuals, Nike successfully resonated with a diverse audience. The campaign resulted in significant social media engagement and a boost in sales, demonstrating the effectiveness of authentic messaging and aligning with consumer values.
 
@@ -368,8 +368,8 @@ Airbnb's approach to marketing emphasizes user-generated content, showcasing aut
 
 This strategy encourages social sharing and amplifies brand visibility. The success of Airbnb's campaigns illustrates the power of community-driven content in fostering genuine connections with target audiences.
 
-#### Coca-Cola's "Share a Coke" Campaign
-Coca-Cola's "Share a Coke" campaign personalized the consumer experience by replacing the iconic logo on bottles with popular names. This innovative approach encouraged customers to seek out bottles with their names and share photos on social media.
+#### Coca-Cola's Share a Coke Campaign
+Coca-Cola's Share a Coke campaign personalized the consumer experience by replacing the iconic logo on bottles with popular names. This innovative approach encouraged customers to seek out bottles with their names and share photos on social media.
 
 The campaign led to increased brand engagement, a surge in sales, and a resurgence of popularity for Coca-Cola. The success of this campaign underscores the importance of personalization in marketing.
 
