@@ -6,7 +6,7 @@ Thumbnail: /theme/assets/images/privacy_policy_banner.jpg
 Alt: privacy and policy
 
 # Privacy and Policy
-Welcome to Marketing Pro Insider, your go-to source for [social media knowledge](https://marketingproinsider.com/faq) and solutions. Our website is dedicated to providing expert guidance and tips for social media marketers looking to enhance their performance and stay ahead of the curve in the ever-evolving landscape of [social media marketing](https://marketingproinsider.com/faq).
+Welcome to Marketing Pro Insider, your go-to source for social media knowledge and solutions. Our website is dedicated to providing expert guidance and tips for social media marketers looking to enhance their performance and stay ahead of the curve in the ever-evolving landscape of [social media marketing](https://marketingproinsider.com/faq).
 
 ## Data Collection and Usage
 
@@ -22,11 +22,11 @@ As your trusted source for social media knowledge, Marketing Pro Insider aims to
 
 ## Social Media Marketing Solutions
 
-Looking for innovative [social media marketing solutions](https://marketingproinsider.com/about) to elevate your brand's online presence? Marketing Pro Insider has you covered. Our team of experts is dedicated to providing you with cutting-edge strategies and tactics to maximize your social media marketing efforts.
+Looking for innovative [social media marketing solutions](https://marketingproinsider.com/contact) to elevate your brand's online presence? Marketing Pro Insider has you covered. Our team of experts is dedicated to providing you with cutting-edge strategies and tactics to maximize your social media marketing efforts.
 
 ## The Future of Social Media Marketing
 
-With the rapid evolution of [social media platforms](https://marketingproinsider.com/contact) and algorithms, staying ahead of the curve is essential for success in the digital space. Marketing Pro Insider keeps you informed about the latest trends and updates in social media marketing, ensuring that you are always one step ahead of the competition.
+With the rapid evolution of social media platforms and algorithms, staying ahead of the curve is essential for success in the digital space. Marketing Pro Insider keeps you informed about the latest trends and updates in social media marketing, ensuring that you are always one step ahead of the competition.
 
 ## Expert Insights in Social Media
 
