@@ -2,8 +2,8 @@ Title: What does a digital marketer do? A comprehensive overview
 Description: Explore the role of digital marketers and essential small business strategies in this guide to navigating the complexities of modern digital marketing.
 Slug: what-does-a-digital-marketer-do
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_22.png
-Author: Professor. John
-resume: This blog covers the role of digital marketers, key strategies for small businesses, and essential SEO techniques for thriving in today's digital landscape.
+Author: Professor John
+resume: This blog covers the role of digital marketers, key strategies for small businesses, and essential SEO techniques for thriving in todays digital landscape.
 Category: Digital Marketing
 Tags: Digital Marketing, Small Business Marketing, SEO Strategies, Online Presence, Social Media Marketing, Marketing Strategy, Brand Visibility, Customer Engagement, Email Marketing
 Date: 2024-09-01
