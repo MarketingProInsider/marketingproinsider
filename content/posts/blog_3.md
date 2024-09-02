@@ -10,6 +10,7 @@ Date: 2024-07-22
 Alt: experts on social media
 Status: published
 
+# How do i become a social media specialist
 In today's world, being a [social media specialist](https://marketingproinsider.com/) is more important than ever. More companies see the value of social media for reaching customers and growing their brands. But what steps do you need to take to start this career? Marketing Pro Insider, a top name in social media advice, can guide you on this path.
 
 ## Key Takeaways

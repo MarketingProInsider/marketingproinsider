@@ -10,6 +10,7 @@ Date: 2024-07-23
 Alt: social media down
 Status: published
 
+# Social media down? what to do when platforms crash
 Social media is a big part of our lives today, for both fun and work. But what if these platforms suddenly go down? It's important to know what to do when this happens.[Marketing Pro Insider](https://marketingproinsider.com/) offers expert advice and solutions for when social media crashes.
 Ever thought about what are the common causes of social media outages, and how can you stay informed during these disruptions? This article will look into why social media goes down and how to keep in touch when it's not working.
 
