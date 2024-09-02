@@ -187,26 +187,14 @@ Short-form videos dominating platforms like TikTok and Instagram Reels. Increase
 Growing demand for socially responsible brand actions. Preference for interactive content over passive consumption. Increased usage of social media for customer support and feedback.
 
 ### Market Positioning
-Metrics
-Competitor A
-Competitor B
-Competitor C
-Followers (Instagram)
-500K
-1M
-750K
-Engagement Rate (%)
-4.5
-6.2
-5.1
-Weekly Post Frequency
-15
-20
-18
-Influencer Partnerships
-10
-25
-15
+
+| Metrics                | Competitor A | Competitor B | Competitor C |
+|------------------------|--------------|--------------|--------------|
+| Followers (Instagram) | 500K         | 1M           | 750K         |
+| Engagement Rate (%)   | 4.5          | 6.2          | 5.1          |
+| Weekly Post Frequency | 15           | 20           | 18           |
+| Influencer Partnerships | 10          | 25           | 15           |
+
 
 ### Best Practices
 
