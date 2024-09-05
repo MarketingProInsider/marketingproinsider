@@ -23,7 +23,7 @@ window.addEventListener('DOMContentLoaded', function() {
               <div class="col-lg-6">
                 <div class="blog-post">
                   <div class="blog-thumb">
-                    <img loading="lazy" src="${article.SITEURL}/${article.thumbnail}" alt="${article.alt || ''}">
+                    <img loading="lazy" style="height: 180px; width: 320px;" src="${article.SITEURL}/${article.thumbnail}" alt="${article.alt || ''}">
                   </div>
                   <div class="down-content">
                     <span>${article.category}</span>
