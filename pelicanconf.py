@@ -11,6 +11,12 @@ CATEGORY = ''
 SITEDESCRIPTION = "Stay ahead of the competition by implementing the latest free social media solutions today. Don't miss out on this opportunity to revolutionize your online presence"
 DEFAULT_LOCALE = 'en_US'
 
+# Minify permissions
+CSS_MIN = True
+HTML_MIN = True
+INLINE_CSS_MIN = True
+INLINE_JS_MIN = True
+
 # To read markdown file in 
 MARKDOWN = {
     'extension_configs': {
@@ -123,7 +129,7 @@ DEFAULT_PAGINATION = False
 # Plugins
 PLUGINS_PATH = os.path.join(os.getcwd(), "pelican-plugins")
 PLUGIN_PATHS = [PLUGINS_PATH]
-PLUGINS = ["sitemap", "articlejson", "share_post"]
+PLUGINS = ["sitemap", "articlejson", "share_post", "minify"]
 
 # Sitemap settings
 SITEMAP = {

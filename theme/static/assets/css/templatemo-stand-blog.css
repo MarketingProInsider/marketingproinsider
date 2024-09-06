@@ -565,6 +565,15 @@ img {
 	text-align: right;
 }
 
+.blog-posts .down-content ul li {
+	all: unset;
+	font-weight: normal !important;
+	font-style: normal;
+	font-family: san-serif;
+	font-size: 15px;
+	color: #7a7a7a;
+}
+
 .blog-posts .down-content ul.post-tags li,
 .blog-posts .down-content ul.post-share li {
 	display: inline-block;
