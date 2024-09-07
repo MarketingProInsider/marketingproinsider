@@ -1,4 +1,4 @@
-Title: Understanding OOH Marketing: Strategies, Benefits, and Best Practices
+Title: OOH Marketing: Strategies, Benefits, and Best Practices
 Description: Dive into OOH marketing: its history, types, strategies, and innovations. Learn how tech and data enhance campaign effectiveness and audience engagement.
 Slug: understanding-ooh-marketing-strategies
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_12.jpg
