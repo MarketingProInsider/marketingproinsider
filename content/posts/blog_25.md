@@ -275,7 +275,7 @@ Focus on clear and persuasive copy that highlights the benefits of your offering
 
 A/B testing different versions of landing pages allows you to identify which elements resonate most with your audience. By continuously refining your landing pages based on data-driven insights, you can enhance conversion rates over time.
 
-![Tailored Marketing Solutions](/theme/assets/images/contents/post/blog_25_pic_8.jpg)
+![Tailored Marketing Solutions](/theme/assets/images/contents/post/blog_25_pic_8.png)
 
 #### Leveraging Retargeting Strategies
 Retargeting strategies enable businesses to reconnect with potential customers who have engaged with their brand but have yet to convert. This method involves displaying targeted ads to visitors who have previously interacted with your website or social media profiles.
