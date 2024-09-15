@@ -3,7 +3,7 @@ Description: Explore the role of digital marketers and essential small business 
 Slug: what-does-a-digital-marketer-do
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_22.png
 Author: Professor John
-resume: This blog covers the role of digital marketers, key strategies for small businesses, and essential SEO techniques for thriving in today's digital landscape.
+resume: This blog covers the role of digital marketers, key strategies for small businesses, and essential SEO techniques for thriving in todays digital landscape.
 Category: Digital Marketing
 Tags: Digital Marketing, Small Business Marketing, SEO Strategies, Online Presence, Social Media Marketing, Marketing Strategy, Brand Visibility, Customer Engagement, Email Marketing
 Date: 2024-09-01
