@@ -9,7 +9,6 @@ Tags: Social Media Management, Daily Routine, Social Media Specialist, Content C
 Date: 2024-09-18
 Alt: Social Media Specialist
 Status: published
-![Social Media Specialist](/theme/assets/images/contents/post/blog_30_pic_1.jpg)
 
 # Daily Routine of a Successful Social Media Specialist
 
@@ -21,6 +20,7 @@ A successful day starts with a well-crafted morning routine, especially when you
 
 #### Planning and Prioritization
 As the sun peeks through your curtains, grab your favorite brew and start your day with planning and prioritization. This time of the day should be dedicated to outlining core tasks and goals. Use a planner—either digital or old-school paper—to jot down everything that’s on the agenda.
+
 #### To-Do Lists: 
 Create a list of tasks in order of urgency and importance. Highlight those that align with your larger strategic goals.
 
@@ -41,14 +41,15 @@ Check the likes, shares, comments, and overall interactions on your posts. High 
 #### Assess Traffic Sources: 
 Determine which platforms are driving the most traffic to your brand’s website or landing pages.
 
-#### Track Follower Growth: Monitor the increase or decrease in followers since your last check. This helps assess the reach and potential of your campaigns.
+#### Track Follower Growth: 
+Monitor the increase or decrease in followers since your last check. This helps assess the reach and potential of your campaigns.
 
 #### Study Competitor Metrics:
 Keep an eye on what’s working for your competitors; it’s a chance to learn from their success and missteps.
 
 This data-driven approach ensures that your strategies are always optimized and evidence-based, opening pathways for continual improvement.
 
-![Social Media Specialist](/theme/assets/images/contents/post/blog_30_pic_1.jpg)
+![Social Media Specialist](/theme/assets/images/contents/post/blog_30_pic_1.png)
 
 ### Midday Activities
 After a morning of strategic mindset and analytics, it's time to roll into the midday hustle. This segment of the day focuses on creative and interactive tasks that require a unique blend of originality and strategy.
@@ -117,7 +118,7 @@ Even though the posts are planned, they ensure each has the right hashtags, capt
 
 Scheduling posts in the afternoon ensures there's a consistent flow of content, keeping the audience engaged even when the specialist is away from the computer.
 
-![Social Media Specialist](/theme/assets/images/contents/post/blog_30_pic_2.jpg)
+![Social Media Specialist](/theme/assets/images/contents/post/blog_30_pic_2.png)
 
 #### Monitoring Trends
 Predicting and capitalizing on trends can make or break a social media strategy. Thus, part of the afternoon is dedicated to trend monitoring to ensure the brand stays relevant and responsive.
@@ -156,7 +157,7 @@ Using solid data ensures that the social media strategy is on course to achievin
 As the afternoon wraps up, our social media specialist can feel accomplished, having seamlessly juggled a variety of tasks while laying the groundwork for future success. Each element of their afternoon routine plays a vital role in keeping the brand alive, vibrant, and at the forefront of social interactions.
 
 ### Evening Wrap-up
-![Social Media Specialist](/theme/assets/images/contents/post/blog_30_pic_3.jpg)
+![Social Media Specialist](/theme/assets/images/contents/post/blog_30_pic_3.png)
 As the sun sets, a social media specialist starts winding down the day with an evening wrap-up. This process is key to ensuring smooth operations for the next day and closing any loose ends. Here’s how it unfolds:
 
 #### Review Analytics: 
