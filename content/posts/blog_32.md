@@ -43,7 +43,7 @@ Evaluate similar listings to determine competitive pricing strategies. Look for 
 
 Utilizing tools such as Facebook's search function to explore "sold" listings offers insight into pricing that drives transactions. By keeping abreast of what sells well, you’ll position yourself competitively and bolster your chances of quick sales.
 
-![Sell Equipment Online](/theme/assets/images/contents/post/blog_32_pic_1.jpg)
+![Sell Equipment Online](/theme/assets/images/contents/post/blog_32_pic_1.png)
 
 #### How to sell equipment online?
 Crafting a successful sale on Facebook Marketplace requires more than just posting photos and a description. A methodical approach guarantees maximized visibility and consumer interest.
