@@ -1,5 +1,5 @@
 Title: Social Media Solutions: Learn How to Sell Equipment Online
-Description: Learn how to boost equipment sales online with social media solutions, targeting the right audience, creating engaging content, and driving conversions effectively.
+Description: Boost equipment sales online with social media solutions: target the right audience, create content & drive results!
 Slug: social-media-equipment-sales
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_27.jpg
 Author: Professor. John
