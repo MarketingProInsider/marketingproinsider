@@ -1,5 +1,5 @@
 Title: how do i become a social media specialist
-Description: This blog offers a complete guide on becoming a social media specialist, covering key responsibilities, essential skills, education options, and expert tips from Marketing Pro Insider for career success.
+Description: This blog is your guide to becoming a social media specialist, covering key responsibilities, essential skills, education, and expert tips!
 Slug: how-do-i-become-a-social-media-specialist
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_3.jpg
 Author: Max Quinton
