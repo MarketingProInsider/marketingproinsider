@@ -1,5 +1,5 @@
 Title: Social media solutions for small businesses
-Description: Learn how small businesses can boost brand visibility, engage customers, and drive sales using tailored social media solutions. Start growing your online presence today!
+Description: Learn how small businesses can boost brand visibility, engage customers, and drive sales with tailored social media solutions. Start growing today!
 Slug: social-media-solutions-small-business
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_31.png
 Author: Professor. John
