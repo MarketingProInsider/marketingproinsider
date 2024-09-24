@@ -6,13 +6,16 @@ Thumbnail: /theme/assets/images/about_us_banner.jpg
 Alt: About us banner
 
 ## About Us
-Welcome to Marketing Pro Insider, your ultimate destination for all things social media marketing! Our [experts on social media](https://marketingproinsider.com/) are here to provide you with top-notch solutions, tips, and tricks to help you elevate your online presence and reach your target audience effectively. Whether you're a seasoned expert in social media or just starting out, you'll find valuable insights and resources to enhance your social media performance right here.
+Welcome to Marketing Pro Insider, your ultimate destination for all things social media marketing! Our experts on social media are here to provide you with top-notch solutions, tips, and tricks to help you elevate your online presence and reach your target audience effectively. Whether you're a seasoned expert in social media or just starting out, you'll find valuable insights and resources to enhance your social media performance right here.
 
 ## About Our Experts on Social Media
 Our experts on social media are industry leaders with years of experience and a deep understanding of the ever-evolving digital landscape. They are passionate about helping businesses leverage the power of social media to drive results and achieve their goals. From creating compelling content to analyzing data and optimizing campaigns, our team of experts is here to guide you every step of the way.
 
 ## Why Choose Us as Your Expert in Social Media
-As your trusted [expert in social media](https://marketingproinsider.com/), we are dedicated to staying ahead of the curve and keeping you informed about the latest trends and best practices in the industry. Our proven track record of success speaks for itself, and we are committed to helping you succeed in the competitive world of [social media marketing](https://marketingproinsider.com/faq). With our expertise and guidance, you can take your social media performance to the next level and see real, measurable results.
+As your trusted expert in social media, we are dedicated to staying ahead of the curve and keeping you informed about the latest trends and best practices in the industry. Our proven track record of success speaks for itself, and we are committed to helping you succeed in the competitive world of [social media marketing](https://marketingproinsider.com/faq). With our expertise and guidance, you can take your social media performance to the next level and see real, measurable results.
+
+## Social Media Specialist
+A [Social Media Specialist](https://marketingproinsider.com/) is crucial for businesses looking to enhance their online presence. They develop and implement effective social media strategies, create engaging content, and analyze performance metrics to drive brand awareness and customer engagement. With expertise in platform-specific tactics and audience targeting, a Social Media Specialist helps brands connect with their audience, boost interactions, and achieve marketing goals. Whether managing campaigns or optimizing content, they play a key role in building a strong digital footprint.
 
 ## The Ultimate Social Media Marketing Solution
 At Marketing Pro Insider, we understand that every business is unique and has its own set of challenges and goals. That's why we offer a comprehensive [social media marketing solution](https://marketingproinsider.com/contact) that is tailored to your specific needs. Whether you're looking to increase brand awareness, drive website traffic, or boost engagement, our experts can provide you with the strategies and tools you need to succeed.
