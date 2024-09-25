@@ -62,7 +62,7 @@
    {% elif author or category or tag or page_name == 'index' %}
    <link rel="canonical" href="{{ SITEURL }}/{{ articles_page.url | replace('.html', '') }}">
    {% else %}
-   <link rel="canonical" href="{{ SITEURL }}/{{ output_file }}">
+   <link rel="canonical" href="{{ SITEURL }}/{{ output_file | replace('.html', '') }}">
    {% endif %}
    {% endif %}
    {% endif %}
