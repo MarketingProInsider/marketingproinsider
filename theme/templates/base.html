@@ -54,13 +54,13 @@
    {% if not PLUGINS or 'seo' not in PLUGINS %}
    {% if REL_CANONICAL %}
    {% if page %}
-   <link rel="canonical" href="{{ SITEURL }}/{{ page.url | replace('.html', '/') }}">
+   <link rel="canonical" href="{{ SITEURL }}/{{ page.url | replace('.html', '') }}">
    {% elif article %}
-   <link rel="canonical" href="{{ SITEURL }}/{{ article.url | replace('.html', '/') }}">
+   <link rel="canonical" href="{{ SITEURL }}/{{ article.url | replace('.html', '') }}">
    {% elif page_name == 'index' and not articles_previous_page %}
    <link rel="canonical" href="{{ SITEURL }}">
    {% elif author or category or tag or page_name == 'index' %}
-   <link rel="canonical" href="{{ SITEURL }}/{{ articles_page.url | replace('.html', '/') }}">
+   <link rel="canonical" href="{{ SITEURL }}/{{ articles_page.url | replace('.html', '') }}">
    {% else %}
    <link rel="canonical" href="{{ SITEURL }}/{{ output_file }}">
    {% endif %}
