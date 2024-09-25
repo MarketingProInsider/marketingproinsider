@@ -1,5 +1,5 @@
 Title: SMMA Marketing | Social Media Marketing Tips | Social Media Marketing
-Description: Unlock the secrets to social media success! Discover proven social media strategies to grow your audience, boost engagement, and drive real results for your business.
+Description: Unlock social media success! Discover proven strategies to grow your audience, boost engagement, and drive real results for your business.
 Slug: faq
 Save_as: faq.html
 Thumbnail: /theme/assets/images/faq_banner.jpg
