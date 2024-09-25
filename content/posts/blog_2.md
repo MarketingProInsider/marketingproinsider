@@ -1,4 +1,4 @@
-Title: how to become experts on social media?
+Title: how to become experts on social media
 Description: Master social media with Marketing Pro Insider. Build your online presence, engage your audience, and stay ahead with the latest trends and techniques!
 Slug: how-to-become-experts-on-social-media
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_2.jpg

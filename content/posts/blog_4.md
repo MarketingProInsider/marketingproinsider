@@ -1,5 +1,5 @@
 Title: social media down? what to do when platforms crash
-Description: Learn what to do when social media crashes. Discover common causes, stay informed, explore alternative communication channels, and implement proactive measures to ensure business continuity. Get expert advice from Marketing Pro Insider.
+Description: Learn what to do when social media crashes. Discover common causes, explore alternative channels, and get expert advice to ensure business continuity!
 Slug: social-media-down
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_4.jpg
 Author: Max Quinton
