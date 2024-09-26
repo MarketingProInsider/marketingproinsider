@@ -29,7 +29,7 @@ window.addEventListener('DOMContentLoaded', function() {
                     <span>${article.category}</span>
                     <a href="${article.SITEURL}/${article.slug}"><h4>${article.title}</h4></a>
                     <ul class="post-info">
-                      ${article.author.map(author => `<li><a href="${author.url.replace(/\/$/, '')}">${author.name}</a></li>`).join('')}
+                      ${article.author.map(author => `<li><a href="${author.url.replace(/\/$/, '').toLowerCase()}">${author.name}</a></li>`).join('')}
                       <li><a href="">${article.date}</a></li>
                     </ul>
                     ${article.resume ? `<p>${article.resume}</p>` : ''}
