@@ -59,7 +59,7 @@ In the end, whether Premium is worth it is up to you. It's about weighing your c
 
 ![Is Linkedin Premium Worth It](/theme/assets/images/contents/post/blog_35_pic_2.jpg)
 
-#### Weighing the Pros and Cons for Social Media Specialists
+### Weighing the Pros and Cons for Social Media Specialists
 For [social media specialists](https://marketingproinsider.com/), choosing to buy a LinkedIn Premium subscription is a big deal. It can really help their career. The advanced search and special insights are super useful. They help find important people, clients, and jobs.
 
 #### Networking and Job Search Advantages
