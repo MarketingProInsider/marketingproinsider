@@ -1,4 +1,4 @@
-Title: Disadvantages of Social Media Marketing | Social Media
+Title: Privacy and Cookie Policy - Marketing Pro Insider
 Description: Explore practical tips to boost your social media presence and attract a larger audience. Don't miss out on these proven strategies.
 Slug: privacy
 Save_as: privacy.html

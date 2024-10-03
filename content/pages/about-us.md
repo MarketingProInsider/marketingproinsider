@@ -1,4 +1,4 @@
-Title: Social Media Solutions | Social Media Experts | Social Media Expert
+Title: About Us | Our Story | Our Vision - Marketing Pro Insider
 Description: Explore new ways to uplift your social media strategy with practical and actionable free social media tips in this must-read blog post.
 Slug: about
 Save_as: about.html
