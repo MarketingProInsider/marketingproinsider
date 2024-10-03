@@ -1,4 +1,4 @@
-Title: Is Linkedin Premium Worth It? Here Our Take On It
+Title: Is Linkedin Premium Worth It? Here Is Our Take On It
 Description: Discover is LinkedIn Premium is worth it! Explore its features, benefits, and how it can enhance your networking and career opportunities.
 Slug: is-linkedin-premium-worth-it
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_35.jpg
