@@ -1,4 +1,4 @@
-Title: SMMA Marketing | Social Media Marketing Tips | Social Media Marketing
+Title: Frequently Asked Questions | FAQ | Marketing Pro Insider
 Description: Unlock social media success! Discover proven strategies to grow your audience, boost engagement, and drive real results for your business.
 Slug: faq
 Save_as: faq.html
