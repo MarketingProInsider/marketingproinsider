@@ -102,16 +102,16 @@ Using your employees' power can change the game for your LinkedIn page. Encourag
 Using the employee advocacy LinkedIn company page strategy is a smart move. It helps spread your brand's message without spending a lot. When employees share your content, they become true brand ambassadors. They add authenticity and trust to what you post.
 
 To leverage employees for LinkedIn page growth, follow these steps:
-Teach your team why engaging with your LinkedIn page matters. Share how sharing content helps.
 
+- Teach your team why engaging with your LinkedIn page matters. Share how sharing content helps.
+
+- Give your employees a tool to find and share updates easily from your page.
+Ask employees to create content, like articles or company culture videos.
+- Offer rewards or recognition for their LinkedIn efforts to motivate them.
 
 ![Grow LinkedIn Company Page](/theme/assets/images/contents/post/blog_37_pic_3.jpg)
 
-Give your employees a tool to find and share updates easily from your page.
-Ask employees to create content, like articles or company culture videos.
-Offer rewards or recognition for their LinkedIn efforts to motivate them.
 Empowering your team to advocate on LinkedIn can open up a world of support. It can greatly increase your page's visibility and growth.
-
 
 "When your employees become active ambassadors for your LinkedIn presence, they can drive exponential growth and engagement for your company page."
 
