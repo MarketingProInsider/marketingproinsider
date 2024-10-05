@@ -1,5 +1,6 @@
 User-agent: *
 
-Disallow: 
+Disallow: /tag/
+Disallow: /category/
                         
 Sitemap: https://marketingproinsider.com/sitemap.xml
