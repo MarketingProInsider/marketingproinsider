@@ -43,19 +43,16 @@ Make your description engaging and clear. Show what your business offers. Talk a
 Your **LinkedIn company page cover image** is a chance to make a strong impression. Pick an image that grabs attention and matches your brand. Use keywords like "LinkedIn company page cover image" and "LinkedIn page optimization" to help people find it.
 
 Your cover image should be top-notch, professional, and show what your business is all about. Think about using branded graphics, product shots, or images that show your company culture and values.
-Element
-Importance
-Tips
-Company Description
-High
-Highlight your unique value proposition
-Use relevant keywords
-Keep it concise and engaging
-Cover Image
-High
-Choose a visually appealing, high-quality image
-Incorporate your brand identity and values
-Optimize the image with relevant keywords
+
+| Element            | Importance | Tips                                           |
+|--------------------|------------|------------------------------------------------|
+| Company Description | High       | Highlight your unique value proposition        |
+|                    |            | Use relevant keywords                          |
+|                    |            | Keep it concise and engaging                   |
+| Cover Image        | High       | Choose a visually appealing, high-quality image|
+|                    |            | Incorporate your brand identity and values     |
+|                    |            | Optimize the image with relevant keywords      |
+
 
 By focusing on these key parts of your LinkedIn company page, you can show off your brand. Attract your target audience and start building a strong online presence.
 
