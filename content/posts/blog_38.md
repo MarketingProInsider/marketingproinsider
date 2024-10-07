@@ -102,7 +102,7 @@ LinkedIn Post Inspector is great for improving LinkedIn content marketing. It sh
 
 LinkedIn Post Inspector helps content marketers improve their LinkedIn content marketing. It lets you create more effective posts. This tool can change how you approach LinkedIn data-driven content strategy and boost your success on LinkedIn.
 
-![LinkedIn Post Inspector](/theme/assets/images/contents/post/blog_38_pic_2.jpg)
+![LinkedIn Post Inspector](/theme/assets/images/contents/post/blog_38_pic_2.png)
 
 ### Optimizing Your Content Strategy with LinkedIn Post Inspector
 LinkedIn Post Inspector gives you deep insights to boost your content strategy. It helps you find data-driven ways to improve your LinkedIn posts. This way, you can connect better with your audience.
