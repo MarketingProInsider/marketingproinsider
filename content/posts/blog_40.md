@@ -1,7 +1,7 @@
 Title: LinkedIn Headline Generator for Students: How to Find a Job Quickly?
 Description: Maximize your LinkedIn profile with clear, engaging headlines using the LinkedIn Headline Generator. Stand out and attract more connections!
 Slug: linkedin-headline-generator
-Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_40.png
+Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_40.jpg
 Author: Professor. John
 resume: Boost your LinkedIn visibility! Craft a strong headline with clarity, relevant keywords, and value propositions. Use LinkedIn Headline Generator.
 Category: Social Media Marketing
