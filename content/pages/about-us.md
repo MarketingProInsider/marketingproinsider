@@ -4,6 +4,7 @@ Slug: about
 Save_as: about.html
 Thumbnail: /theme/assets/images/about_us_banner.jpg
 Alt: About us banner
+Robots: INDEX,FOLLOW
 
 ## About Us
 Welcome to Marketing Pro Insider, your ultimate destination for all things social media marketing! Our experts on social media are here to provide you with top-notch solutions, tips, and tricks to help you elevate your online presence and reach your target audience effectively. Whether you're a seasoned expert in social media or just starting out, you'll find valuable insights and resources to enhance your social media performance right here.

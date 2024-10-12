@@ -4,6 +4,7 @@ Slug: faq
 Save_as: faq.html
 Thumbnail: /theme/assets/images/faq_banner.jpg
 Alt: frequently asked questions
+Robots: INDEX,FOLLOW
 
 # Frequently Asked Questions (FAQ)
 Welcome to Marketing Pro Insider, your go-to source for all things social media marketing. Whether you're a novice looking to boost your online presence or an [expert in social media](https://marketingproinsider.com/) seeking to stay ahead of the latest trends, we've got you covered. Below are some frequently asked questions about our website and how we can help you take your social media game to the next level.
