@@ -4,6 +4,7 @@ Slug: privacy
 Save_as: privacy.html
 Thumbnail: /theme/assets/images/privacy_policy_banner.jpg
 Alt: privacy and policy
+Robots: INDEX,FOLLOW
 
 # Privacy and Policy
 Welcome to Marketing Pro Insider, your go-to source for social media knowledge and solutions. Our website is dedicated to providing expert guidance and tips for social media marketers looking to enhance their performance and stay ahead of the curve in the ever-evolving landscape of social media marketing.

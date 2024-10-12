@@ -1,4 +1,7 @@
 {% extends "index.html" %}
+{% block robots_meta %}
+  <meta name="robots" content="NOINDEX,NOFOLLOW">
+{% endblock %}
 {% block title %} {{tag|striptags|escape}} {% endblock %}
 
 {% block section_title %}

@@ -1,4 +1,7 @@
 {% extends "base.html" %}
+{% block robots_meta %}
+  <meta name="robots" content="NOINDEX,NOFOLLOW">
+{% endblock %}
 {% block title %} {{page.title}} {% endblock %}
 
 
