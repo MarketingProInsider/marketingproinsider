@@ -66,6 +66,23 @@
    {% endif %}
    {% endif %}
    {% endif %}
+
+   {% block robots_meta %}
+      <meta name="robots" content="
+         {% if page and page.robots %}
+            {{ page.robots }}
+         {% elif article and article.robots %}
+            {{ article.robots }}
+         {% elif category and category.robots %}
+            {{ category.robots }}
+         {% elif tag and tag.robots %}
+            {{ tag.robots }}
+         {% else %}
+            INDEX,FOLLOW
+         {% endif %}
+      ">
+   {% endblock %}
+
    <!-- Meta Tags -->
    {% if page %}
    <!-- Page-specific meta tags -->
@@ -129,6 +146,10 @@
                      <a class="nav-link" href="/">Home
                         <span class="sr-only">(current)</span>
                      </a>
+                  </li>
+
+                  <li class="nav-item" id="about">
+                     <a class="nav-link" href="/services">Services</a>
                   </li>
                   <li class="nav-item" id="about">
                      <a class="nav-link" href="/about">About Us</a>
