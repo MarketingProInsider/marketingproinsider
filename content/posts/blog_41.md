@@ -1,5 +1,5 @@
 Title: Online Media Solutions: Boost Your Reach & Engagement 
-Description: Discover the growth of digital marketing, online media solutions, and the challenges businesses face with privacy in the digital age
+Description: Discover the growth of digital marketing, online media solutions, and the challenges businesses face with privacy in the digital age.
 Slug: online-media-solutions
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_41.jpg
 Author: John
