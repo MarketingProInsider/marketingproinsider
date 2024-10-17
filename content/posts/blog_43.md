@@ -1,8 +1,8 @@
 Title: Do all businesses need a social media specialist?
 Description: Explore whether businesses need a social media specialist, with insights on benefits, challenges, and alternatives for effective social media management.
-Slug: do-businesses-need-social-media-specialist
+Slug: businesses-need-social-media-specialist
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_43.jpg
-Author: Hanery
+Author: John
 resume: Do all businesses need a social media specialist? This blog explores when hiring one is essential, the pros/cons, and alternatives for success.
 Category: Social Media Marketing
 Tags: Social Media Specialist
@@ -12,7 +12,7 @@ Alt: social media specialist
 Status: published
 
 # Do all businesses need a social media specialist?
-In today's digital landscape, the importance of maintaining an online presence cannot be overstated. Businesses are increasingly turning to social media as a means to engage with their customers and promote their products and services. This leads us to ponder a critical question: 
+In today is digital landscape, the importance of maintaining an online presence cannot be overstated. Businesses are increasingly turning to social media as a means to engage with their customers and promote their products and services. This leads us to ponder a critical question: 
 **Do all businesses need a social media specialist?**.
 
 This article will delve into various aspects surrounding this query, exploring the role of social media in business strategy, the potential benefits of having a dedicated expert, and the factors that might influence whether a company requires such specialized knowledge.
