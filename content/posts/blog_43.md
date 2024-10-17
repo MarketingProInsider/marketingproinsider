@@ -5,8 +5,7 @@ Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_43.jpg
 Author: John
 resume: Do all businesses need a social media specialist? This blog explores when hiring one is essential, the pros/cons, and alternatives for success.
 Category: Social Media Marketing
-Tags: Social Media Specialist
-Business Strategy, Social Media Management, Digital Marketing, Social Media Marketing, Small Business Tips, Social Media Trends, Hiring Social Media Experts, Marketing Solutions, Social Media Strategy
+Tags: Social Media Specialist, Business Strategy, Social Media Management, Digital Marketing, Social Media Marketing, Small Business Tips, Social Media Trends, Hiring Social Media Experts, Marketing Solutions, Social Media Strategy
 Date: 2024-10-18
 Alt: social media specialist
 Status: published
