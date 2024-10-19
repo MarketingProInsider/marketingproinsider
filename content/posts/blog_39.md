@@ -1,7 +1,7 @@
 Title: Understanding LinkedIn Sales Navigator Cost: A Comprehensive Guide
 Description: Discover the cost, features, and benefits of LinkedIn Sales Navigator. Learn how it boosts lead generation and sales with advanced tools.
 Slug: linkedin-sales-navigator-cost
-Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_39.png
+Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_39.jpg
 Author: Professor. John
 resume: This blog explores LinkedIn Sales Navigator’s pricing, key features, and how it enhances lead generation and sales for professionals and businesses.
 Category: Social Media Marketing
