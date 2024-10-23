@@ -131,5 +131,3 @@ In doing so, you’ll carve out your niche within the expansive universe of soci
 [How to Use LinkedIn Like a Social Media Specialist?](https://marketingproinsider.com/maximize-linkedin-social-media-specialist)
 
 [Do all businesses need a social media specialist?](https://marketingproinsider.com/businesses-need-social-media-specialist)
-
-
