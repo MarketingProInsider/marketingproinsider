@@ -1,5 +1,5 @@
 Title: What is the Perfect Instagram Reels Length?
-Description: Discover the perfect Instagram Reels length to boost engagement. Learn tips from a Social Media Specialist and enhance your social media game.
+Description: Discover the perfect instagram reels length to boost engagement. Learn tips from a social media specialist and enhance your social media game.
 Slug: perfect-instagram-reels-length
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_46.jpg
 Author: Max Henry
