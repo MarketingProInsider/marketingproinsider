@@ -61,7 +61,7 @@ Features:
 pelican content -o output
 
 ## To listen
-pelican --listen 
+pelican --listen
 
 ## To debug:
 pelican content --debug > pelicandebug.txt
