@@ -4,7 +4,7 @@ Slug: social-media-marketing-solutions
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_23.jpg
 Author: Professor. John
 resume: Explore top social media marketing strategies with our detailed guide. Learn to boost brand visibility, engage audiences, and drive conversions effectively.
-Category: Social Media
+Category: Social Media Marketing
 Tags: Social Media Marketing, Brand Visibility, Audience Engagement, Marketing Strategies, Digital Marketing, Social Media Tips, Online Marketing, Content Strategy, Social Media Trends, Brand Growth
 Date: 2024-09-03
 Alt: Social Media Marketing Solutions
