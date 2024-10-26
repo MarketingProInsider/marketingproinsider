@@ -4,7 +4,7 @@ Slug: how-to-find-experts-on-social-media-easily
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_1.jpg
 Author: Max Quinton
 resume: Finding and working with top social media experts can change the game for businesses...
-Category: Influencer Marketing
+Category: Social Media Marketing
 Tags: social media experts, social media marketing, influencer marketing, digital marketing, social media strategy
 Date: 2024-07-07
 Alt: experts on social media
