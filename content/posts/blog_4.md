@@ -4,7 +4,7 @@ Slug: social-media-down
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_4.jpg
 Author: Max Quinton
 resume: Finding and working with top social media experts can change the game for businesses...
-Category: Social Media Management
+Category: Social Media Marketing
 Tags: social media downs, soical media apps, social media experts, social media marketing, influencer marketing, digital marketing, social media strategy
 Date: 2024-07-23
 Alt: social media down
