@@ -4,7 +4,7 @@ Slug: marketing-funnel-guide-stages-strategies
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_13.png
 Author: Professor. John
 resume: Explore the marketing funnel: from awareness to purchase. Learn how to map, optimize, and drive conversions with real-world examples and practical strategies..........
-Category: Sales and Marketing
+Category: Marketing
 Tags: Marketing Funnel, Digital Marketing, Sales Funnel, Funnel Stages, Marketing Strategies, Lead Generation, Conversion Optimization, Social Media Marketing, Marketing Automation, Customer Journey, Funnel Marketing, Sales Strategies
 Date: 2024-08-11
 Alt: Marketing Funnel
