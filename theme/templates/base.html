@@ -23,6 +23,7 @@
    {% endif %}
    {% set page_title %}{% block title %}{% endblock %}{% endset %}
    <title>{{ page_title }}</title>
+   {% set page_description %}{% block description %}Default description for pages without specific descriptions.{% endblock %}{% endset %}
    
    {% if FAVEICON %}
    <link rel="icon" href="{{ FAVEICON }}" type="image/x-icon">
@@ -88,7 +89,7 @@
    <!-- Page-specific meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
    <meta name="title" content="{{ page_title }}">
-   <meta name="description" content="{{ page.description|striptags|escape }}">
+   <meta name="description" content="{{ page.description|default(page_description)|striptags|escape }}">
    {% elif article %}
    <!-- Article-specific meta tags -->
    <meta name="author" content="{{ article.author.name }}">
