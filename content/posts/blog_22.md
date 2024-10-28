@@ -8,7 +8,7 @@ Category: Digital Marketing
 Tags: Digital Marketing, Small Business Marketing, SEO Strategies, Online Presence, Social Media Marketing, Marketing Strategy, Brand Visibility, Customer Engagement, Email Marketing
 Date: 2024-09-01
 Alt: Digital Marketer
-Status: draft 
+Status: published 
 
 # What Does a Digital Marketer Do? A Comprehensive Overview
 In today's digital landscape, businesses must adapt and thrive in an ever-evolving environment. The role of a digital marketer has become pivotal in crafting strategies aimed at elevating brand visibility and driving sales through effective online channels. 

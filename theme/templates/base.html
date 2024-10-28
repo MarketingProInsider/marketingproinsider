@@ -52,17 +52,25 @@
    <link rel="stylesheet" href="/theme/assets/css/fontawesome.css">
    <link rel="stylesheet" href="/theme/assets/css/templatemo-stand-blog.css">
    <link rel="stylesheet" href="/theme/assets/css/owl.css">
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="{{ SITENAME }}">
+   <meta name="twitter:card" content="summary">
    {% if not PLUGINS or 'seo' not in PLUGINS %}
    {% if REL_CANONICAL %}
    {% if page %}
+   <meta property="og:url" content="{{ SITEURL | lower }}/{{ page.url | replace('.html', '') | trim('/') | lower }}">
    <link rel="canonical" href="{{ SITEURL | lower }}/{{ page.url | replace('.html', '') | trim('/') | lower }}">
    {% elif article %}
+   <meta property="og:url" content="{{ SITEURL | lower }}/{{ article.url | replace('.html', '') | trim('/') | lower }}">
    <link rel="canonical" href="{{ SITEURL | lower }}/{{ article.url | replace('.html', '') | trim('/') | lower }}">
    {% elif page_name == 'index' and not articles_previous_page %}
+   <meta property="og:url" content="{{ SITEURL | lower }}">
    <link rel="canonical" href="{{ SITEURL | lower }}">
    {% elif author or category or tag or page_name == 'index' %}
+   <meta property="og:url" content="{{ SITEURL | lower }}/{{ articles_page.url | replace('.html', '') | trim('/') | lower }}">
    <link rel="canonical" href="{{ SITEURL | lower }}/{{ articles_page.url | replace('.html', '') | trim('/') | lower }}">
    {% else %}
+   <meta property="og:url" content="{{ SITEURL | lower }}/{{ output_file | replace('.html', '') | trim('/') | lower }}">
    <link rel="canonical" href="{{ SITEURL | lower }}/{{ output_file | replace('.html', '') | trim('/') | lower }}">
    {% endif %}
    {% endif %}
@@ -90,24 +98,44 @@
    <meta name="author" content="{{ AUTHOR }}">
    <meta name="title" content="{{ page_title }}">
    <meta name="description" content="{{ page.description|default(page_description)|striptags|escape }}">
+   <meta property="og:title" content="{{ page_title }}">
+   <meta property="og:description" content="{{ page.description|default(page_description)|striptags|escape }}">
+   <meta property="twitter:title" content="{{ page_title }}">
+   <meta property="twitter:description" content="{{ page.description|default(page_description)|striptags|escape }}">
    {% elif article %}
    <!-- Article-specific meta tags -->
    <meta name="author" content="{{ article.author.name }}">
    <meta name="title" content="{{ page_title }}">
    <meta name="description" content="{{ article.description|striptags|escape }}">
+   <meta property="og:title" content="{{ page_title }}">
+   <meta property="og:description" content="{{ article.description|striptags|escape }}">
+   <meta property="twitter:title" content="{{ page_title }}">
+   <meta property="twitter:description" content="{{ article.description|striptags|escape }}">
    {% elif category %}
    <!-- Category-specific meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
    <meta name="description" content="Articles in the '{{ category }}' category on {{ SITENAME }}">
+   <!--<meta property="og:title" content="{{ page_title }}">-->
+   <meta property="og:description" content="Articles in the '{{ category }}' category on {{ SITENAME }}">
+   <!--<meta property="twitter:title" content="{{ page_title }}">-->
+   <meta property="twitter:description" content="Articles in the '{{ category }}' category on {{ SITENAME }}">
    {% elif tag %}
    <!-- Tag-specific meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
    <meta name="description" content="Articles tagged with '{{ tag }}' on {{ SITENAME }}">
+   <!--<meta property="og:title" content="{{ page_title }}">-->
+   <meta property="og:description" content="Articles tagged with '{{ tag }}' on {{ SITENAME }}">
+   <!--<meta property="twitter:title" content="{{ page_title }}">-->
+   <meta property="twitter:description" content="Articles tagged with '{{ tag }}' on {{ SITENAME }}">
    {% else %}
    <!-- Default meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
    <meta name="title" content="{{ page_title }}">
    <meta name="description" content="{{ SITEDESCRIPTION }}">
+   <!--<meta property="og:title" content="{{ page_title }}">-->
+   <meta property="og:description" content="{{ SITEDESCRIPTION }}">
+   <!--<meta property="twitter:title" content="{{ page_title }}">-->
+   <meta property="twitter:description" content="{{ SITEDESCRIPTION }}">
    {% endif %}
    {% if OPEN_GRAPH %}
    {% include "partial/og-tags.html" %}
