@@ -4,7 +4,7 @@ Slug: top-social-media-courses
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_19.jpg
 Author: Professor. John
 resume: This blog explores the top 5 online social media courses, providing valuable insights for beginners and experts to enhance their digital marketing skills.
-Category: Social Media
+Category: Social Media Marketing
 Tags: SocialMediaCourses, DigitalMarketing, OnlineLearning, MarketingSkills, SocialMediaTraining, DigitalSkills, OnlineCourses, SocialMediaMarketing, ProfessionalDevelopment, MarketingEducation
 Date: 2024-08-26
 Alt: Social Media Courses

@@ -3,8 +3,8 @@ Description: Master social media with Marketing Pro Insider. Build your online p
 Slug: how-to-become-experts-on-social-media
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_2.jpg
 Author: Max Quinton
-resume: Finding and working with top social media experts can change the game for businesses...
-Category: Influencer Marketing
+resume: Finding and working with top social media experts can change the game for businesses.
+Category: Social Media Marketing
 Tags: social media experts, social media marketing, influencer marketing, digital marketing, social media strategy
 Date: 2024-07-08
 Alt: experts on social media

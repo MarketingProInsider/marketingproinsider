@@ -4,7 +4,7 @@ Slug: guerilla-marketing-boost-brand
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_33.jpg
 Author: Professor. John
 resume: Guerilla marketing in the digital age uses creative, low-cost tactics to grab attention online through viral campaigns, user-generated content, and social media.
-Category: Guerrilla Marketing
+Category: Marketing
 Tags: Guerrilla Marketing, Marketing Tactics, Creative Marketing, Low-Cost Marketing, Advertising Strategies, Brand Awareness, Innovative Marketing, Small Business Marketing, Unconventional Marketing, Marketing Trends
 Date: 2024-09-27
 Alt: Guerrilla Marketing
