@@ -56,12 +56,16 @@ The YouTube Studios analytics dashboard is a treasure trove for this kind of ana
 For example, a sudden jump in views after a video goes live can show what content works best. Spotting these trends helps creators make videos that their audience loves. This way, they can improve their channels performance over time.
  
 It is also vital to understand who is watching. Knowing the age, gender, and location of your viewers can help you tailor your content. This personal touch can help build a loyal fan base.
+
+
 Metric	Importance	Actionable Insight
 Subscriber Growth	Indicates channel growth and viewer interest	Focus on content that retains subscribers
 Total Views	Measures overall reach and engagement	Analyze popular content for replication
 Average View Duration	Assesses video engagement level	Optimize video length and structure
 Traffic Sources	Shows how viewers find content	Enhance visibility through successful channels
 Demographics	Defines target audience	Create tailored content for specific groups
+
+
 By using **YouTube analytics** to analyze performance, creators can make better decisions. They can improve their content and grow their channel in a smart way.
 
 ### Key Metrics to Analyze in a Youtube Audit
@@ -81,8 +85,10 @@ Looking at a YouTube channel is content strategy means checking many things. It 
 
 #### Video Quality and Relevance
 High-quality videos are key to a good content strategy. Bad video quality can make viewers lose interest. Also, the topics should match what the audience likes. Checking video metrics helps see what content works best.
+
 #### Content Consistency
 Posting videos regularly helps keep viewers coming back. A set schedule builds loyalty and makes people look forward to new videos. Looking at past data helps find the best posting times for more views.
+
 #### Thumbnail and Title Effectiveness
 Good thumbnails and titles are crucial for more clicks. Thumbnails should catch the eye, and titles should clearly say what the video is about. Trying different designs and checking video metrics shows what works best.
  
@@ -94,8 +100,7 @@ Good SEO practices for YouTube are essential to get noticed. This means using gr
 These steps make videos more engaging for viewers. They also help with **video SEO**.
 
 #### Using Keywords and Tags
-Using **tags and keywords** wisely is crucial for being found. Creators should do deep keyword research to find what their audience likes. Using these keywords in titles, descriptions, and tags helps videos show up in searches.
-Using both broad and long-tail keywords makes videos more effective.
+Using **tags and keywords** wisely is crucial for being found. Creators should do deep keyword research to find what their audience likes. Using these keywords in titles, descriptions, and tags helps videos show up in searches.Using both broad and long-tail keywords makes videos more effective.
 
 #### Description and Call to Action
 A good description does more than just tell viewers about the video. It also includes important keywords to boost **video SEO**. A clear call to action can get viewers to subscribe or visit a website.
@@ -135,6 +140,7 @@ Using insights from a YouTube audit is key for bettering your channel. It helps 
 
 #### Creating an Action Plan
 An action plan is like a map for your channels future. It outlines steps based on the audits findings. Important parts include:
+
 •	Identifying strengths and weaknesses
 •	Prioritizing changes that provide the most impact
 •	Allocating resources effectively
@@ -144,11 +150,12 @@ This method makes improving your channel systematic and trackable.
 #### Setting Achievable Goals
 Setting realistic goals keeps you motivated. Goals should be specific, measurable, attainable, relevant, and time-bound (SMART). Here are some good examples:
 
-Goal Type	Description	Time Frame
-Increase Watch Time	Achieve a 15% increase in watch time within 3 months	3 months
-Boost Engagement	Raise comments and shares by 20% over the next quarter	3 months
-Enhance Subscribers	Add 500 new subscribers within the next 6 months	6 months
-Reaching these goals keeps your improvement efforts on track and effective.
+| Goal Type         | Description                                            | Time Frame |
+|-------------------|--------------------------------------------------------|------------|
+| Increase Watch Time| Achieve a 15% increase in watch time within 3 months  | 3 months   |
+| Boost Engagement   | Raise comments and shares by 20% over the next quarter | 3 months   |
+| Enhance Subscribers| Add 500 new subscribers within the next 6 months      | 6 months   |
+
 
 #### Measuring Success Post-Audit
 After a YouTube audit, it is key to measure success to see if changes worked. Setting clear goals helps track how well things are going. This way, you can keep getting better.
