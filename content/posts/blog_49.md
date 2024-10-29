@@ -29,6 +29,7 @@ In the next parts, you will learn how to check your channels performance and mak
 ---
 - Recognizing common pitfalls to avoid during the audit process.
 
+---
 - Utilizing insights from the audit to improve content strategy.
 
 ### Introduction to Youtube Audits
