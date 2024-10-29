@@ -18,15 +18,18 @@ Ever wondered why some YouTube channels get super popular while others don not? 
 In the next parts, you will learn how to check your channels performance and make it better. You will find out how to analyze your channels data and make changes for the best results.
  
 ### Key Takeaways
-•	Understanding the importance of a youtube audit for creators
+- Understanding the importance of a youtube audit for creators
+
 ---
-•	Learning how to effectively assess channel performance.
+- Learning how to effectively assess channel performance.
+
 ---
-•	Identifying key metrics for detailed analysis.
+- Identifying key metrics for detailed analysis.
+
 ---
-•	Recognizing common pitfalls to avoid during the audit process.
----
-•	Utilizing insights from the audit to improve content strategy.
+- Recognizing common pitfalls to avoid during the audit process.
+
+- Utilizing insights from the audit to improve content strategy.
 
 ### Introduction to Youtube Audits
 A youtube audit is key to checking how well a channel is doing and finding ways to get better. It looks closely at many parts that help a channel do well. This includes checking if videos are good and if they match what viewers like.
