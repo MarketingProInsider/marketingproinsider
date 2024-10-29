@@ -57,14 +57,13 @@ For example, a sudden jump in views after a video goes live can show what conten
  
 It is also vital to understand who is watching. Knowing the age, gender, and location of your viewers can help you tailor your content. This personal touch can help build a loyal fan base.
 
-
-Metric	Importance	Actionable Insight
-Subscriber Growth	Indicates channel growth and viewer interest	Focus on content that retains subscribers
-Total Views	Measures overall reach and engagement	Analyze popular content for replication
-Average View Duration	Assesses video engagement level	Optimize video length and structure
-Traffic Sources	Shows how viewers find content	Enhance visibility through successful channels
-Demographics	Defines target audience	Create tailored content for specific groups
-
+| Metric                  | Importance                                   | Actionable Insight                              |
+|-------------------------|----------------------------------------------|------------------------------------------------|
+| Subscriber Growth        | Indicates channel growth and viewer interest | Focus on content that retains subscribers       |
+| Total Views             | Measures overall reach and engagement        | Analyze popular content for replication         |
+| Average View Duration    | Assesses video engagement level              | Optimize video length and structure             |
+| Traffic Sources         | Shows how viewers find content               | Enhance visibility through successful channels   |
+| Demographics            | Defines target audience                      | Create tailored content for specific groups     |
 
 By using **YouTube analytics** to analyze performance, creators can make better decisions. They can improve their content and grow their channel in a smart way.
 
@@ -97,6 +96,7 @@ Understanding video optimization is key for a successful YouTube strategy. This 
 
 #### SEO Best Practices for Youtube
 Good SEO practices for YouTube are essential to get noticed. This means using great video titles, thumbnails, and descriptions. Each should have relevant **tags and keywords** that match the content.
+
 These steps make videos more engaging for viewers. They also help with **video SEO**.
 
 #### Using Keywords and Tags
@@ -109,6 +109,7 @@ These steps make the viewer is experience better. They encourage viewers to inte
  
 ### The Role of Social Media Specialists in YouTube Audits
 [Social media specialists](https://marketingproinsider.com/) are key in YouTube audits. They use their knowledge of marketing to find ways to improve. They understand what viewers want, making content more engaging.
+
 These experts analyze how videos perform. They see which content viewers like most. They use this info to make content better and more relevant.
 
 Companies wanting to boost their YouTube can benefit from these specialists. They make audits more efficient and bring new ideas. Marketing Pro Insider even offers a free YouTube audit to help businesses grow.
@@ -127,10 +128,12 @@ Using the right tools is key when doing a YouTube audit. There are many tools ou
 
 #### Free vs. Paid Tools
 There are free and paid tools for YouTube audits. Free tools like YouTube Analytics give you basic stats for free. Paid tools, like TubeBuddy and VidIQ, have more features like tracking competitors and keywords. Here is a table that shows what each tool offers:
-Tool	Type	Key Features	Cost
-YouTube Analytics	Free	Basic performance metrics, viewer demographics, traffic sources	Free
-TubeBuddy	Paid	Tag suggestions, thumbnail generator, A/B testing	Starting at $9/month
-VidIQ	Paid	Keyword research, competitor analysis, SEO tools	Starting at $7.50/month
+
+| Tool               | Type | Key Features                                         | Cost                |
+|--------------------|------|-----------------------------------------------------|---------------------|
+| YouTube Analytics   | Free | Basic performance metrics, viewer demographics, traffic sources | Free                |
+| TubeBuddy          | Paid | Tag suggestions, thumbnail generator, A/B testing   | Starting at $9/month |
+| VidIQ              | Paid | Keyword research, competitor analysis, SEO tools     | Starting at $7.50/month |
 
 #### Utilizing Analytics Tools
 Analytics tools are crucial for a thorough YouTube audit. YouTube is analytics give you insights like audience retention and engagement. These metrics help spot trends and what viewers like. Adding third-party tools gives more views, helping you improve your content.
