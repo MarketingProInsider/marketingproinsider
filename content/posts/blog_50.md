@@ -194,14 +194,11 @@ It's important to regularly check your Reels analytics and metrics. Look at **in
 
 •	By monitoring your metrics closely, you can make informed decisions. This helps refine your Reels strategy and increase its impact.
 
-Metric
-Importance for Reels Length
-View Count
-Indicates the reach and discoverability of your Reels.
-Engagement Rate
-Reflects how well your Reels are resonating with your audience.
-Audience Retention
-Helps you understand if your Reels are effectively capturing and retaining viewer attention.
+| Metric                | Importance for Reels Length                                             |                           |
+|-----------------------|-----------------------------------------------------------------------|---------------------------|
+| View Count            | Indicates the reach and discoverability of your Reels.                |                           |
+| Engagement Rate       | Reflects how well your Reels are resonating with your audience.       |                           |
+| Audience Retention     | Helps you understand if your Reels are effectively capturing and retaining viewer attention. |                           |
 
 By constantly testing, analyzing, and refining your Instagram Reels strategy, you can stay ahead. You'll deliver content that truly captivates your audience.
 
@@ -221,18 +218,11 @@ Try out various Reels lengths to see what works best for your followers.
 
 Being flexible and adjusting your Reels to the latest trends can help your content get more views and engagement. This is key to doing well on the platform.
 
-Trend
-Optimal Reels Length
-Engagement Insights
-Vertical Video Formats
-15-30 seconds
-Vertical videos do well on mobile, where most Instagram Reels are watched.
-Audio-Driven Content
-20-60 seconds
-Reels with trending audio or original sounds get more engagement. They offer immersive experiences.
-Educational/Informative Content
-30-60 seconds
-Longer Reels with useful content, like tutorials, do well. They appeal to those looking to learn or discover.
+| Trend                     | Optimal Reels Length    | Engagement Insights                                           |
+|--------------------------|-------------------------|-------------------------------------------------------------|
+| Vertical Video Formats    | 15-30 seconds           | Vertical videos do well on mobile, where most Instagram Reels are watched. |
+| Audio-Driven Content      | 20-60 seconds           | Reels with trending audio or original sounds get more engagement. They offer immersive experiences. |
+| Educational/Informative Content | 30-60 seconds   | Longer Reels with useful content, like tutorials, do well. They appeal to those looking to learn or discover. |
 
 By keeping up with **Instagram Reels** trends and updates, creators can make sure their videos are engaging and fit the platform's fast-changing scene.
 
