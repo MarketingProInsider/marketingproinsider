@@ -90,6 +90,7 @@ As a **social media specialist**, making great **Instagram Reels** is key. You n
 
 #### Hook Your Audience from the Start
 The first seconds of your Reel are crucial. They decide if people will watch or move on. Use eye-catching visuals like bright colors or cool transitions to grab their attention.
+
 •	Start with something that grabs their interest and sets the mood for the Reel.
 •	Use stories or personal experiences that people can relate to.
 •	Don't waste time on long introductions. Dive into the best part right away.
@@ -106,18 +107,12 @@ Social media moves fast, and grabbing and keeping attention is hard. Research sh
 
 Knowing how long your audience can pay attention helps **social media strategists** set the right Reel length for engagement. Finding the right mix of short, engaging content and enough time for viewers to get the message is key to better engagement.
 
-Reel Length
-Engagement Metrics
-Viewer Retention
-15 seconds
-Higher view counts, but lower completion rates
-Viewers tend to watch the entire Reel
-30 seconds
-Moderate view counts, but higher completion rates
-Viewers are more likely to watch the full Reel
-60 seconds
-Lower view counts, but higher engagement (likes, comments, shares)
-Viewers may drop off before the end of the Reel
+| Reel Length | Engagement Metrics                            | Viewer Retention                                 |
+|-------------|----------------------------------------------|--------------------------------------------------|
+| 15 seconds  | Higher view counts, but lower completion rates | Viewers tend to watch the entire Reel            |
+| 30 seconds  | Moderate view counts, but higher completion rates | Viewers are more likely to watch the full Reel   |
+| 60 seconds  | Lower view counts, but higher engagement (likes, comments, shares) | Viewers may drop off before the end of the Reel |
+
 
 The table shows how **instagram reels length** affects engagement and how long people watch. By studying these trends, **social media strategists** can choose the best Reel length for their content and audience.
 
@@ -156,15 +151,11 @@ For entertainment Reels, the aim is to grab the viewer's attention and make them
 
 On the flip side, educational Reels might need to be a bit longer. They can be 30-60 seconds to share more info. The goal is to give value without losing the viewer's interest.
 
-Content Type
-Ideal Reels Length
-Key Considerations
-Entertainment
-15-30 seconds
-Capture attention, elicit emotional response
-Educational
-30-60 seconds
-Convey information effectively, maintain engagement
+| Content Type   | Ideal Reels Length | Key Considerations                              |
+|----------------|--------------------|--------------------------------------------------|
+| Entertainment  | 15-30 seconds      | Capture attention, elicit emotional response     |
+| Educational    | 30-60 seconds      | Convey information effectively, maintain engagement |
+| Tutorial       | 45-60 seconds      | Step-by-step guidance, keep instructions clear   |
 
 Knowing what your audience likes helps **social media specialists** and **social media strategists** choose the right Reels length. This way, they can get more engagement and connect with their niche better.
 
