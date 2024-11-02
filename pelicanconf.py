@@ -8,7 +8,7 @@ AUTHOR = 'Professor John'
 SITENAME = 'MarketingProInsider'
 SITEURL = 'marketingproinsider.com'
 CATEGORY = ''
-SITEDESCRIPTION = "Stay ahead of the competition by implementing the latest free social media solutions today. Don't miss out on this opportunity to revolutionize your online presence"
+SITEDESCRIPTION = "Stay ahead with experts in social media solutions. Our experts on social media and social media specialists bring you the latest tips to grow your brand."
 DEFAULT_LOCALE = 'en_US'
 
 # Minify permissions
@@ -25,6 +25,20 @@ MARKDOWN = {
         'markdown.extensions.meta': {},
     },
     'output_format': 'html',
+}
+
+# Key takeaways for blogs
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.toc': {
+            'title': 'Table of contents:',
+            'toc_depth': '4',  # Ensures only H1, H2, H3 and H4 are included
+        },
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
 }
 
 # Explicitly define the Markdown reader

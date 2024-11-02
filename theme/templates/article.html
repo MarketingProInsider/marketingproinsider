@@ -41,9 +41,14 @@
                   </a>
                   <!-- Post information -->
                   <ul class="post-info">
-                    <li><a href="/{{ AUTHOR.url }}">{{ AUTHOR }}</a></li>
+                    <li><a href="/{{ article.author.url }}">{{ article.author.name }}</a></li>
                     <li><a href="#">{{ article.date.strftime('%B %d, %Y') }}</a></li>
                   </ul>
+                  {% if article.toc %}
+                  <nav class="toc">
+                      {{article.toc}}
+                  </nav>
+                  {% endif %}
 
                   <!-- Article content -->
                   {{article.content}}
