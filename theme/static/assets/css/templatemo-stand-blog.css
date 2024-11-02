@@ -18,7 +18,7 @@ p {
 	margin-bottom: 0px;
 	font-size: 15px;
 	font-weight: 400;
-	color: #7a7a7a;
+	color: black;
 	line-height: 30px;
 }
 
@@ -495,8 +495,10 @@ img {
 }
 
 .down-content th, .down-content td {
-	border-style: solid;
-  }
+	border: 1px solid black;
+	text-align: center;
+	vertical-align: middle;
+}
 
 .blog-posts .down-content span {
 	font-size: 18px;
@@ -565,6 +567,31 @@ img {
 	text-align: right;
 }
 
+.toc {
+	margin-bottom: 10px;
+}
+
+.toctitle {
+	all: unset;
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	font-weight: 900;
+	color: #f48840;
+	margin-bottom: 15px;
+}
+
+.toc ul li {
+	all: unset;
+	display: block;
+	font-weight: normal !important;
+	font-style: normal;
+	font-family: san-serif;
+	font-size: 14px;
+	margin-bottom: 5px;
+	color: black;
+}
+
 .blog-posts .down-content ul li {
 	all: unset;
 	font-weight: normal !important;
@@ -572,6 +599,26 @@ img {
 	font-family: san-serif;
 	font-size: 15px;
 	color: #7a7a7a;
+	display: block;
+}
+
+
+.toc ul ul {
+    list-style-type: disc; /* For H3 */
+    margin-left: 1.5em;
+}
+
+.toc ul ul li {
+	font-size: 16px;
+}
+
+.toc ul ul ul {
+    list-style-type: circle; /* For H4 */
+    margin-left: 1.5em;
+}
+
+.toc ul ul ul li {
+	font-size: 15px;
 }
 
 .blog-posts .down-content ul.post-tags li,
@@ -592,6 +639,7 @@ img {
 
 .blog-posts .down-content ul.post-tags li a,
 .blog-posts .down-content ul.post-share li a {
+	all: unset;
 	font-size: 14px;
 	color: #aaa;
 	font-weight: 400;
@@ -1318,7 +1366,7 @@ footer p a:hover {
 		z-index: 1;
 		width: 0;
 		height: 0;
-		border-style: solid;
+		border: 1px solid black;
 		border-width: 5px 0 5px 10px;
 		border-color: transparent transparent transparent #e1e8ff; }
 	  .ftco-services .services .icon {
