@@ -2,6 +2,11 @@
 {% block title %}
 {{ category|striptags|escape }}
 {% endblock %}
+
+
+<meta property="og:title" content="{{ page_title }}">
+<meta property="twitter:title" content="{{ page_title }}">
+
 {% block section_title %}
 <div class="text-content">
     <h4>Recent Posts in "{{ category }}"</h4>
