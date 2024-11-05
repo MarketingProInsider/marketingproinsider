@@ -621,6 +621,11 @@ img {
 	font-size: 15px;
 }
 
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
 .blog-posts .down-content ul.post-tags li,
 .blog-posts .down-content ul.post-share li {
 	display: inline-block;
