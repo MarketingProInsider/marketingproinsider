@@ -10,8 +10,6 @@ Date: 2024-11-07
 Alt: Facebook Benchmarks
 Status: published
 
-![Facebook Benchmarks](/theme/assets/images/contents/post/blog_53_pic_1.png)
-
 ## Key Takeaways
 •	**Understanding Benchmarks:** Facebook benchmarks help evaluate your page's performance against industry standards.
 
