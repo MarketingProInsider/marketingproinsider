@@ -101,9 +101,13 @@ Using benchmarks to set realistic goals is crucial for your social media strateg
 ### Define SMART Goals:
 
 •	**Specific:** Clearly define what you want to achieve.
+
 •	**Measurable:** Ensure your goals can be tracked with metrics.
+
 •	**Achievable:** Set realistic targets based on your resources and capabilities.
+
 •	**Relevant:** Align goals with your overall business objectives.
+
 •	**Time-Bound:** Set a timeline for achieving your goals.
 
 ### Example of SMART Goals
