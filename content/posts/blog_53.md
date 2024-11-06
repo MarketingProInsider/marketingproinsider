@@ -108,20 +108,19 @@ Using benchmarks to set realistic goals is crucial for your social media strateg
 
 ### Example of SMART Goals
 
-Goal Description
-Specifics
-Increase Engagement Rate
-Achieve a 2.0% engagement rate within six months.
-Grow Follower Count
-Increase followers by 15% in three months.
-Boost Post Reach
-Achieve a reach of 10,000 unique users per month.
+| Goal Description        | Specifics                                                        |
+|-------------------------|------------------------------------------------------------------|
+| Increase Engagement Rate | Achieve a 2.0% engagement rate within six months.                |
+| Grow Follower Count     | Increase followers by 15% in three months.                       |
+| Boost Post Reach        | Achieve a reach of 10,000 unique users per month.                |
 
 ## Common Challenges in Benchmarking
 While benchmarking is essential, there are challenges you may encounter:
 
 •	**Data Overload:** With numerous metrics available, it can be overwhelming to identify which ones matter most.
+
 •	**Changing Algorithms:** Facebook frequently updates its algorithms, affecting how content is displayed and interacted with.
+
 •	**Industry Variability:** Benchmarks can vary widely by industry, making it essential to find relevant comparisons.
 
 ## Conclusion
