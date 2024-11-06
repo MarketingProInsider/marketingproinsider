@@ -67,30 +67,13 @@ In addition to Facebook Insights, several third-party tools can provide addition
 ## Industry-Specific Benchmarks
 Understanding industry-specific benchmarks can provide context for your metrics. Here’s a table with average benchmarks across various industries:
 
-Industry
-Average Engagement Rate (%)
-Average Reach (%)
-Average Follower Growth (%)
-Retail
-1.5
-10
-2.0
-Education
-1.8
-8
-1.5
-Healthcare
-1.2
-7
-1.0
-Travel
-2.0
-12
-3.0
-Technology
-1.0
-5
-1.8
+| Industry    | Average Engagement Rate (%) | Average Reach (%) | Average Follower Growth (%) |
+|-------------|-----------------------------|-------------------|-----------------------------|
+| Retail      | 1.5                         | 10               | 2.0                         |
+| Education   | 1.8                         | 8                | 1.5                         |
+| Healthcare  | 1.2                         | 7                | 1.0                         |
+| Travel      | 2.0                         | 12               | 3.0                         |
+| Technology  | 1.0                         | 5                | 1.8                         |
 
 **Note:** These benchmarks are indicative and can vary based on specific factors like target audience and content strategy.
 
