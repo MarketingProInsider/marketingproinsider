@@ -23,7 +23,17 @@
    {% endif %}
    {% set page_title %}{% block title %}{% endblock %}{% endset %}
    <title>{{ page_title }}</title>
-   {% set page_description %}{% block description %}Default description for pages without specific descriptions.{% endblock %}{% endset %}
+   {% set page_description %}
+      {% block description %}
+         {% if article %}
+            {{ article.description|striptags|escape }}
+         {% elif page %}
+            {{ page.description|striptags|escape }}
+         {% else %}
+            {{ SITEDESCRIPTION|default("No Description Found!")|striptags|escape }}
+         {% endif %}
+      {% endblock %}
+   {% endset %}
    
    {% if FAVEICON %}
    <link rel="icon" href="{{ FAVEICON }}" type="image/x-icon">
@@ -97,20 +107,20 @@
    <!-- Page-specific meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
    <meta name="title" content="{{ page_title }}">
-   <meta name="description" content="{{ page.description|default(page_description)|striptags|escape }}">
+   <meta name="description" content="{{ page_description }}">
    <meta property="og:title" content="{{ page_title }}">
-   <meta property="og:description" content="{{ page.description|default(page_description)|striptags|escape }}">
+   <meta property="og:description" content="{{ page_description }}">
    <meta property="twitter:title" content="{{ page_title }}">
-   <meta property="twitter:description" content="{{ page.description|default(page_description)|striptags|escape }}">
+   <meta property="twitter:description" content="{{ page_description }}">
    {% elif article %}
    <!-- Article-specific meta tags -->
    <meta name="author" content="{{ article.author.name }}">
    <meta name="title" content="{{ page_title }}">
-   <meta name="description" content="{{ article.description|striptags|escape }}">
+   <meta name="description" content="{{ page_description }}">
    <meta property="og:title" content="{{ page_title }}">
-   <meta property="og:description" content="{{ article.description|striptags|escape }}">
+   <meta property="og:description" content="{{ page_description }}">
    <meta property="twitter:title" content="{{ page_title }}">
-   <meta property="twitter:description" content="{{ article.description|striptags|escape }}">
+   <meta property="twitter:description" content="{{ page_description }}">
    {% elif category %}
    <!-- Category-specific meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
@@ -131,11 +141,11 @@
    <!-- Default meta tags -->
    <meta name="author" content="{{ AUTHOR }}">
    <meta name="title" content="{{ page_title }}">
-   <meta name="description" content="{{ SITEDESCRIPTION }}">
+   <meta name="description" content="{{ page_description }}">
    <meta property="og:title" content="{{ page_title }}">
-   <meta property="og:description" content="{{ SITEDESCRIPTION }}">
+   <meta property="og:description" content="{{ page_description }}">
    <meta property="twitter:title" content="{{ page_title }}">
-   <meta property="twitter:description" content="{{ SITEDESCRIPTION }}">
+   <meta property="twitter:description" content="{{ page_description }}">
    {% endif %}
    {% if OPEN_GRAPH %}
    {% include "partial/og-tags.html" %}
