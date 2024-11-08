@@ -8,7 +8,7 @@ Category: Social Media Marketing
 Tags: Banality of Life, Social Media Impact, Digital Well-being, Mindless Scrolling, Shallow Interactions, Social Media Algorithms, Meaningful Online Engagement, Social Media Authenticity, Digital Connection, Social Media Echo Chamber
 Date: 2024-11-09
 Alt: social media app banality of life
-Status: published\
+Status: published
 
 [TOC]
 
