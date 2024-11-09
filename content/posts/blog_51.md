@@ -1,5 +1,5 @@
 Title: Top 5 Insights to Look for in a YouTube Audit
-Description: Discover the top 5 insights from a YouTube audit to boost channel growth, optimize SEO, engage your audience, and enhance content performance.
+Description: Discover the top 5 insights from a YouTube audit to boost growth, optimize SEO, engage audiences, and enhance content performance.
 Slug: top-youtube-audit-insights
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_51.jpg
 Author: Ella Morgan
