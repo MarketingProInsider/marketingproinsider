@@ -1,5 +1,5 @@
 Title: The Social Media App: Banality of Life in a Digital World
-Description: Uncover the banality of life on social media: shallow interactions, endless scrolling, and tips for meaningful engagement.
+Description: Uncover the banality of life on social media. Shallow interactions, endless scrolling, and tips for meaningful engagement.
 Slug: banality-of-life-social-media
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_54.jpg
 Author: Casey Morgan

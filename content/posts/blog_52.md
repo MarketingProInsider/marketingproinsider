@@ -1,5 +1,5 @@
 Title: The Best Tumblr Tips for Engagement and Virality
-Description: Boost engagement with these essential Tumblr tips! From visuals to tags, discover strategies to amplify your content’s reach.
+Description: Boost engagement with these essential Tumblr tips. From visuals to tags, discover strategies to amplify your content’s reach.
 Slug: tumblr-tips-for-engagement
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_52.jpg
 Author: Ella Morgan
