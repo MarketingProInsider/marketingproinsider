@@ -157,6 +157,7 @@ By following this guide, you can better navigate the complexities of Facebook be
 ---
 ### Relevant Blogs
 
+---
 #### 1. [everything you need to know about facebook marketing](https://marketingproinsider.com/everything-about-facebook-marketing)
 
 ---
