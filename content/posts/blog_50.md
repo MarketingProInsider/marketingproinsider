@@ -1,5 +1,5 @@
 Title: What is the Most Ideal Instagram Reels Length?
-Description: "Discover the ideal Instagram Reels length to boost engagement! Tips to captivate viewers & optimize content for max reach.
+Description: Discover the ideal Instagram Reels length to boost engagement! Tips to captivate viewers & optimize content for max reach.
 Slug: instagram-reel-length-for-engagement
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_50.jpg
 Author: Ella Morgan
