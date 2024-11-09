@@ -71,20 +71,20 @@ Social media apps, once heralded as a revolutionary way to connect and share, ha
 ### Read More Blogs
 
 ---
-### [What is social media app banality of life?](https://marketingproinsider.com/social-media-app-banality-of-life)
+### 1. [What is social media app banality of life?](https://marketingproinsider.com/social-media-app-banality-of-life)
 
 ---
-### [What are the Best Social Media Apps in the US?](https://marketingproinsider.com/best-social-media-apps)
+### 2. [What are the Best Social Media Apps in the US?](https://marketingproinsider.com/best-social-media-apps)
 
 ---
-### [5 Effective Steps In Social Media Marketing](https://marketingproinsider.com/steps-in-social-media-marketing)
+### 3. [5 Effective Steps In Social Media Marketing](https://marketingproinsider.com/steps-in-social-media-marketing)
 
 ---
-### [What are the top social media platforms in the us?](https://marketingproinsider.com/top-social-media-platforms-us)
+### 4. [What are the top social media platforms in the us?](https://marketingproinsider.com/top-social-media-platforms-us)
 
 ---
-### [The Ultimate Guide to Social Media Marketing Solutions](https://marketingproinsider.com/social-media-marketing-solutions)
+### 5. [The Ultimate Guide to Social Media Marketing Solutions](https://marketingproinsider.com/social-media-marketing-solutions)
 
 ---
-### [The Role of a Social Media Strategist in Marketing](https://marketingproinsider.com/role-social-media-strategist-marketing)
+### 6. [The Role of a Social Media Strategist in Marketing](https://marketingproinsider.com/role-social-media-strategist-marketing)
 
