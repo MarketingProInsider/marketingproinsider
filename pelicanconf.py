@@ -2,6 +2,7 @@
 import os
 
 GOOGLE_ANALYTICS = "G-J8RL7PZHWE"
+GTM_CODE = 'GTM-P7X4J7P4'
 
 # Author and site information
 AUTHOR = 'Professor John'
