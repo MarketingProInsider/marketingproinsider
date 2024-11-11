@@ -57,8 +57,11 @@ Features:
 *   **Free Google Fonts:** Style your blog with over 1,000 free Google Fonts.
 *   **Free updates & support:** Stand Bog is constantly updated with new features and bug fixes. You also get free support from the PyPiThemes team.
 
+## Clone git repo
+sudo git clone https://github.com/MarketingProInsider/marketingproinsider.git
+
 ## Create a virtual environment in the directory you want
-python3 -m venv pythonenv
+sudo python3 -m venv pythonenv
 
 ## Activate the virtual environment
 source pythonenv/bin/activate
@@ -161,6 +164,9 @@ sudo lsof -i :8000
 kill -9 [PID]
 
 ## Restart server with output log
+
+### Create an output log file
+sudo touch /home/marketingproinsider/output.log
 
 ### Check Directory Permissions and assign to user
 ls -ld /home/marketingproinsider/

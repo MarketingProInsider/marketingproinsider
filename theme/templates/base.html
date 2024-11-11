@@ -77,19 +77,19 @@
    {% if REL_CANONICAL %}
    {% if page %}
    <meta property="og:url" content="{{ SITEURL | lower }}/{{ page.url | replace('.html', '') | trim('/') | lower }}">
-   <link rel="canonical" href="{{ SITEURL | lower }}/{{ page.url | replace('.html', '') | trim('/') | lower }}">
+   <link rel="canonical" href="https://{{ SITEURL | lower }}/{{ page.url | replace('.html', '') | trim('/') | lower }}">
    {% elif article %}
-   <meta property="og:url" content="{{ SITEURL | lower }}/{{ article.url | replace('.html', '') | trim('/') | lower }}">
-   <link rel="canonical" href="{{ SITEURL | lower }}/{{ article.url | replace('.html', '') | trim('/') | lower }}">
+   <meta property="og:url" content="https://{{ SITEURL | lower }}/{{ article.url | replace('.html', '') | trim('/') | lower }}">
+   <link rel="canonical" href="https://{{ SITEURL | lower }}/{{ article.url | replace('.html', '') | trim('/') | lower }}">
    {% elif page_name == 'index' and not articles_previous_page %}
    <meta property="og:url" content="{{ SITEURL | lower }}">
-   <link rel="canonical" href="{{ SITEURL | lower }}">
+   <link rel="canonical" href="https://{{ SITEURL | lower }}">
    {% elif author or category or tag or page_name == 'index' %}
-   <meta property="og:url" content="{{ SITEURL | lower }}/{{ articles_page.url | replace('.html', '') | trim('/') | lower }}">
-   <link rel="canonical" href="{{ SITEURL | lower }}/{{ articles_page.url | replace('.html', '') | trim('/') | lower }}">
+   <meta property="og:url" content="https://{{ SITEURL | lower }}/{{ articles_page.url | replace('.html', '') | trim('/') | lower }}">
+   <link rel="canonical" href="https://{{ SITEURL | lower }}/{{ articles_page.url | replace('.html', '') | trim('/') | lower }}">
    {% else %}
-   <meta property="og:url" content="{{ SITEURL | lower }}/{{ output_file | replace('.html', '') | trim('/') | lower }}">
-   <link rel="canonical" href="{{ SITEURL | lower }}/{{ output_file | replace('.html', '') | trim('/') | lower }}">
+   <meta property="og:url" content="https://{{ SITEURL | lower }}/{{ output_file | replace('.html', '') | trim('/') | lower }}">
+   <link rel="canonical" href="https://{{ SITEURL | lower }}/{{ output_file | replace('.html', '') | trim('/') | lower }}">
    {% endif %}
    {% endif %}
    {% endif %}
