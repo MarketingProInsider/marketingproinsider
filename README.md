@@ -57,6 +57,24 @@ Features:
 *   **Free Google Fonts:** Style your blog with over 1,000 free Google Fonts.
 *   **Free updates & support:** Stand Bog is constantly updated with new features and bug fixes. You also get free support from the PyPiThemes team.
 
+## Create a virtual environment in the directory you want
+python3 -m venv pythonenv
+
+## Activate the virtual environment
+source pythonenv/bin/activate
+
+## Install the dependencies
+pip install -r requirements.txt
+
+## Install pelican on linux
+sudo apt install pelican
+
+## Install pelican plugin for share-post
+python -m pip install pelican-share-post
+
+## Install pelican plugin for minify
+pip install pelican-minify
+
 ## To Build
 pelican content -o output
 
@@ -65,6 +83,98 @@ pelican --listen
 
 ## To debug:
 pelican content --debug > pelicandebug.txt
+
+## To deploy on global production
+make html
+make serve-global [SERVER=0.0.0.0]
+
+## Install Apache2 and Necessary Modules
+sudo apt update
+sudo apt install apache2
+sudo a2enmod proxy proxy_http ssl
+
+## To install SSL on Apache2
+sudo apt install certbot python3-certbot-apache
+sudo certbot --apache -d yourdomain.com -d www.yourdomain.com
+
+## Create an Apache Virtual Host File
+sudo nano /etc/apache2/sites-available/pelican_site.conf
+
+## Add the Configuration for Apache2 as a Reverse Proxy for Pelican
+<VirtualHost *:80>
+    ServerName yourdomain.com
+    ServerAlias www.yourdomain.com
+    ProxyPreserveHost On
+    ProxyPass / http://127.0.0.1:8000/
+    ProxyPassReverse / http://127.0.0.1:8000/
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+
+<VirtualHost *:443>
+    ServerName yourdomain.com
+    ServerAlias www.yourdomain.com
+
+    SSLEngine On
+    SSLCertificateFile /etc/letsencrypt/live/yourdomain.com/fullchain.pem  # For Let's Encrypt
+    SSLCertificateKeyFile /etc/letsencrypt/live/yourdomain.com/privkey.pem  # For Let's Encrypt
+
+    # For a self-signed certificate, use:
+    # SSLCertificateFile /etc/ssl/certs/pelican-selfsigned.crt
+    # SSLCertificateKeyFile /etc/ssl/private/pelican-selfsigned.key
+
+    ProxyPreserveHost On
+    ProxyPass / http://127.0.0.1:8000/
+    ProxyPassReverse / http://127.0.0.1:8000/
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+
+## Enable the New Site Configuration
+sudo a2ensite pelican_site.conf
+
+## Restart Apache to apply the new configuration
+sudo systemctl restart apache2
+
+## Configure DNS Records
+To make your website accessible via a domain name instead of an IP address, you’ll need to set up DNS records.
+
+- Access Your DNS Provider's Control Panel: Log into the DNS provider for your domain (such as GoDaddy, Namecheap, Cloudflare, etc.).
+- Add an ‘A’ Record:
+    - Type: A
+    - Name: @ (represents the root domain, e.g., yourdomain.com)
+    - Value: Your server’s IP address (e.g., 123.45.67.89)
+    - TTL: Set to Auto or 1 hour
+
+- (Optional) Add a ‘www’ CNAME Record:
+    - Type: CNAME
+    - Name: www
+    - Value: yourdomain.com
+    - TTL: Auto or 1 hour
+
+- Save all the DNS records.
+
+## Kill process at port 8000
+sudo lsof -i :8000
+kill -9 [PID]
+
+## Restart server with output log
+
+### Check Directory Permissions and assign to user
+ls -ld /home/marketingproinsider/
+sudo chmod u+w /home/marketingproinsider/
+
+### Change Ownership (if needed)
+sudo chown $(whoami) /home/marketingproinsider/output.log
+
+### Run with Elevated Privileges
+sudo nohup make serve-global SERVER=127.0.0.1 > /home/marketingproinsider/output.log 2>&1 &
+
+
+
+
 
 Technologies:
 -------------
