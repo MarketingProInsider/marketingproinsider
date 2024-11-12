@@ -23,11 +23,11 @@ window.addEventListener('DOMContentLoaded', function() {
               <div class="col-lg-6">
                 <div class="blog-post">
                   <div class="blog-thumb">
-                    <img loading="lazy" style="height: 180px; width: 320px;" src="${article.SITEURL}/${article.thumbnail}" alt="${article.alt || ''}">
+                    <img loading="lazy" style="height: 180px; width: 320px;" src="/${article.thumbnail}" alt="${article.alt || ''}">
                   </div>
                   <div class="down-content">
                     <span>${article.category}</span>
-                    <a href="${article.SITEURL}/${article.slug}"><h4>${article.title}</h4></a>
+                    <a href="${article.slug}"><h4>${article.title}</h4></a>
                     <ul class="post-info">
                       ${article.author.map(author => `<li><a href="${author.url.replace(/\/$/, '').toLowerCase()}">${author.name}</a></li>`).join('')}
                       <li><a href="">${article.date}</a></li>
