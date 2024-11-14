@@ -2,12 +2,12 @@ Title: Why Making a Social Media Blueprint is Important?
 Description: A Social Media Blueprint is essential for brand success. Learn why it's important, how it boosts engagement, and guides effective strategy.
 Slug: social-media-blueprint-importance
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_57.jpg
-Author: Casey Morgan
+Author: Alex Carter
 resume: A Social Media Blueprint helps brands stay focused, connect with audiences, and boost engagement through clear, goal-driven strategies and metrics.
 Category: Social Media Marketing
 Tags:Social Media Blueprint, Social Media Strategy, Social Media Planning, Social Media Tips, Brand Engagement, Audience Targeting, Content Strategy, Social Media Goals, Social Media Specialist, Social Media Success
 Date: 2024-11-15
-Alt: Social Media s
+Alt: Social Media Blueprint
 Status: published
 
 [TOC]
