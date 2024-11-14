@@ -151,7 +151,6 @@ Creating a **Social Media Blueprint** is not just a beneficial step but an essen
 ### Relevant Blogs
 
 ---
-
 #### 1. [The Social Media App: Banality of Life in a Digital World](https://marketingproinsider.com/banality-of-life-social-media)
 
 ---
