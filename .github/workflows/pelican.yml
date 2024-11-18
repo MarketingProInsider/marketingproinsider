@@ -31,8 +31,8 @@ jobs:
         cd /home/marketingproinsider
 
         # Pull the latest changes
-        git pull origin master
+        sudo git pull origin master
 
         # Build application
-        make html
+        sudo make html
         EOF
