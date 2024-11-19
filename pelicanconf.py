@@ -33,7 +33,7 @@ MARKDOWN = {
     'extension_configs': {
         'markdown.extensions.toc': {
             'title': 'Table of contents:',
-            'toc_depth': '4',  # Ensures only H1, H2, H3 and H4 are included
+            'toc_depth': '2',  # Ensures only H1 and H2 are included
         },
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
