@@ -11,28 +11,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Step 1: Checkout code
     - name: Checkout code
       uses: actions/checkout@v3
 
-    # Step 2: Setup SSH
-    - name: Setup SSH
-      run: |
-        mkdir -p ~/.ssh
-        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan -H ${{ secrets.SSH_IP }} >> ~/.ssh/known_hosts
-
-    # Step 3: Deploy Pelican Application
-    - name: Deploy Pelican Application
-      run: |
-        ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa ${{ secrets.SSH_USER }}@${{ secrets.SSH_IP }} << 'EOF'
-        # Navigate to the deployment directory
-        cd /home/marketingproinsider
-
-        # Pull the latest changes
-        sudo git pull origin master
-
-        # Build application
-        sudo make html
-        EOF
+    # SSH Login via https://github.com/appleboy/ssh-action and command execution
+    - name: executing remote ssh commands using password
+      uses: appleboy/ssh-action@v1.2.0
+      with:
+        host: ${{ secrets.SSH_IP }}
+        username: ${{ secrets.SSH_USER }}
+        password: ${{ secrets.SSH_PASS }}
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        script: |
+          # Navigate to the deployment directory
+          cd /home/marketingproinsider
+          # Pull the latest changes
+          sudo git pull origin master
+          # Build application
+          sudo make html
