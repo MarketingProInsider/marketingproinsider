@@ -32,7 +32,7 @@ Ready to make your social media shine? Let's explore how these easy steps can ch
 
 As a social media specialist, knowing the basics of analytics is key. It helps you track your performance and create effective campaigns. This section will cover the main metrics, tools, and how to set up a dashboard. This will help you make smart decisions for your social media strategy.
 
-### Key Metrics Every Social Media Specialist Should Track
+## Key Metrics Every Social Media Specialist Should Track
 It's important to watch the right metrics to understand your audience and campaign success. Key metrics include:
 
 1. **Reach:** The total number of people who have seen your content
