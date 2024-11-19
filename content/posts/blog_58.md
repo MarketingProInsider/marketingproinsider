@@ -36,7 +36,7 @@ As a social media specialist, knowing the basics of analytics is key. It helps y
 It's important to watch the right metrics to understand your audience and campaign success. Key metrics include:
 
 1. **Reach:** The total number of people who have seen your content
-2. Engagement:** The level of interaction with your content, such as likes, comments, and shares
+2. **Engagement:** The level of interaction with your content, such as likes, comments, and shares
 3. **Click-through rate (CTR):** The percentage of people who clicked on your content
 4. **Conversion rate:** The percentage of people who took a desired action, such as making a purchase or signing up for a newsletter
 5. **Sentiment:** The overall sentiment of the conversations around your brand or content
