@@ -1,29 +1,31 @@
-name: Pelican to Github Pages
+name: Deploy changes to live/server
 
 on:
-  # Trigger the workflow on push on main branch,
+  # Trigger the workflow on push to the master branch
   push:
     branches:
-      - main
-
-backend:
-  name: netlify-api
-  url: http://localhost:8080
-
-production:
-  backend:
-    name: github-api
-    repo: MarketingProInsider/marketingproinsider
-    branch: master
+      - master
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
-      with: 
-        submodules: 'true'
-    - uses: rehanhaider/pelican-to-github-pages@v1.3.0
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        GH_PAGES_CNAME: ${{secrets.DOMAIN_CNAME}}
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # SSH Login via https://github.com/appleboy/ssh-action and command execution
+    - name: executing remote ssh commands using password
+      uses: appleboy/ssh-action@v1.2.0
+      with:
+        host: ${{ secrets.SSH_IP }}
+        username: ${{ secrets.SSH_USER }}
+        password: ${{ secrets.SSH_PASS }}
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        script: |
+          # Navigate to the deployment directory
+          cd /home/marketingproinsider
+          # Pull the latest changes
+          sudo git pull origin master
+          # Build application
+          sudo make html
