@@ -571,7 +571,15 @@ img {
 }
 
 .toc {
-	margin-bottom: 10px;
+	background: #f9f9f9;
+	border: 1px solid #aaa;
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0,0,0,.05);
+	display: table;
+	margin-bottom: 1em;
+	padding: 10px 20px 10px 10px;
+	position: relative;
+	width: auto;
 }
 
 .toctitle {
@@ -593,6 +601,22 @@ img {
 	font-size: 14px;
 	margin-bottom: 5px;
 	color: black;
+}
+
+.toc a {
+	all: unset;
+	color: #444;
+	box-shadow: none;
+	text-decoration: none;
+	text-shadow: none;
+	display: inline-flex;
+	align-items: stretch;
+	flex-wrap: nowrap;
+}
+
+.toc a:hover {
+	color: var(--link-hover-color);
+	cursor: pointer;
 }
 
 .blog-posts .down-content ul li {
