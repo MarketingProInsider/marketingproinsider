@@ -18,9 +18,13 @@ As with any social media platform, the key to maximizing engagement is timing. P
 
 ## Key Takeaways
 - The best time to post on Threads can vary based on your audience, but generally, **early mornings (6 AM - 9 AM)** and **late afternoons (4 PM - 6 PM)** tend to see the highest engagement.
+
 - **Weekdays, especially** Tuesday through Thursday, are typically the best days for higher engagement on Threads.
+
 - Timing depends on **time zone considerations**, particularly the East Coast (ET) and West Coast (PT) audiences.
+
 - **Audience behavior** such as location, age, and interests play a role in optimizing the timing of your posts.
+
 - Analyzing your **Threads Insights** will provide specific data for your account to find the best time to post.
 
 ## Introduction
