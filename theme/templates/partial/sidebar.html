@@ -19,7 +19,7 @@
             <ul>
               {% for article in articles[:5] %}
                 <li>
-                  <a href="{{ SITEURL }}/{{ article.slug }}">
+                  <a href="/{{ article.slug }}">
                     <!-- Blog post thumbnail -->
                     <div class="blog-thumb">
                       <img loading="lazy" style="height: 200px; width: 350px;" src="{{ article.thumbnail }}" alt="{% if article.alt %}{{ article.alt }}{% endif %}">
