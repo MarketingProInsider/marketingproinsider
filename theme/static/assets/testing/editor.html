@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>File Editor</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/trumbowyg@2.25.0/dist/ui/trumbowyg.min.css">
+</head>
+<body class="bg-light">
+  <div class="container py-5">
+    <h1 class="text-center mb-4">Edit File</h1>
+    <div class="card p-4 shadow">
+      <form id="fileForm">
+        <!-- Metadata fields -->
+        <h3>Metadata</h3>
+        <div class="mb-3">
+          <label for="title" class="form-label">Title</label>
+          <input type="text" class="form-control" id="title" />
+        </div>
+        <div class="mb-3">
+          <label for="description" class="form-label">Description</label>
+          <textarea class="form-control" id="description" rows="2"></textarea>
+        </div>
+        <div class="mb-3">
+          <label for="slug" class="form-label">Slug</label>
+          <input type="text" class="form-control" id="slug" />
+        </div>
+        <div class="mb-3">
+          <label for="thumbnail" class="form-label">Thumbnail</label>
+          <input type="text" class="form-control" id="thumbnail" />
+        </div>
+        <div class="mb-3">
+          <label for="author" class="form-label">Author</label>
+          <input type="text" class="form-control" id="author" />
+        </div>
+        <div class="mb-3">
+          <label for="resume" class="form-label">Resume</label>
+          <textarea class="form-control" id="resume" rows="2"></textarea>
+        </div>
+        <div class="mb-3">
+          <label for="category" class="form-label">Category</label>
+          <input type="text" class="form-control" id="category" />
+        </div>
+        <div class="mb-3">
+          <label for="tags" class="form-label">Tags</label>
+          <textarea class="form-control" id="tags" rows="2"></textarea>
+        </div>
+        <div class="mb-3">
+          <label for="date" class="form-label">Date</label>
+          <input type="date" class="form-control" id="date" />
+        </div>
+        <div class="mb-3">
+          <label for="alt" class="form-label">Alt Text</label>
+          <input type="text" class="form-control" id="alt" />
+        </div>
+        <div class="mb-3">
+          <label for="status" class="form-label">Status</label>
+          <select class="form-control" id="status">
+            <option value="draft">Draft</option>
+            <option value="published">Published</option>
+          </select>
+        </div>
+
+        <!-- New UI fields for name, email, and message -->
+        <h3>Contributor Info</h3>
+        <div class="mb-3">
+          <label for="contributorName" class="form-label">Contributor Name</label>
+          <input type="text" class="form-control" id="contributorName" />
+        </div>
+        <div class="mb-3">
+          <label for="contributorEmail" class="form-label">Contributor Email</label>
+          <input type="email" class="form-control" id="contributorEmail" />
+        </div>
+        <div class="mb-3">
+          <label for="contributorMessage" class="form-label">Contributor Message</label>
+          <textarea class="form-control" id="contributorMessage" rows="2"></textarea>
+        </div>        
+
+        <!-- Content editor -->
+        <div class="mb-3">
+          <label for="content" class="form-label">Content</label>
+          <textarea id="content"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-success w-100">Save Changes</button>
+      </form>
+    </div>
+    <button id="backButton" class="btn btn-primary mt-4" onclick="history.back()">Back to Repo</button>
+  </div>
+
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <!-- Trumbowyg JS -->
+  <script src="https://cdn.jsdelivr.net/npm/trumbowyg@2.25.0/dist/trumbowyg.min.js"></script>
+  <!-- Showdown.js -->
+  <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
+
+  <script type="module">
+    import { Octokit } from "https://esm.sh/@octokit/core";
+
+    const owner = 'MarketingProInsider';
+    const repo = 'marketingproinsider';
+    const filePath = 'content/posts/blog_59.md';
+    const authToken = ''; // Set your GitHub token here
+    const octokit = new Octokit({ auth: authToken });
+    const converter = new showdown.Converter(); // Markdown to HTML converter
+
+    // Initialize Trumbowyg editor
+    $('#content').trumbowyg();
+
+    // Parse metadata and content
+    function parseFileContent(content) {
+      const fields = {};
+      const lines = content.split('\n');
+      let isContent = false;
+      let contentBody = '';
+
+      lines.forEach(line => {
+        if (line.trim() === '') return;
+
+        // Metadata handling
+        const [key, ...value] = line.split(':');
+        if (value.length > 0 && !isContent) {
+          fields[key.trim()] = value.join(':').trim();
+        } else {
+          isContent = true;
+          contentBody += `${line}\n`;
+        }
+      });
+
+      return { fields, content: contentBody.trim() };
+    }
+
+    // Fetch file content from GitHub
+    async function fetchFileContent() {
+      try {
+        const fileData = await octokit.request('GET /repos/{owner}/{repo}/contents/{path}', {
+          owner,
+          repo,
+          path: filePath,
+        });
+
+        // Decode and parse content
+        const rawContent = decodeURIComponent(escape(atob(fileData.data.content)));
+        const { fields, content: markdownContent } = parseFileContent(rawContent);
+
+        // Populate metadata fields
+        Object.keys(fields).forEach(key => {
+          const input = document.getElementById(key.toLowerCase());
+          if (input) input.value = fields[key];
+        });
+
+        // Convert Markdown to HTML and set in editor
+        const htmlContent = converter.makeHtml(markdownContent);
+        $('#content').trumbowyg('html', htmlContent);
+      } catch (error) {
+        console.error(error);
+        alert('Failed to fetch file content.');
+      }
+    }
+
+    // Save file content
+    async function saveFileContent(e) {
+      e.preventDefault();
+      try {
+        // Gather metadata
+        const metadata = Array.from(document.querySelectorAll('form input, form textarea'))
+          .filter(field => field.id !== 'content')
+          .map(field => `${field.id.charAt(0).toUpperCase() + field.id.slice(1)}: ${field.value}`)
+          .join('\n');
+
+        // Get the HTML content from Trumbowyg editor
+        const content = $('#content').trumbowyg('html');
+
+        // Get the contributor information from the UI
+        const contributorName = document.getElementById('contributorName').value;
+        const contributorEmail = document.getElementById('contributorEmail').value;
+        const contributorMessage = document.getElementById('contributorMessage').value;
+
+        // Create the content to send to GitHub (including metadata and contributor info)
+        const fileData = `${metadata}\n\nContributor Name: ${contributorName}\nContributor Email: ${contributorEmail}\nContributor Message: ${contributorMessage}\n\n${content}`;
+        const formattedContent = unescape(encodeURIComponent(fileData)); // Handle special characters
+        const encodedContent = btoa(formattedContent); // Encode content to base64
+
+        // Update file on GitHub
+        await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
+          owner,
+          repo,
+          path: filePath,
+          message: 'Update file content with contributor info',
+          committer: {
+            name: contributorName, // Use the contributor name from the form
+            email: contributorEmail, // Use the contributor email from the form
+          },
+          content: encodedContent,
+        });
+
+        alert('File saved successfully!');
+      } catch (error) {
+        console.error(error);
+        alert('Failed to save file.');
+      }
+    }
+
+    // Listen for form submission
+    document.getElementById('fileForm').addEventListener('submit', saveFileContent);
+
+    // Fetch file content on page load
+    fetchFileContent();
+  </script>
+</body>
+</html>
