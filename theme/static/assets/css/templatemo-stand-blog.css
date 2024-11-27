@@ -627,11 +627,11 @@ img {
 	text-shadow: none;
 	align-items: stretch;
 	flex-wrap: nowrap;
+	cursor: pointer;
 }
 
 .toc a:hover {
 	color: var(--link-hover-color);
-	cursor: pointer;
 }
 
 .blog-posts .down-content ul li {
