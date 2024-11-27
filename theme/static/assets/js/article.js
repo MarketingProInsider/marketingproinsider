@@ -38,7 +38,15 @@ window.addEventListener('DOMContentLoaded', function() {
                         <li>
                           <i class="fa fa-tags"></i>
                         </li>
-                        ${article.tags.map((tag, index) => `<li><a href="${tag.url}">${tag.name}</a>${index !== article.tags.length - 1 ? ' , ' : ''}</li>`).join(' ')}
+                        ${
+                          article.tags.length > 4
+                            ? article.tags.slice(0, 4).map((tag, index) => `
+                                <li><a href="${tag.url}">${tag.name}</a>${index < 3 ? ' , ' : ''}</li>
+                              `).join('') + '...'
+                            : article.tags.map((tag, index) => `
+                                <li><a href="${tag.url}">${tag.name}</a>${index !== article.tags.length - 1 ? ' , ' : ''}</li>
+                              `).join('')
+                        }
                       </ul>
                     </div>
                   </div>
