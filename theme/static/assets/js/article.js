@@ -25,7 +25,7 @@ window.addEventListener('DOMContentLoaded', function() {
                   <div class="blog-thumb">
                     <img loading="lazy" style="height: 180px; width: 320px;" src="${article.thumbnail}" alt="${article.alt || ''}">
                   </div>
-                  <div class="down-content">
+                  <div class="down-content-card">
                     <span>${article.category}</span>
                     <a href="${article.slug}"><h4>${article.title}</h4></a>
                     <ul class="post-info">
@@ -41,10 +41,10 @@ window.addEventListener('DOMContentLoaded', function() {
                         ${
                           article.tags.length > 4
                             ? article.tags.slice(0, 4).map((tag, index) => `
-                                <li><a href="${tag.url}">${tag.name}</a>${index < 3 ? ' , ' : ''}</li>
+                                <li><a href="${tag.url}">${tag.name}</a>${index < 3 ? ', ' : ''}</li>
                               `).join('') + '...'
                             : article.tags.map((tag, index) => `
-                                <li><a href="${tag.url}">${tag.name}</a>${index !== article.tags.length - 1 ? ' , ' : ''}</li>
+                                <li><a href="${tag.url}">${tag.name}</a>${index !== article.tags.length - 1 ? ', ' : ''}</li>
                               `).join('')
                         }
                       </ul>
