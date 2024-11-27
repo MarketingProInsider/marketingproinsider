@@ -41,6 +41,21 @@ h6 {
 	margin: 0px;
 }
 
+h1 {
+	font-size: 2.25rem;
+}
+
+h2 {
+	font-size: 1.75rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+}
+
+h4 {
+	font-size: 1rem;
+}
 .main-button a {
 	display: inline-block;
 	background-color: #f48840;
@@ -444,6 +459,7 @@ header .navbar {
 }
 
 .blog-posts .blog-post {
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
 	margin-bottom: 30px;
 }
 
@@ -561,7 +577,7 @@ img {
 }
 
 .blog-posts .down-content p {
-	margin: 25px 0px;
+	margin: 5px 0px;
 	/* border-top: 1px solid #eee;
 	border-bottom: 1px solid #eee; */
 }
@@ -609,7 +625,6 @@ img {
 	box-shadow: none;
 	text-decoration: none;
 	text-shadow: none;
-	display: inline-flex;
 	align-items: stretch;
 	flex-wrap: nowrap;
 }

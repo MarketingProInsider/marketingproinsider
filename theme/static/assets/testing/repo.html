@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Repository Details</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+  <div class="container py-5">
+    <h1 class="text-center mb-4">Enter Repository Details</h1>
+    <div class="card p-4 shadow">
+      <form id="repoForm">
+        <div class="mb-3">
+          <label for="owner" class="form-label">Owner</label>
+          <input type="text" class="form-control" id="owner" placeholder="Enter owner name" required>
+        </div>
+        <div class="mb-3">
+          <label for="repo" class="form-label">Repository Name</label>
+          <input type="text" class="form-control" id="repo" placeholder="Enter repository name" required>
+        </div>
+        <button type="submit" class="btn btn-primary w-100">Fetch Repository</button>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    const repoForm = document.getElementById('repoForm');
+    repoForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const owner = document.getElementById('owner').value;
+      const repo = document.getElementById('repo').value;
+      localStorage.setItem('owner', owner);
+      localStorage.setItem('repo', repo);
+      window.location.href = 'content.html'; // Navigate to repository content page
+    });
+  </script>
+</body>
+</html>
