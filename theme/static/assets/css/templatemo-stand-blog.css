@@ -459,7 +459,7 @@ header .navbar {
 }
 
 .blog-posts .blog-post {
-	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+	box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.2);
 	margin-bottom: 30px;
 }
 
@@ -565,6 +565,85 @@ img {
 	display: none;
 }
 
+.blog-posts .down-content-card {
+	padding: 10px;
+	border-right: 1px solid #eee;
+	border-left: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+}
+
+.down-content-card ul {
+  list-style: none;
+}
+
+/* Add a checkmark before each <li> in specific sections */
+.col-lg-12 .blog-post .down-content-card ul li:before {
+	content: '• ';
+}
+
+.blog-posts .down-content-card ul.post-info li::before,
+.blog-posts .down-content-card ul.post-tags li::before,
+.blog-posts .down-content-card ul.post-share li::before {
+	content: none;
+}
+
+.col-lg-8 .all-blog-posts .row .col-lg-12 .blog-posts .down-content-card p {
+	padding: 0px 0px;
+	margin: 0px 0px;
+}
+
+.down-content-card th, .down-content-card td {
+	border: 1px solid black;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.blog-posts .down-content-card span {
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	font-weight: 900;
+	color: #f48840;
+}
+
+.blog-posts .down-content-card h4 {
+	font-size: 24px;
+	text-transform: capitalize;
+	letter-spacing: 0.5px;
+	font-weight: 900;
+	color: #20232e;
+	margin: 10px 0px 12px 0px;
+}
+
+.blog-posts .down-content-card ul.post-info li {
+	display: inline-block;
+	margin-right: 8px;
+}
+
+
+.blog-posts .down-content-card ul.post-info li:after {
+	content: '|';
+	color: #aaa;
+	margin-left: 8px;
+}
+
+.blog-posts .down-content-card h4 {
+	font-size: 20px;
+	letter-spacing: 0.25px;
+}
+
+.grid-system .down-content-card ul.post-info li {
+	margin-right: 3px;
+}
+
+.grid-system .down-content-card ul.post-info li:after {
+	margin-left: 5px;
+}
+
+.blog-posts .down-content-card ul.post-info li:last-child::after {
+	display: none;
+}
+
 .blog-posts .down-content ul.post-info li a {
 	font-size: 14px;
 	color: #aaa;
@@ -576,13 +655,34 @@ img {
 	color: #f48840;
 }
 
+.blog-posts .down-content-card ul.post-info li a {
+	font-size: 14px;
+	color: #aaa;
+	font-weight: 400;
+	transition: all .3s;
+}
+
+.blog-posts .down-content-card ul.post-info li a:hover {
+	color: #f48840;
+}
+
 .blog-posts .down-content p {
-	margin: 5px 0px;
+	margin: 25px 0px;
 	/* border-top: 1px solid #eee;
 	border-bottom: 1px solid #eee; */
 }
 
 .blog-posts .down-content ul.post-share {
+	text-align: right;
+}
+
+.blog-posts .down-content-card p {
+	margin: 5px 0px;
+	/* border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee; */
+}
+
+.blog-posts .down-content-card ul.post-share {
 	text-align: right;
 }
 
