@@ -798,6 +798,36 @@ table {
 	color: #f48840;
 }
 
+.blog-posts .down-content-card ul.post-tags li,
+.blog-posts .down-content-card ul.post-share li {
+	display: inline-block;
+}
+
+.blog-posts .down-content-card ul.post-tags li:first-child i,
+.blog-posts .down-content-card ul.post-share li:first-child i {
+	color: #f48840;
+	margin-right: 5px;
+}
+
+.blog-posts .down-content-card ul.post-tags li,
+.blog-posts .down-content-card ul.post-share li {
+	color: #aaa;
+}
+
+.blog-posts .down-content-card ul.post-tags li a,
+.blog-posts .down-content-card ul.post-share li a {
+	all: unset;
+	font-size: 14px;
+	color: #aaa;
+	font-weight: 400;
+	transition: all .3s;
+}
+
+.blog-posts .down-content-card ul.post-tags li a:hover,
+.blog-posts .down-content-card ul.post-share li a:hover {
+	color: #f48840;
+}
+
 .blog-posts .main-button a {
 	height: 60px;
 	line-height: 60px;
