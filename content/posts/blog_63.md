@@ -77,7 +77,7 @@ For instance, if you're a brand selling sustainable fashion, you could create a 
 
 Having a community also allows you to create exclusive content, polls, or even events, which will further solidify your presence on the platform. As members start interacting more and sharing your content, your reach will grow naturally.
 
-### Engage in Meaningful Conversations
+## Engage in Meaningful Conversations
 Being in a Twitter Community isn’t just about broadcasting your tweets to a larger audience. The power of Communities lies in the ability to engage with others who share your interests. By participating in meaningful conversations, you are more likely to gain followers who genuinely care about your content and what you have to say.
 
 Instead of just posting your own tweets, be sure to engage with others in the Community. Like their posts, reply with thoughtful comments, and share relevant content that adds value to the conversation. When you're consistently present and involved in a Community, your followers and Community members will begin to take notice, increasing the likelihood that they’ll share your content or engage with your tweets.
@@ -101,7 +101,7 @@ Incorporating trending or relevant hashtags in your tweets can help you get noti
 
 Also, try to follow popular hashtags in your niche, and jump in on conversations using those tags. The exposure you get by being part of broader conversations can bring more eyes to your Community and your tweets, ultimately helping to grow your reach.
 
-### Invite Others to Join the Community
+## Invite Others to Join the Community
 
 ![Twitter Communities](/theme/assets/images/contents/post/blog_63_pic_4.jpg)
 
