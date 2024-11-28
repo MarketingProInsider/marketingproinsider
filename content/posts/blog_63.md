@@ -49,9 +49,9 @@ These Communities are private or public groups where members can join conversati
 
 There are two main types of Communities you can be involved in on Twitter:
 
-1. **Public Communities**: Open for everyone to join, these groups allow users to interact with like-minded people but are still discoverable by the wider Twitter population.
+**Public Communities**: Open for everyone to join, these groups allow users to interact with like-minded people but are still discoverable by the wider Twitter population.
 
-2. **Private Communities**: Invitation-only groups where members can join with a specific invite or approval, allowing for more exclusive content sharing and discussions.
+**Private Communities**: Invitation-only groups where members can join with a specific invite or approval, allowing for more exclusive content sharing and discussions.
 
 The goal of Twitter Communities is to create a more engaging experience, where users can share content, get feedback, and grow a presence among a specific community of people who share their interests.
 
