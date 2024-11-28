@@ -161,7 +161,7 @@ To make your website accessible via a domain name instead of an IP address, youâ
 
 ## Kill process at port 8000
 sudo lsof -i :8000
-kill -9 [PID]
+sudo kill -9 [PID]
 
 ## Restart server with output log
 

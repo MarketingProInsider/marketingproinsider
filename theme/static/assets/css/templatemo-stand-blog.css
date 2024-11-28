@@ -22,6 +22,14 @@ p {
 	line-height: 30px;
 }
 
+.down-content-card p {
+	margin-bottom: 0px;
+	font-size: 15px;
+	font-weight: 400;
+	color: black;
+	line-height: 22px;
+}
+
 a {
 	text-decoration: none !important;
 }
@@ -41,6 +49,21 @@ h6 {
 	margin: 0px;
 }
 
+h1 {
+	font-size: 2.25rem;
+}
+
+h2 {
+	font-size: 1.75rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+}
+
+h4 {
+	font-size: 1rem;
+}
 .main-button a {
 	display: inline-block;
 	background-color: #f48840;
@@ -444,6 +467,7 @@ header .navbar {
 }
 
 .blog-posts .blog-post {
+	box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.2); /* Shadow in all directions */
 	margin-bottom: 30px;
 }
 
@@ -549,6 +573,85 @@ img {
 	display: none;
 }
 
+.blog-posts .down-content-card {
+	padding: 10px;
+	border-right: 1px solid #eee;
+	border-left: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+}
+
+.down-content-card ul {
+  list-style: none;
+}
+
+/* Add a checkmark before each <li> in specific sections */
+.col-lg-12 .blog-post .down-content-card ul li:before {
+	content: '• ';
+}
+
+.blog-posts .down-content-card ul.post-info li::before,
+.blog-posts .down-content-card ul.post-tags li::before,
+.blog-posts .down-content-card ul.post-share li::before {
+	content: none;
+}
+
+.col-lg-8 .all-blog-posts .row .col-lg-12 .blog-posts .down-content-card p {
+	padding: 0px 0px;
+	margin: 0px 0px;
+}
+
+.down-content-card th, .down-content-card td {
+	border: 1px solid black;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.blog-posts .down-content-card span {
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	font-weight: 900;
+	color: #f48840;
+}
+
+.blog-posts .down-content-card h4 {
+	font-size: 24px;
+	text-transform: capitalize;
+	letter-spacing: 0.5px;
+	font-weight: 900;
+	color: #20232e;
+	margin: 10px 0px 12px 0px;
+}
+
+.blog-posts .down-content-card ul.post-info li {
+	display: inline-block;
+	margin-right: 8px;
+}
+
+
+.blog-posts .down-content-card ul.post-info li:after {
+	content: '|';
+	color: #aaa;
+	margin-left: 8px;
+}
+
+.blog-posts .down-content-card h4 {
+	font-size: 20px;
+	letter-spacing: 0.25px;
+}
+
+.grid-system .down-content-card ul.post-info li {
+	margin-right: 3px;
+}
+
+.grid-system .down-content-card ul.post-info li:after {
+	margin-left: 5px;
+}
+
+.blog-posts .down-content-card ul.post-info li:last-child::after {
+	display: none;
+}
+
 .blog-posts .down-content ul.post-info li a {
 	font-size: 14px;
 	color: #aaa;
@@ -560,6 +663,17 @@ img {
 	color: #f48840;
 }
 
+.blog-posts .down-content-card ul.post-info li a {
+	font-size: 14px;
+	color: #aaa;
+	font-weight: 400;
+	transition: all .3s;
+}
+
+.blog-posts .down-content-card ul.post-info li a:hover {
+	color: #f48840;
+}
+
 .blog-posts .down-content p {
 	margin: 25px 0px;
 	/* border-top: 1px solid #eee;
@@ -567,6 +681,16 @@ img {
 }
 
 .blog-posts .down-content ul.post-share {
+	text-align: right;
+}
+
+.blog-posts .down-content-card p {
+	margin: 5px 0px;
+	/* border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee; */
+}
+
+.blog-posts .down-content-card ul.post-share {
 	text-align: right;
 }
 
@@ -597,7 +721,6 @@ img {
 	display: block;
 	font-weight: normal !important;
 	font-style: normal;
-	font-family: san-serif;
 	font-size: 14px;
 	margin-bottom: 5px;
 	color: black;
@@ -609,21 +732,19 @@ img {
 	box-shadow: none;
 	text-decoration: none;
 	text-shadow: none;
-	display: inline-flex;
 	align-items: stretch;
 	flex-wrap: nowrap;
+	cursor: pointer;
 }
 
 .toc a:hover {
 	color: var(--link-hover-color);
-	cursor: pointer;
 }
 
 .blog-posts .down-content ul li {
 	all: unset;
 	font-weight: normal !important;
 	font-style: normal;
-	font-family: san-serif;
 	font-size: 15px;
 	color: black;
 	display: block;
@@ -680,6 +801,36 @@ table {
 
 .blog-posts .down-content ul.post-tags li a:hover,
 .blog-posts .down-content ul.post-share li a:hover {
+	color: #f48840;
+}
+
+.blog-posts .down-content-card ul.post-tags li,
+.blog-posts .down-content-card ul.post-share li {
+	display: inline-block;
+}
+
+.blog-posts .down-content-card ul.post-tags li:first-child i,
+.blog-posts .down-content-card ul.post-share li:first-child i {
+	color: #f48840;
+	margin-right: 5px;
+}
+
+.blog-posts .down-content-card ul.post-tags li,
+.blog-posts .down-content-card ul.post-share li {
+	color: #aaa;
+}
+
+.blog-posts .down-content-card ul.post-tags li a,
+.blog-posts .down-content-card ul.post-share li a {
+	all: unset;
+	font-size: 14px;
+	color: #aaa;
+	font-weight: 400;
+	transition: all .3s;
+}
+
+.blog-posts .down-content-card ul.post-tags li a:hover,
+.blog-posts .down-content-card ul.post-share li a:hover {
 	color: #f48840;
 }
 

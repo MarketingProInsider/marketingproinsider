@@ -159,7 +159,7 @@
                     <h4>Staying Ahead of Trends</h4>
                     <p>The digital landscape is constantly changing, with new trends emerging at a rapid pace. Our team stays updated on the latest developments, ensuring that your brand remains relevant and top-of-mind among your audience.</p>
                     <br>
-                    <p>From viral challenges to trending hashtags, we proactively integrate these trends into your social media strategy, making your content timely and engaging. By tapping into current conversations, we help your brand maintain a fresh and dynamic online presence.</p
+                    <p>From viral challenges to trending hashtags, we proactively integrate these trends into your social media strategy, making your content timely and engaging. By tapping into current conversations, we help your brand maintain a fresh and dynamic online presence.</p>
                       
                     <br> 
                     <h3>Marketing Pro Insider: Your Expert in Social Media</h3>
@@ -206,7 +206,36 @@
 
 {% block defer_js_code %}
 <script defer>
-  // Get the button
+  // Side Category Tags See More button functionality
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("toggle-tags");
+    const tagsList = document.querySelectorAll("#tags-list .tag-item");
+    let visibleCount = 7; // Initially show 7 tags
+
+    if (button) {
+      button.addEventListener("click", function () {
+        // Calculate the next batch of tags to show
+        const nextBatch = visibleCount + 7;
+        tagsList.forEach((tag, index) => {
+          if (index < nextBatch) {
+            tag.style.display = "list-item"; // Show the next 7 hidden tags
+          }
+        });
+
+        // Update visible count
+        visibleCount = nextBatch;
+
+        // Hide button if all tags are visible
+        if (visibleCount >= tagsList.length) {
+          button.style.display = "none";
+        }
+      });
+    }
+  });
+
+
+  //// Scroll to top button functionality
+  // Get the go to top button
   let mybutton = document.getElementById("nodisplay");
 
   // When the user scrolls down 200px from the top of the document, show the button

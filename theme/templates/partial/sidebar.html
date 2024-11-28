@@ -55,11 +55,19 @@
             <h2>Tag Clouds</h2>
           </div>
           <div class="content">
-            <ul>
+            <ul id="tags-list">
               {% for tag, articles in tags|sort %}
-                <li><a href="/{{ tag.url }}">{{ tag }}</a></li>
+                <li class="tag-item" {% if loop.index > 7 %} style="display: none;" {% endif %}>
+                  <a href="/{{ tag.url }}">{{ tag }}</a>
+                </li>
               {% endfor %}
             </ul>
+            {% if tags|length > 7 %}
+              <div class="d-flex justify-content-center mt-3">
+                <button id="toggle-tags" class="btn btn-dark">See More</button>
+              </div>              
+            {% endif %}
+            
           </div>
         </div>
       </div>
