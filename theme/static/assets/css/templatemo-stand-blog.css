@@ -500,7 +500,7 @@ header .navbar {
 
 
 /* Blog Cards */
-.all-blog-posts .blog-posts .blog-post {
+.blog-posts .blog-post {
 	box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.2); /* Shadow in all directions */
 }
 
@@ -525,6 +525,11 @@ header .navbar {
 	margin-bottom: 10px;
 }
 
+.blog-posts .blog-thumb {
+	border-top: 1px solid #eee;
+	border-right: 1px solid #eee;
+	border-left: 1px solid #eee;
+}
 
 .blog-posts .blog-thumb img {
 	width: 100%;
