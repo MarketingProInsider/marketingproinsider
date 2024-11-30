@@ -1,5 +1,5 @@
 Title: What is social media app banality of life?
-Description: Explore the banality of life on social media—where endless scrolling can lead to boredom and disconnection. Discover practical tips and strategies to balance your online and real-world life effectively.
+Description: Explore the banality of life on social media. Break free from endless scrolling with tips to balance online and real-world living.
 Slug: social-media-app-banality-of-life
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_6.jpg
 Author: Max Quinton
@@ -10,7 +10,6 @@ Date: 2024-07-26
 Alt: social media app banality of life
 Status: published
 
-# What is social media app banality of life?
 Did you know the average American adult spends almost 3 hours daily on social media? This fact shows how big an impact these platforms have on our lives. Marketing Pro Insider, a top [social media expert](https://marketingproinsider.com/about), says this constant online time can make us feel bored, uninterested, and disconnected. This is what they call the "banality of life" on social media.
 
 ### Key Takeaways

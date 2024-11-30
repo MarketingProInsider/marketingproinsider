@@ -16,7 +16,7 @@ In the next parts, you will learn how to check your channels performance and mak
 
 ![Youtube Audit](/theme/assets/images/contents/post/blog_49_pic_1.jpg)
  
-# Key Takeaways
+## Key Takeaways
 - Understanding the importance of a youtube audit for creators
 
 ---
