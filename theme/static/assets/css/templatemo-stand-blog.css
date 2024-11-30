@@ -1484,7 +1484,7 @@ footer p a:hover {
 	.navbar .navbar-brand {
 		position: absolute;
 		left: 30px;
-		top: 15px;
+		top: 0px;
 	}
 
 	.background-header .navbar-toggler {
