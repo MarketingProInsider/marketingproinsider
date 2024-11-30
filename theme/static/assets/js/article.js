@@ -21,9 +21,9 @@ window.addEventListener('DOMContentLoaded', function() {
               var article = inputArray[i];
               var articleHtml = `
               <div class="col-lg-6">
-                <div class="blog-post" id="articles-container">
+                <div class="blog-post" id="articles-div">
                   <div class="blog-thumb">
-                    <img loading="lazy" style="height: 180px; width: 320px;" src="${article.thumbnail}" alt="${article.alt || ''}">
+                    <img loading="lazy" style="height: 200px; width: 100%;" src="${article.thumbnail}" alt="${article.alt || ''}">
                   </div>
                   <div class="down-content-card">
                     <span>${article.category}</span>
