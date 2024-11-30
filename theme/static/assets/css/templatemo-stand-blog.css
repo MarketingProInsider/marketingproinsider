@@ -24,7 +24,7 @@ p {
 
 .down-content-card p {
 	margin-bottom: 0px;
-	font-size: 15px;
+	font-size: 12px;
 	font-weight: 400;
 	color: black;
 	line-height: 22px;
@@ -46,24 +46,64 @@ h3,
 h4,
 h5,
 h6 {
-	margin: 0px;
+	margin: 0 0 12px; /* Add consistent spacing below headings */
+	font-weight: 700; /* Bold by default */
+	line-height: 1.4; /* Compact but readable */
 }
 
 h1 {
-	font-size: 2.25rem;
+	font-size: 2rem; /* Primary heading */
+	letter-spacing: -0.8px;
 }
 
 h2 {
-	font-size: 1.75rem;
+	font-size: 1.75rem; /* Secondary heading */
+	letter-spacing: -0.5px;
 }
 
 h3 {
-	font-size: 1.25rem;
+	font-size: 1.5rem; /* Tertiary heading */
+	font-weight: 600; /* Slightly lighter */
 }
 
 h4 {
-	font-size: 1rem;
+	font-size: 1.25rem; /* Subsection heading */
+	font-weight: 600;
 }
+
+h5 {
+	font-size: 1.125rem; /* Smaller heading for sub-subsections */
+	font-weight: 500; /* Less bold for lower importance */
+}
+
+h6 {
+	font-size: 1rem; /* Smallest heading */
+	font-weight: 500;
+	letter-spacing: 0.5px; /* Slightly spaced for readability */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+	h1 {
+	  font-size: 1.75rem;
+	}
+	h2 {
+	  font-size: 1.5rem;
+	}
+	h3 {
+	  font-size: 1.25rem;
+	}
+	h4 {
+	  font-size: 1.125rem;
+	}
+	h5 {
+	  font-size: 1rem;
+	}
+	h6 {
+	  font-size: 0.875rem; /* Shrinks slightly for very small screens */
+	}
+  }
+
 .main-button a {
 	display: inline-block;
 	background-color: #f48840;
@@ -459,6 +499,11 @@ header .navbar {
 }
 
 
+/* Blog Cards */
+.all-blog-posts .blog-posts .blog-post {
+	box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.2); /* Shadow in all directions */
+}
+
 
 /* Blog Posts */
 
@@ -467,7 +512,6 @@ header .navbar {
 }
 
 .blog-posts .blog-post {
-	box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.2); /* Shadow in all directions */
 	margin-bottom: 30px;
 }
 
