@@ -500,7 +500,7 @@ header .navbar {
 
 
 /* Blog Cards */
-.blog-posts .blog-post {
+.all-blog-post-cards .blog-posts .blog-post {
 	box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.2); /* Shadow in all directions */
 }
 
@@ -565,7 +565,7 @@ img {
 	content: none;
 }
 
-.col-lg-8 .all-blog-posts .row .col-lg-12 .blog-posts .down-content p {
+.col-lg-8 .all-blog-post-cards .row .col-lg-12 .blog-posts .down-content p {
 	padding: 0px 0px;
 	margin: 0px 0px;
 }
@@ -846,6 +846,7 @@ table {
 	color: #aaa;
 	font-weight: 400;
 	transition: all .3s;
+	cursor: pointer;
 }
 
 .blog-posts .down-content ul.post-tags li a:hover,
@@ -876,6 +877,7 @@ table {
 	color: #aaa;
 	font-weight: 400;
 	transition: all .3s;
+	cursor: pointer;
 }
 
 .blog-posts .down-content-card ul.post-tags li a:hover,

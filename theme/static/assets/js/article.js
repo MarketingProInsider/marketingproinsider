@@ -56,7 +56,7 @@ window.addEventListener('DOMContentLoaded', function() {
           }
 
           // Show load more button if more articles exist
-          if (inputArray.length > 7 && endIndex < inputArray.length) {
+          if (inputArray.length > 8 && endIndex < inputArray.length) {
               loadMoreButton.style.display = 'block';
           } else {
               loadMoreButton.style.display = 'none';
@@ -64,7 +64,7 @@ window.addEventListener('DOMContentLoaded', function() {
       }
 
       // Initial display of articles
-      displayArticles(0, 7);
+      displayArticles(0, 8);
 
       // Load more button click event
       loadMoreButton.addEventListener('click', function() {
