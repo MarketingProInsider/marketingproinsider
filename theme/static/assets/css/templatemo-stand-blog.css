@@ -346,7 +346,6 @@ header {
 
 .navbar .navbar-toggler-icon {
 	background-image: none;
-	border-radius: 8px;
 }
 
 .navbar .navbar-toggler {
@@ -354,7 +353,7 @@ header {
 	background-color: #f48840;
 	height: 46px;
 	outline: none;
-	border-radius: 0px;
+	border-radius: 8px;
 	position: absolute;
 	right: 30px;
 	top: 25px;
@@ -502,7 +501,7 @@ header {
 /* Blog Cards */
 #articles-div {
 	box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.2); /* Shadow in all directions */
-	border-radius: 8px;
+	border-radius: 14px;
 }
 
 
@@ -535,7 +534,7 @@ header {
 .blog-posts .blog-thumb img {
 	width: 100%;
 	overflow: hidden;
-	height: 143px;
+	height: 147px;
 	width: 100%;
 	border-radius: 8px 8px 0 0;
 }
@@ -1485,10 +1484,9 @@ footer p a:hover {
 	.navbar .navbar-brand {
 		position: absolute;
 		left: 30px;
-		top: 25px;
+		top: 15px;
 	}
 
-	.background-header .navbar-brand,
 	.background-header .navbar-toggler {
 		top: 15px;
 	}
