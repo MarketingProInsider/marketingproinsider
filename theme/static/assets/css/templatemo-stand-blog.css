@@ -105,6 +105,10 @@ h6 {
 	.heading-page {
 		margin-top: 25%;
 	}
+	.background-header .navbar .navbar-toggler {
+		top: unset;
+		top: 9px;
+	}
   }
 
 .main-button a {
@@ -507,7 +511,7 @@ header {
 /* Blog Posts */
 
 .blog-posts {
-	margin-top: 20px;
+	margin-top: 22%;
 }
 
 .blog-posts .blog-post {
@@ -1313,7 +1317,7 @@ footer p a:hover {
 
 .contact-us .down-contact,
 .contact-us #map {
-	margin-top: 80px;
+	margin-top: 15px;
 }
 
 .contact-us .sidebar-heading h2 {
@@ -1413,7 +1417,7 @@ footer p a:hover {
 /* About Us */
 
 .about-us {
-	margin-top: 100px;
+	margin-top: 15px;
 	text-align: center;
 }
 
@@ -1499,12 +1503,8 @@ footer p a:hover {
 
 	.navbar .navbar-brand {
 		width: auto;
-		margin-left: -8%;
-		top: 10px;
-	}
-
-	.background-header .navbar-brand {
-		top: 0;
+		left: 3%;
+		top: 3px;
 	}
 
 	.navbar:after {
