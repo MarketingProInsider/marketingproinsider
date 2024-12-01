@@ -107,7 +107,7 @@ h6 {
 	}
 	.background-header .navbar .navbar-toggler {
 		top: unset;
-		top: 0px;
+		top: 9px;
 	}
   }
 
@@ -1503,8 +1503,8 @@ footer p a:hover {
 
 	.navbar .navbar-brand {
 		width: auto;
-		left: 8%;
-		top: 7px;
+		left: 3%;
+		top: 3px;
 	}
 
 	.navbar:after {
