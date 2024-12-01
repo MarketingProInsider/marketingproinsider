@@ -20,7 +20,7 @@
   </section>
 </div>-->
 
-<section class="blog-posts grid-system">
+<section class="blog-posts grid-system" style="margin-top: unset; margin-top: 2%">
   <div class="container">
     <div class="row">
       <div class="col-lg-8">
@@ -29,8 +29,8 @@
             <div class="col-lg-12">
               <div class="blog-post">
                 <!-- Blog post thumbnail -->
-                <div class="blog-thumb">
-                  <img style="height: 247px;" src="{{article.thumbnail}}" alt="{% if article.alt %}{{ article.alt }}{% endif %}">
+                <div class="blog-thumb article-thumb">
+                  <img src="{{article.thumbnail}}" alt="{% if article.alt %}{{ article.alt }}{% endif %}">
                 </div>
                 <div class="down-content">
                   <!-- Display category -->
