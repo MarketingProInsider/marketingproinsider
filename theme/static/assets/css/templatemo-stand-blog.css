@@ -24,7 +24,7 @@ p {
 
 .down-content-card p {
 	margin-bottom: 0px;
-	font-size: 15px;
+	font-size: 12px;
 	font-weight: 400;
 	color: black;
 	line-height: 22px;
@@ -46,24 +46,67 @@ h3,
 h4,
 h5,
 h6 {
-	margin: 0px;
+	margin: 0 0 12px; /* Add consistent spacing below headings */
+	font-weight: 700; /* Bold by default */
+	line-height: 1.4; /* Compact but readable */
 }
 
 h1 {
-	font-size: 2.25rem;
+	font-size: 2rem; /* Primary heading */
+	letter-spacing: -0.8px;
 }
 
 h2 {
-	font-size: 1.75rem;
+	font-size: 1.75rem; /* Secondary heading */
+	letter-spacing: -0.5px;
 }
 
 h3 {
-	font-size: 1.25rem;
+	font-size: 1.5rem; /* Tertiary heading */
+	font-weight: 600; /* Slightly lighter */
 }
 
 h4 {
-	font-size: 1rem;
+	font-size: 1.25rem; /* Subsection heading */
+	font-weight: 600;
 }
+
+h5 {
+	font-size: 1.125rem; /* Smaller heading for sub-subsections */
+	font-weight: 500; /* Less bold for lower importance */
+}
+
+h6 {
+	font-size: 1rem; /* Smallest heading */
+	font-weight: 500;
+	letter-spacing: 0.5px; /* Slightly spaced for readability */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+	h1 {
+		font-size: 1.75rem;
+	}
+	h2 {
+		font-size: 1.5rem;
+	}
+	h3 {
+		font-size: 1.25rem;
+	}
+	h4 {
+		font-size: 1.125rem;
+	}
+	h5 {
+		font-size: 1rem;
+	}
+	h6 {
+		font-size: 0.875rem; /* Shrinks slightly for very small screens */
+	}
+	.heading-page {
+		margin-top: 25%;
+	}
+  }
+
 .main-button a {
 	display: inline-block;
 	background-color: #f48840;
@@ -77,10 +120,6 @@ h4 {
 
 .main-button a:hover {
 	background-color: #fb9857;
-}
-
-.heading-page {
-	padding-top: 20px;
 }
 
 .page-heading {
@@ -213,7 +252,7 @@ h4 {
 header {
 	z-index: 99999;
 	width: 100%;
-	height: 100px;
+	/*height: 100px;*/
 	background-color: #f7f7f7;
 	-webkit-transition: all 0.3s ease-in-out 0s;
 	-moz-transition: all 0.3s ease-in-out 0s;
@@ -221,17 +260,17 @@ header {
 	transition: all 0.3s ease-in-out 0s;
 }
 
-header .navbar {
+/*header .navbar {
 	padding: 25px 0px;
 }
 
 .background-header .navbar {
 	padding: 17px 0px;
-}
+} */
 
 .background-header {
 	top: 0;
-	height: 80px;
+	height: fit-content;
 	position: fixed;
 	box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
 }
@@ -254,7 +293,6 @@ header .navbar {
 
 .navbar .navbar-brand {
 	float: left;
-	margin-top: -12px;
 	outline: none;
 }
 
@@ -314,7 +352,7 @@ header .navbar {
 	background-color: #f48840;
 	height: 46px;
 	outline: none;
-	border-radius: 0px;
+	border-radius: 8px;
 	position: absolute;
 	right: 30px;
 	top: 25px;
@@ -459,6 +497,12 @@ header .navbar {
 }
 
 
+/* Blog cards */
+#articles-div {
+	box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.2); /* Shadow in all directions */
+	border-radius: 14px;
+}
+
 
 /* Blog Posts */
 
@@ -467,7 +511,6 @@ header .navbar {
 }
 
 .blog-posts .blog-post {
-	box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.2); /* Shadow in all directions */
 	margin-bottom: 30px;
 }
 
@@ -481,10 +524,18 @@ header .navbar {
 	margin-bottom: 10px;
 }
 
+.blog-posts .blog-thumb {
+	border-top: 1px solid #eee;
+	border-right: 1px solid #eee;
+	border-left: 1px solid #eee;
+}
 
 .blog-posts .blog-thumb img {
 	width: 100%;
 	overflow: hidden;
+	height: 147px;
+	width: 100%;
+	border-radius: 8px 8px 0 0;
 }
 
 img {
@@ -516,7 +567,7 @@ img {
 	content: none;
 }
 
-.col-lg-8 .all-blog-posts .row .col-lg-12 .blog-posts .down-content p {
+.col-lg-8 .all-blog-post-cards .row .col-lg-12 .blog-posts .down-content p {
 	padding: 0px 0px;
 	margin: 0px 0px;
 }
@@ -797,6 +848,7 @@ table {
 	color: #aaa;
 	font-weight: 400;
 	transition: all .3s;
+	cursor: pointer;
 }
 
 .blog-posts .down-content ul.post-tags li a:hover,
@@ -827,6 +879,7 @@ table {
 	color: #aaa;
 	font-weight: 400;
 	transition: all .3s;
+	cursor: pointer;
 }
 
 .blog-posts .down-content-card ul.post-tags li a:hover,
@@ -1430,16 +1483,28 @@ footer p a:hover {
 	.navbar .navbar-brand {
 		position: absolute;
 		left: 30px;
-		top: 25px;
+		top: 0px;
 	}
 
-	.background-header .navbar-brand,
-	.background-header .navbar-toggler {
-		top: 15px;
+	.background-header .navbar-brand {
+		all: unset;
+		width: auto;
+    	margin-left: -8%;
+		top: 0px;
+	}
+	.background-header .container {
+		height: unset;
+		height: 65px;
 	}
 
 	.navbar .navbar-brand {
 		width: auto;
+		margin-left: -8%;
+		top: 10px;
+	}
+
+	.background-header .navbar-brand {
+		top: 0;
 	}
 
 	.navbar:after {
@@ -1449,7 +1514,7 @@ footer p a:hover {
 	#navbarResponsive {
 		z-index: 99999;
 		position: absolute;
-		top: 80px;
+		top: 70px;
 		left: 0;
 		width: 100%;
 		text-align: center;

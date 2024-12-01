@@ -91,6 +91,21 @@ jQuery( document ).ready(function( $ ) {
  
 });
 
+document.addEventListener('click', function (event) {
+    const navbar = document.querySelector('#navbarResponsive');
+    const toggler = document.querySelector('.navbar-toggler');
+
+    // Check if the click happened outside the navbar and its toggler
+    if (
+       navbar.classList.contains('show') &&
+       !navbar.contains(event.target) &&
+       !toggler.contains(event.target)
+    ) {
+       // Close the navbar
+       toggler.click(); // Triggers Bootstrap's toggle functionality
+    }
+ });
+
 
 
 // Place the script at the end of the body

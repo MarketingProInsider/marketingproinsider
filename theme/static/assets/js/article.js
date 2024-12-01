@@ -21,9 +21,9 @@ window.addEventListener('DOMContentLoaded', function() {
               var article = inputArray[i];
               var articleHtml = `
               <div class="col-lg-6">
-                <div class="blog-post">
+                <div class="blog-post" id="articles-div">
                   <div class="blog-thumb">
-                    <img loading="lazy" style="height: 180px; width: 320px;" src="${article.thumbnail}" alt="${article.alt || ''}">
+                    <img loading="lazy" src="${article.thumbnail}" alt="${article.alt || ''}">
                   </div>
                   <div class="down-content-card">
                     <span>${article.category}</span>
@@ -56,7 +56,7 @@ window.addEventListener('DOMContentLoaded', function() {
           }
 
           // Show load more button if more articles exist
-          if (inputArray.length > 7 && endIndex < inputArray.length) {
+          if (inputArray.length > 8 && endIndex < inputArray.length) {
               loadMoreButton.style.display = 'block';
           } else {
               loadMoreButton.style.display = 'none';
@@ -64,7 +64,7 @@ window.addEventListener('DOMContentLoaded', function() {
       }
 
       // Initial display of articles
-      displayArticles(0, 7);
+      displayArticles(0, 8);
 
       // Load more button click event
       loadMoreButton.addEventListener('click', function() {

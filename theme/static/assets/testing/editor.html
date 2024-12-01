@@ -95,6 +95,8 @@
   <script src="https://cdn.jsdelivr.net/npm/trumbowyg@2.25.0/dist/trumbowyg.min.js"></script>
   <!-- Showdown.js -->
   <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
+  <!-- Turndown -->
+  <script src="https://unpkg.com/turndown/dist/turndown.js"></script>
 
   <script type="module">
     import { Octokit } from "https://esm.sh/@octokit/core";
@@ -102,7 +104,7 @@
     const owner = 'MarketingProInsider';
     const repo = 'marketingproinsider';
     const filePath = 'content/posts/blog_59.md';
-    const authToken = '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'; // Set your GitHub token here
+    const authToken = ''; // Set your GitHub token here
     const octokit = new Octokit({ auth: authToken });
     const converter = new showdown.Converter(); // Markdown to HTML converter
 
@@ -154,6 +156,7 @@
         // Convert Markdown to HTML and set in editor
         const htmlContent = converter.makeHtml(markdownContent);
         $('#content').trumbowyg('html', htmlContent);
+        
       } catch (error) {
         console.error(error);
         alert('Failed to fetch file content.');
@@ -164,6 +167,9 @@
     async function saveFileContent(e) {
       e.preventDefault();
       try {
+        // Import Turndown for HTML to Markdown conversion
+        const turndownService = new TurndownService();
+
         // Gather metadata
         const metadata = Array.from(document.querySelectorAll('form input, form textarea'))
           .filter(field => field.id !== 'content')
@@ -171,7 +177,13 @@
           .join('\n');
 
         // Get the HTML content from Trumbowyg editor
-        const content = $('#content').trumbowyg('html');
+        const htmlContent = $('#content').trumbowyg('html');
+
+        // Convert the HTML content to Markdown using Turndown
+        let markdownContent = turndownService.turndown(htmlContent);
+
+        // Ensure [TOC] is correctly handled (without escaping)
+        markdownContent = markdownContent.replace(/\\\[TOC\\\]/g, '[TOC]\n\n');
 
         // Get the contributor information from the UI
         const contributorName = document.getElementById('contributorName').value;
@@ -179,12 +191,12 @@
         const contributorMessage = document.getElementById('contributorMessage').value;
 
         // Create the content to send to GitHub (including metadata and contributor info)
-        const fileData = `${metadata}\n\nContributor Name: ${contributorName}\nContributor Email: ${contributorEmail}\nContributor Message: ${contributorMessage}\n\n${content}`;
+        const fileData = `${metadata}\n\nContributor Name: ${contributorName}\nContributor Email: ${contributorEmail}\nContributor Message: ${contributorMessage}\n\n${markdownContent}`;
         const formattedContent = unescape(encodeURIComponent(fileData)); // Handle special characters
         const encodedContent = btoa(formattedContent); // Encode content to base64
 
         // Update file on GitHub
-        await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
+        /*await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
           owner,
           repo,
           path: filePath,
@@ -194,7 +206,7 @@
             email: contributorEmail, // Use the contributor email from the form
           },
           content: encodedContent,
-        });
+        });*/
 
         alert('File saved successfully!');
       } catch (error) {
