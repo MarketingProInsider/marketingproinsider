@@ -109,10 +109,6 @@ h6 {
 		top: unset;
 		top: 9px;
 	}
-	.blog-posts .article-thumb img {
-		height: unset;
-		height: 147px;
-	}
   }
 
 .main-button a {
@@ -515,7 +511,7 @@ header {
 /* Blog Posts */
 
 .blog-posts {
-	margin-top: 22%;
+	margin-top: 2%;
 }
 
 .blog-posts .blog-post {
@@ -1585,6 +1581,22 @@ footer p a:hover {
 		margin-left: 0px;
 		margin-top: 60px;
 	}
+	
+	.blog-posts .article-thumb img {
+		height: unset;
+		height: 147px;
+	}
+
+	.article-grid {
+		margin-top: 20vw;
+	}
+}
+
+/* Target screens with 8000px width and 1280px height */
+@media only screen and (min-width: 8000px) and (max-height: 1280px) {
+    .article-grid {
+        margin-top: 10vw;
+    }
 }
 
 /* Services Page */
