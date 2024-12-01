@@ -103,11 +103,15 @@ h6 {
 		font-size: 0.875rem; /* Shrinks slightly for very small screens */
 	}
 	.heading-page {
-		margin-top: 25%;
+		margin-top: 20%;
 	}
 	.background-header .navbar .navbar-toggler {
 		top: unset;
 		top: 9px;
+	}
+	.blog-posts .article-thumb img {
+		height: unset;
+		height: 147px;
 	}
   }
 
@@ -540,6 +544,11 @@ header {
 	height: 147px;
 	width: 100%;
 	border-radius: 8px 8px 0 0;
+}
+
+.blog-posts .article-thumb img {
+	height: unset;
+	height: 327px;
 }
 
 img {
@@ -1490,12 +1499,6 @@ footer p a:hover {
 		top: 0px;
 	}
 
-	.background-header .navbar-brand {
-		all: unset;
-		width: auto;
-    	margin-left: -8%;
-		top: 0px;
-	}
 	.background-header .container {
 		height: unset;
 		height: 65px;
