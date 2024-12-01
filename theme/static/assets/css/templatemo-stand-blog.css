@@ -85,22 +85,25 @@ h6 {
 /* Responsive Adjustments */
 @media (max-width: 768px) {
 	h1 {
-	  font-size: 1.75rem;
+		font-size: 1.75rem;
 	}
 	h2 {
-	  font-size: 1.5rem;
+		font-size: 1.5rem;
 	}
 	h3 {
-	  font-size: 1.25rem;
+		font-size: 1.25rem;
 	}
 	h4 {
-	  font-size: 1.125rem;
+		font-size: 1.125rem;
 	}
 	h5 {
-	  font-size: 1rem;
+		font-size: 1rem;
 	}
 	h6 {
-	  font-size: 0.875rem; /* Shrinks slightly for very small screens */
+		font-size: 0.875rem; /* Shrinks slightly for very small screens */
+	}
+	.heading-page {
+		margin-top: 25%;
 	}
   }
 
@@ -117,10 +120,6 @@ h6 {
 
 .main-button a:hover {
 	background-color: #fb9857;
-}
-
-.heading-page {
-	padding-top: 20px;
 }
 
 .page-heading {
@@ -271,7 +270,7 @@ header {
 
 .background-header {
 	top: 0;
-	height: 80px;
+	height: fit-content;
 	position: fixed;
 	box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
 }
@@ -1503,7 +1502,7 @@ footer p a:hover {
 	#navbarResponsive {
 		z-index: 99999;
 		position: absolute;
-		top: 80px;
+		top: 70px;
 		left: 0;
 		width: 100%;
 		text-align: center;
