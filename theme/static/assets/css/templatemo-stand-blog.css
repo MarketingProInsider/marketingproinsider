@@ -105,6 +105,10 @@ h6 {
 	.heading-page {
 		margin-top: 25%;
 	}
+	.background-header .navbar .navbar-toggler {
+		top: unset;
+		top: 0px;
+	}
   }
 
 .main-button a {
@@ -1499,8 +1503,8 @@ footer p a:hover {
 
 	.navbar .navbar-brand {
 		width: auto;
-		margin-left: -8%;
-		top: 10px;
+		left: 8%;
+		top: 7px;
 	}
 
 	.navbar:after {
