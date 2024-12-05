@@ -180,5 +180,18 @@ function initializeSearchInput() {
 document.addEventListener('DOMContentLoaded', initializeSearchInput);
 
   
+// Select all <p> tags inside <li> elements
+const listItems = document.querySelectorAll('li > p');
 
-
+listItems.forEach(pTag => {
+  // Get the parent <li> element
+  const parentLi = pTag.parentElement;
+  
+  // Move the <p> tag's content (including any child nodes like <strong>) to the parent <li>
+  while (pTag.firstChild) {
+    parentLi.insertBefore(pTag.firstChild, pTag);
+  }
+  
+  // Remove the now-empty <p> tag
+  pTag.remove();
+});
