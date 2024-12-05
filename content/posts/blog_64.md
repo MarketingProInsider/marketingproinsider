@@ -6,7 +6,7 @@ Author: Alex Carter
 resume: Learn 5 effective ways to engage followers on Twitter (X), using visuals, polls, threads, and tailored strategies to build a loyal audience.
 Category: Social Media Marketing
 Tags: Twitter Engagement, Social Media Marketing, Twitter Tips, Audience Engagement, Social Media Strategy, Twitter Features, X Platform Strategies, Visual Content on Twitter, Building Online Community, Twitter Polls and Threads
-Date: 2024-12-01
+Date: 2024-12-02
 Alt: Twitter Followers
 Status: published
 
