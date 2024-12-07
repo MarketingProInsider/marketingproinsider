@@ -600,7 +600,7 @@ img {
 	text-transform: capitalize;
 	letter-spacing: 0.5px;
 	font-weight: 900;
-	color: #20232e;
+	color: black;
 	margin: 10px 0px 12px 0px;
 }
 
@@ -612,7 +612,7 @@ img {
 
 .blog-posts .down-content ul.post-info li:after {
 	content: '|';
-	color: #aaa;
+	color: black;
 	margin-left: 8px;
 }
 
@@ -679,7 +679,7 @@ img {
 	text-transform: capitalize;
 	letter-spacing: 0.5px;
 	font-weight: 900;
-	color: #20232e;
+	color: black;
 	margin: 10px 0px 12px 0px;
 }
 
@@ -714,7 +714,7 @@ img {
 
 .blog-posts .down-content ul.post-info li a {
 	font-size: 14px;
-	color: #aaa;
+	color: black;
 	font-weight: 400;
 	transition: all .3s;
 }
@@ -725,7 +725,7 @@ img {
 
 .blog-posts .down-content-card ul.post-info li a {
 	font-size: 14px;
-	color: #aaa;
+	color: black;
 	font-weight: 400;
 	transition: all .3s;
 }
@@ -808,6 +808,7 @@ img {
 	font-size: 15px;
 	color: black;
 	display: block;
+	line-height: 30px;
 }
 
 
@@ -847,7 +848,7 @@ table {
 
 .blog-posts .down-content ul.post-tags li,
 .blog-posts .down-content ul.post-share li {
-	color: #aaa;
+	color: black;
 }
 
 .blog-posts .down-content ul.post-tags li a,
