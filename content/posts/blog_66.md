@@ -53,7 +53,7 @@ Consider these ideas:
 
 Social media specialists often use personal anecdotes to humanize a brand. They create Notes that feel relatable, fostering trust with the audience while still aligning with the brand’s voice. By incorporating personal experiences, specialists can bring a brand closer to its followers.
 
-### Leverage Trending Topics
+## Leverage Trending Topics
 Stay up-to-date with what’s trending, both globally and within your niche. A timely note can generate significant engagement if it connects to current events, viral trends, or popular cultural topics.
 
 To leverage trending topics:
