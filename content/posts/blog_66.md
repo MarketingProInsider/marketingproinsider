@@ -2,7 +2,7 @@ Title: How to Find Good Instagram Notes Ideas
 Description: Explore unique Instagram Notes concepts to captivate your audience. Share meaningful, relatable, and impactful content with finesse.
 Slug: instagram-notes-ideas
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_66.jpg
-Author: Alex Carter
+Author: Jordan Mitchell
 resume: Create engaging Instagram Notes with relatable ideas, personal stories, trending topics, and evergreen content. Connect authentically and grow your audience.
 Category: Social Media Marketing
 Tags: Instagram Notes, Social Media Ideas, Audience Engagement, Instagram Marketing, Content Creation, Trending Topics, Personal Branding, Social Media Strategy, Creative Posts, Hashtag Strategy
