@@ -44,7 +44,7 @@ Based on these insights, they would craft Instagram Notes that align with the pr
 ### Draw Inspiration from Personal Experiences
 Some of the best content comes from personal experiences. People connect with authenticity, so sharing your thoughts, feelings, and stories can be a great way to engage your followers.
 
-Consider these ideas:
+#### Consider these ideas:
 
 - **Share your thoughts:** Write a note about something on your mind, whether it’s a recent life lesson, a philosophical reflection, or an observation about your day.
 
