@@ -231,5 +231,5 @@ Don't ask for fake reviews or try to change what people say. Always respond to f
 ##### 9. [The Role of a Social Media Strategist in Marketing](https://marketingproinsider.com/role-social-media-strategist-marketing)
 
 ---
-##### 10. [T5 Simple Steps to Improve your Social Media Performance Statistics?](https://www.marketingproinsider.com/analyzing-social-media-metrics-strategies)
+##### 10. [5 Simple Steps to Improve your Social Media Performance Statistics?](https://www.marketingproinsider.com/analyzing-social-media-metrics-strategies)
 
