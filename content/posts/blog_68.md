@@ -1,11 +1,11 @@
 Title: How to get social media reviews?
-Description: Boost your business's reputation by mastering social media reviews. Learn strategies to gather positive feedback and drive growth.
+Description: Boost your businesses reputation by mastering social media reviews. Learn strategies to gather positive feedback and drive growth.
 Slug: social-media-reviews-guide
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_68.jpg
 Author: Alex Carter
-resume: Master strategies to collect and leverage social media reviews, enhancing your brand's reputation and fostering business growth.
+resume: Master strategies to collect and leverage social media reviews, enhancing your brands reputation and fostering business growth.
 Category: Social Media Marketing
-Tags: Twitter Automation, Social Media Tools, Automate Twitter, Twitter X Tips, Social Media Management, Twitter Marketing, Elon Musk Twitter Changes, Social Media Strategy, Automation Best Practices, Twitter Engagement Tools
+Tags: Social Media Reviews, Online Reputation Management, Customer Feedback Strategies, Digital Marketing Insights, Social Proof in Business, Review Generation Techniques, Social Media Marketing, Brand Trust Building, Customer Engagement Practices, Influencer Marketing
 Date: 2024-12-20
 Alt: Social Media Reviews
 Status: published
