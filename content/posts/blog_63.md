@@ -97,7 +97,7 @@ It’s essential to regularly post content that not only promotes your own brand
 ### Leverage the Power of Hashtags within Communities
 Hashtags have always been a significant part of Twitter’s search and discoverability, but when it comes to Communities, they can help your tweets reach a broader audience beyond the group. Many Twitter Communities encourage the use of specific hashtags for members to identify and join certain conversations. 
 
-Incorporating trending or relevant hashtags in your tweets can help you get noticed both inside and outside of your chosen Community. For example, if you're tweeting about the latest marketing strategies in a business Community, using hashtags like #MarketingTips, #DigitalMarketing, or #BusinessGrowth can help increase your visibility to people searching for content in those areas.
+Incorporating trending or relevant hashtags in your tweets can help you get noticed both inside and outside of your chosen Community. For example, if you're tweeting about the latest [marketing](https://marketingproinsider.com/category/marketing/) strategies in a business Community, using hashtags like #MarketingTips, #DigitalMarketing, or #BusinessGrowth can help increase your visibility to people searching for content in those areas.
 
 Also, try to follow popular hashtags in your niche, and jump in on conversations using those tags. The exposure you get by being part of broader conversations can bring more eyes to your Community and your tweets, ultimately helping to grow your reach.
 
