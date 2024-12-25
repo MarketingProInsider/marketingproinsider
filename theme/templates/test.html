@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create A New File</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/trumbowyg/dist/ui/trumbowyg.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/trumbowyg/dist/plugins/emoji/ui/trumbowyg.emoji.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/trumbowyg/dist/plugins/table/ui/trumbowyg.table.min.css">
+</head>
+<style>
+.trumbowyg-box .trumbowyg-editor {
+    margin: unset;
+  }
+</style>
+<body class="bg-light">
+    <div class="container py-5">
+        <h1 class="text-center mb-4">File Editor</h1>
+        <div class="card p-4 shadow">
+            <form id="fileForm">
+                <!-- Metadata fields -->
+                <h3>Metadata</h3>
+                <div class="mb-3">
+                    <label for="fileName" class="form-label">File Name</label>
+                    <input type="text" class="form-control" id="fileName" placeholder="Enter the file name (e.g., myfile)" />
+                </div>
+                <div class="mb-3">
+                    <label for="fileFormat" class="form-label">File Format</label>
+                    <select class="form-control" id="fileFormat">
+                        <option value="md">Markdown (.md)</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="thumbnail" class="form-label">Thumbnail</label>
+                    <input type="file" class="form-control" id="thumbnail" accept=".jpg" />
+                    <p id="b64"></p>
+                </div>
+
+                <!-- New UI fields for name, email, and message -->
+                <h3>Contributor Info</h3>
+                <div class="mb-3">
+                    <label for="contributorName" class="form-label">Contributor Name</label>
+                    <input type="text" class="form-control" id="contributorName" />
+                </div>
+                <div class="mb-3">
+                    <label for="contributorEmail" class="form-label">Contributor Email</label>
+                    <input type="email" class="form-control" id="contributorEmail" />
+                </div>
+                <div class="mb-3">
+                    <label for="contributorMessage" class="form-label">Contributor Message</label>
+                    <textarea class="form-control" id="contributorMessage" rows="2"></textarea>
+                </div>
+                <button type="submit" id="file-save" class="btn btn-success w-100">Save Changes</button>
+            </form>
+        </div>
+
+        <button id="backButton" class="btn btn-primary mt-4" onclick="history.back()">Back to Repo</button>
+    </div>
+  
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  
+    <script type="module">
+        import { Octokit } from "https://esm.sh/@octokit/core";
+
+        // File creation logic
+        const owner = 'MarketingProInsider';
+        const repoPath = 'content/posts';
+        const repo = 'marketingproinsider'
+        //const owner = localStorage.getItem('owner');
+        //const repoPath = localStorage.getItem('filePath');
+        const authToken = ''; // Add your auth token here
+        //const authToken = localStorage.getItem('authToken');
+        const octokit = new Octokit({ auth: authToken });
+
+        // Get file details
+        const fileName = document.getElementById('fileName').value;
+        const fileFormat = document.getElementById('fileFormat').value;
+
+        // Get the contributor information from the UI
+        const contributorName = document.getElementById('contributorName').value;
+        const contributorEmail = document.getElementById('contributorEmail').value;
+        const contributorMessage = document.getElementById('contributorMessage').value;
+
+        // Function to handle image upload
+        async function uploadImage(file, customName, type) {
+            let imagePath = '';
+            if (type === 'thumbnail') {
+                imagePath = `theme/static/assets/images/contents/thumbnail/${customName}`; // Custom path for thumbnail
+            } else if (type === 'post') {
+                imagePath = `theme/static/assets/images/contents/post/${customName}`; // Custom path for post image
+            }
+
+            try {
+                // Upload image to GitHub
+                await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
+                    owner:owner,
+                    repo:repo,
+                    path:imagePath,
+                    message: `Upload image for: ${customName}`,
+                    committer: {
+                        name: contributorName,
+                        email: contributorEmail,
+                    },
+                    content: `${file}`,
+                });
+                console.log('Image uploaded successfully!');
+                return `https://raw.githubusercontent.com/${owner}/${repo}/master/${imagePath}`; // Return the raw GitHub URL
+            } catch (error) {
+                console.error('Failed to upload image:', error);
+                return '';
+            }
+        }
+
+        // Ensure fileName is provided
+        if (!fileName) {
+            alert('File name is required before saving thumbnail!');
+        }
+
+        // Get the thumbnail input field and custom name input
+        const thumbnailInput = document.getElementById("thumbnail").files[0]; // Get the uploaded file
+        const customThumbnailName = `${fileName}_thumbnail.jpg`
+
+
+
+        function readFile() {  
+            if (!this.files || !this.files[0]) return;
+                
+            const FR = new FileReader();
+                
+            FR.addEventListener("load", function(evt) {
+                document.querySelector("#b64").textContent = evt.target.result;
+            }); 
+
+            FR.readAsDataURL(this.files[0]);
+            base64(this.files[0])
+        }  
+        document.querySelector("#thumbnail").addEventListener("change", readFile);
+
+        let imagePath = '';
+        if (thumbnailInput) {
+            console.log('Thumbnail processing started!');
+            
+            try {
+                // Convert file to Base64
+                const base64Image = await base64(thumbnailInput);
+                console.log('Base64 image:', base64Image);
+        
+                // Upload the image and get the path
+                imagePath = await uploadImage(thumbnailInput, customThumbnailName, 'thumbnail');
+                console.log('Uploaded image path:', imagePath);
+            } catch (error) {
+                console.error('Error processing the thumbnail:', error);
+            }
+        } else {
+            console.log('No image file selected for thumbnail.');
+        }
+
+
+        // Utility function to convert file to Base64
+        async function base64(file){
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+        
+                // Resolve the promise with the Base64 string
+                reader.onload = () => resolve(reader.result.split(',')[1]); // Strip out "data:image/*;base64,"
+                reader.onerror = (error) => reject(error);
+        
+                // Read the file as a Data URL
+                reader.readAsDataURL(file);
+            });
+        }
+
+        document.getElementById('thumbnail').addEventListener('change', (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                console.log('File selected:', file.name);
+            } else {
+                console.log('No file selected.');
+            }
+        });
+    </script>
+</body>
+</html>

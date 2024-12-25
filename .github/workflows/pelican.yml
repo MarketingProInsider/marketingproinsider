@@ -25,6 +25,8 @@ jobs:
         script: |
           # Navigate to the deployment directory
           cd /home/marketingproinsider
+          # stash all current changes
+          sudo git stash
           # Pull the latest changes
           sudo git pull origin master
           # Build application
