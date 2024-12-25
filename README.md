@@ -166,17 +166,17 @@ sudo kill -9 [PID]
 ## Restart server with output log
 
 ### Create an output log file
-sudo touch /home/marketingproinsider/output.log
+sudo touch /home/output.log
 
 ### Check Directory Permissions and assign to user
 ls -ld /home/marketingproinsider/
 sudo chmod u+w /home/marketingproinsider/
 
 ### Change Ownership (if needed)
-sudo chown $(whoami) /home/marketingproinsider/output.log
+sudo chown $(whoami) /home/mpi_output.log
 
 ### Run with Elevated Privileges
-sudo nohup make serve-global SERVER=127.0.0.1 > /home/marketingproinsider/output.log 2>&1 &
+sudo nohup make serve-global SERVER=127.0.0.1 > /home/mpi_output.log 2>&1 &
 
 
 
@@ -189,3 +189,4 @@ Technologies:
 *   Pelican-share-post==1.0.0
 *   Bootstrap==v4.1.3
 *   Font Awesome==4.3.0
+*   Trumbowyg==2.9.3 (https://cdnjs.com/libraries/Trumbowyg/2.9.3)

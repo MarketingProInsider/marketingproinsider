@@ -2,5 +2,11 @@ User-agent: *
 
 Disallow: /tag/
 Disallow: /category/
+Disallow: /admin.html
+Disallow: /repo.html
+Disallow: /content.html
+Disallow: /editor.html
+Disallow: /create-file.html
+
                         
 Sitemap: https://marketingproinsider.com/sitemap.xml
