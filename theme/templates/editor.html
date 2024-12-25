@@ -29,6 +29,7 @@
         <div class="mb-3">
           <label for="thumbnail" class="form-label">Thumbnail</label>
           <input type="text" class="form-control" id="thumbnail" />
+          
         </div>
         <div class="mb-3">
           <label for="author" class="form-label">Author</label>
@@ -75,7 +76,7 @@
         <div class="mb-3">
           <label for="contributorMessage" class="form-label">Contributor Message</label>
           <textarea class="form-control" id="contributorMessage" rows="2"></textarea>
-        </div>        
+        </div>     
 
         <!-- Content editor -->
         <div class="mb-3">
@@ -196,7 +197,7 @@
         const encodedContent = btoa(formattedContent); // Encode content to base64
 
         // Update file on GitHub
-        /*await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
+        await octokit.request('PUT /repos/{owner}/{repo}/contents/{path}', {
           owner,
           repo,
           path: filePath,
@@ -206,7 +207,7 @@
             email: contributorEmail, // Use the contributor email from the form
           },
           content: encodedContent,
-        });*/
+        });
 
         alert('File saved successfully!');
       } catch (error) {
