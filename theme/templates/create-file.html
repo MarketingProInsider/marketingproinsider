@@ -127,7 +127,7 @@
         const octokit = new Octokit({ auth: authToken });
 
         // Get file details
-        const fileName = document.getElementById('fileName').value;
+        //const fileName = document.getElementById('fileName').value;
         const fileFormat = document.getElementById('fileFormat').value;
 
         // Get the contributor information from the UI
@@ -175,34 +175,27 @@
             }
         }
 
-        // Ensure fileName is provided
-        if (!fileName) {
-            alert('File name is required before saving thumbnail!');
-        }
 
-        // Get the thumbnail input field and custom name input
-        const thumbnailInput = document.getElementById("thumbnail").files[0]; // Get the uploaded file
+        // Get the custom name input
+        const fileName = document.getElementById('fileName').value;
+        console.log(fileName)
         const customThumbnailName = `${fileName}_thumbnail.jpg`
 
         let imagePath = '';
-        if (thumbnailInput) {
-            console.log('Thumbnail processing started!');
-            
-            try {
-                // Convert file to Base64
-                const base64Image = await base64(thumbnailInput);
-                console.log('Base64 image:', base64Image);
+        function readFile() {
+            if (!this.files || !this.files[0]) return;
         
+            const FR = new FileReader();
+        
+            FR.addEventListener("load", function(evt) {
+                const thumbnailInput = evt.target.result.split(',')[1] // Extract only the Base64 part
                 // Upload the image and get the path
-                imagePath = await uploadImage(thumbnailInput, customThumbnailName, 'thumbnail');
-                console.log('Uploaded image path:', imagePath);
-            } catch (error) {
-                console.error('Error processing the thumbnail:', error);
-            }
-        } else {
-            console.log('No image file selected for thumbnail.');
+                imagePath = uploadImage(thumbnailInput, customThumbnailName, 'thumbnail');
+            });
+        
+            FR.readAsDataURL(this.files[0]);
         }
-
+        document.querySelector("#thumbnail").addEventListener("change", readFile);
 
         // Utility function to convert file to Base64
         async function base64(file){

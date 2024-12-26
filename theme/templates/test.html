@@ -124,19 +124,21 @@
 
 
 
-        function readFile() {  
+        function readFile() {
             if (!this.files || !this.files[0]) return;
-                
+        
             const FR = new FileReader();
-                
+        
             FR.addEventListener("load", function(evt) {
-                document.querySelector("#b64").textContent = evt.target.result;
-            }); 
-
+                console.log(evt.target.result.split(',')[1])
+                document.querySelector("#b64").textContent = evt.target.result.split(',')[1]; // Extract only the Base64 part
+            });
+        
             FR.readAsDataURL(this.files[0]);
-            base64(this.files[0])
-        }  
+        }
+        
         document.querySelector("#thumbnail").addEventListener("change", readFile);
+        
 
         let imagePath = '';
         if (thumbnailInput) {
@@ -168,7 +170,7 @@
                 reader.onerror = (error) => reject(error);
         
                 // Read the file as a Data URL
-                reader.readAsDataURL(file);
+                console.log(reader.readAsDataURL(file))
             });
         }
 
