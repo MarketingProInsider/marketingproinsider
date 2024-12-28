@@ -126,8 +126,10 @@
         //const authToken = localStorage.getItem('authToken');
         const octokit = new Octokit({ auth: authToken });
 
-        // Get file details
-        //const fileName = document.getElementById('fileName').value;
+        // Define fileName, customThumbnailName and imagePath as a global variable
+        let fileName = "";
+        let customThumbnailName = "";
+        let imagePath = '';
         const fileFormat = document.getElementById('fileFormat').value;
 
         // Get the contributor information from the UI
@@ -147,7 +149,6 @@
 
         // Function to handle image upload
         async function uploadImage(file, customName, type) {
-            let imagePath = '';
             if (type === 'thumbnail') {
                 imagePath = `theme/static/assets/images/contents/thumbnail/${customName}`; // Custom path for thumbnail
             } else if (type === 'post') {
@@ -162,13 +163,13 @@
                     path:imagePath,
                     message: `Upload image for: ${customName}`,
                     committer: {
-                        name: contributorName,
-                        email: contributorEmail,
+                        name: 'MarketingProInsider',
+                        email: 'marketingproinsider@gmail.com',
                     },
                     content: `${file}`,
                 });
                 console.log('Image uploaded successfully!');
-                return `https://raw.githubusercontent.com/${owner}/${repo}/master/${imagePath}`; // Return the raw GitHub URL
+                return imagePath; // Return the image upload path
             } catch (error) {
                 console.error('Failed to upload image:', error);
                 return '';
@@ -176,26 +177,52 @@
         }
 
 
-        // Get the custom name input
-        const fileName = document.getElementById('fileName').value;
-        console.log(fileName)
-        const customThumbnailName = `${fileName}_thumbnail.jpg`
+        // Update fileName dynamically when the user types in the input field
+        document.getElementById("fileName").addEventListener("input", function () {
+            fileName = this.value.trim(); // Update the global variable
+            customThumbnailName = `thumb_${fileName}.jpg`
+            console.log("Updated File Name:", fileName); // Log the updated value
+        });
 
-        let imagePath = '';
-        function readFile() {
+        async function readFile() {
             if (!this.files || !this.files[0]) return;
         
             const FR = new FileReader();
         
             FR.addEventListener("load", function(evt) {
                 const thumbnailInput = evt.target.result.split(',')[1] // Extract only the Base64 part
-                // Upload the image and get the path
-                imagePath = uploadImage(thumbnailInput, customThumbnailName, 'thumbnail');
+                try {
+                    // Wait for the uploadImage function to complete
+                    await uploadImage(thumbnailInput, customThumbnailName, 'thumbnail');
+        
+                    if (imagePath) {
+                        // Grab the input by ID and modify its properties
+                        const thumbnailField = document.getElementById('thumbnail');
+                        thumbnailField.type = 'text'; // Change input type to text
+                        thumbnailField.readOnly = true; // Block further input
+                        thumbnailField.placeholder = "Image Successfully Uploaded"; // Set placeholder
+                        thumbnailField.style.borderColor = 'green'; // Change border color to green
+        
+                        // Display the imagePath after 5 seconds
+                        setTimeout(() => {
+                            thumbnailField.value = imagePath; // Set the imagePath as the value
+                            thumbnailField.style.borderColor = 'black'; // Change border color to black
+                        }, 5000);
+                    } else {
+                        console.error('Image upload failed');
+                    }
+                } catch (error) {
+                    console.error('Error during file upload:', error);
+                }
             });
         
             FR.readAsDataURL(this.files[0]);
         }
-        document.querySelector("#thumbnail").addEventListener("change", readFile);
+        // Attach the event listener to the file input
+        document.querySelector("#thumbnail").addEventListener("change", async function (event) {
+            await readFile(event); // Call readFile as an async function
+        });
+
 
         // Utility function to convert file to Base64
         async function base64(file){
