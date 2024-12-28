@@ -148,7 +148,7 @@ PLUGINS = ["sitemap", "articlejson", "share_post", "minify"]
 
 # Sitemap settings
 SITEMAP = {
-    'siteurl': f'https://${SITEURL}',
+    'siteurl': SITEURL,
     'format': 'xml',
     'priorities': {
         'articles': 1,
