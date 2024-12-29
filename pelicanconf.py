@@ -151,16 +151,16 @@ SITEMAP = {
     'siteurl': SITEURL,
     'format': 'xml',
     'priorities': {
-        'articles': 0.5,
-        'indexes': 0.5,
-        'pages': 0.5
+        'articles': 1,
+        'indexes': 1,
+        'pages': 1
     },
     'changefreqs': {
-        'articles': 'weekly',
-        'pages': 'weekly',
-        'indexes': 'monthly',
+        'articles': 'daily',
+        'pages': 'daily',
+        'indexes': 'daily',
     },
-    'exclude': ['404', 'archives', 'tags', 'categories', 'authors'],  # ex: ['categories', 'tags']
+    'exclude': ['404', 'archives', 'tags', 'authors'],  # ex: ['404', 'archives', 'tags', 'authors']
 }
 
 # SEO settings

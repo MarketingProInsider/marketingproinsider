@@ -34,8 +34,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 XML_URL = """
 <url>
-<loc>{0}/{1}</loc>
+<loc>https://{0}/{1}</loc>
 <lastmod>{2}</lastmod>
+<changefreq>{3}</changefreq>
 <priority>{4}</priority>
 </url>
 """
@@ -166,8 +167,9 @@ class SitemapGenerator(object):
             pri = self.priorities['indexes']
             chfreq = self.changefreqs['indexes']
 
-        pageurl = '' if page.url == 'index.html' else page.url
-
+        # Remove trailing slash from pageurl, if any
+        pageurl = '' if page.url == 'index.html' else page.url.rstrip("/")
+    
         #Exclude URLs from the sitemap:
         if self.format == 'xml':
             flag = False
