@@ -104,4 +104,4 @@ Successful food vloggers combine creativity, storytelling, and high production v
 #### Relevant Blogs
 
 ---
-##### 1. [Food marketing on social media: Strategies & tactics](https://marketingproinsider.com/food-marketing-strategies)
+##### [Food marketing on social media: Strategies & tactics](https://marketingproinsider.com/food-marketing-strategies)
