@@ -27,7 +27,7 @@ In the dynamic world of Instagram, capturing the attention of your audience is e
 ## Introduction
 Instagram is more than just a visual platform; it’s a space where users share stories, experiences, and thoughts in various formats. While photos, videos, and stories have long dominated the platform, Instagram Notes offers a unique, simple way to communicate with your audience using text. 
 
-In the fast-paced, constantly evolving world of [social media](https://marketingproinsider.com/), finding the right ideas to post on Instagram Notes can sometimes feel like an overwhelming task. However, by exploring the right strategies, sources of inspiration, and creative approaches, you can ensure that your Instagram Notes are both engaging and meaningful.
+In the fast-paced, constantly evolving world of [social media marketing](https://marketingproinsider.com/), finding the right ideas to post on Instagram Notes can sometimes feel like an overwhelming task. However, by exploring the right strategies, sources of inspiration, and creative approaches, you can ensure that your Instagram Notes are both engaging and meaningful.
 
 In this blog, we’ll delve into the best practices for finding Instagram Notes ideas and how a social media specialist would approach this task. Whether you are a content creator, a business looking to engage your audience, or just someone exploring Instagram’s new features, this guide will provide you with actionable insights for creating captivating Instagram Notes.
 
