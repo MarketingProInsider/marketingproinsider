@@ -15,13 +15,10 @@ In today's fast-paced social media world, how well your content performs is key 
 ## Key Takeaways
 - Leverage LinkedIn Post Inspector to analyze the performance of your content on the platform
 
----
 - Understand the key metrics tracked by the tool, including engagement, reach, and impressions
 
----
 - Set up LinkedIn Post Inspector to gain valuable insights into your content's performance
 
----
 - Interpret the engagement metrics to identify top-performing content types
 
 Optimize your content strategy based on the insights provided by LinkedIn Post Inspector

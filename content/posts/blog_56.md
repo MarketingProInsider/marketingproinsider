@@ -140,7 +140,7 @@ If you create videos just for the sake of trends or views, it will come across t
 Passion and authenticity are essential for creating content that resonates with your audience.
 
 ## Conclusion
-Generating better YouTube video ideas is a process that requires creativity, strategy, and a deep understanding of your audience. By following the practices outlined in this blog—from analyzing your audience to staying on top of trends and experimenting with formats—you can consistently come up with fresh ideas that keep your content engaging and relevant. Remember, it’s not just about creating videos—it’s about creating videos that connect with people. As social media expert Neil Patel once mentioned, **“Content is the king, but engagement is queen, and the lady rules the house!”** Keep your viewers engaged, and you’ll see long-term growth and success.
+Generating better YouTube video ideas is a process that requires creativity, strategy, and a deep understanding of your audience. By following the practices outlined in this blog—from analyzing your audience to staying on top of trends and experimenting with formats—you can consistently come up with fresh ideas that keep your content engaging and relevant. Remember, it’s not just about creating videos—it’s about creating videos that connect with people. As [social media experts](https://marketingproinsider.com/) Neil Patel once mentioned, **“Content is the king, but engagement is queen, and the lady rules the house!”** Keep your viewers engaged, and you’ll see long-term growth and success.
 
 ## FAQs
 

@@ -55,7 +55,7 @@ Creating the perfect Instagram Reels involves knowing the right length. As a soc
 The type of content and its purpose greatly affect the ideal Reels length. For example, product demos or tutorials might need 30-60 seconds to be clear. But, if you want to grab attention quickly, a short Reel under 15 seconds works best.
 
 ### Target Audience Preferences
-Understanding your audience's preferences is crucial for the right Reels length. Instagram reels length varies based on age. A **social media strategist** can help tailor your Reels to fit your audience's needs.
+Understanding your audience's preferences is crucial for the right Reels length. Instagram reels length varies based on age. A **[social media strategist](https://marketingproinsider.com/)** can help tailor your Reels to fit your audience's needs.
 
 For Gen Z, shorter Reels under 30 seconds are often more engaging. But, professionals might prefer longer Reels with more detailed information, up to a minute.
 

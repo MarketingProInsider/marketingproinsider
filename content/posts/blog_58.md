@@ -30,7 +30,7 @@ Ready to make your social media shine? Let's explore how these easy steps can ch
 ## Understanding Social Media Analytics Fundamentals
 ![Social Media Performance](/theme/assets/images/contents/post/blog_58_pic_2.jpg)
 
-As a social media specialist, knowing the basics of analytics is key. It helps you track your performance and create effective campaigns. This section will cover the main metrics, tools, and how to set up a dashboard. This will help you make smart decisions for your social media strategy.
+As a [social media specialist](https://marketingproinsider.com/), knowing the basics of analytics is key. It helps you track your performance and create effective campaigns. This section will cover the main metrics, tools, and how to set up a dashboard. This will help you make smart decisions for your social media strategy.
 
 ## Key Metrics Every Social Media Specialist Should Track
 It's important to watch the right metrics to understand your audience and campaign success. Key metrics include:
@@ -373,8 +373,6 @@ New trends include using artificial intelligence and machine learning. These too
 
 ### How can social media specialists implement changes based on performance statistics?
 Keep analyzing your data to find areas to improve. Try new things and adjust your approach as needed. This keeps you in tune with your audience and market.
-
-
 
 ---
 ### Relevant Blogs

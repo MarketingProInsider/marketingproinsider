@@ -22,7 +22,7 @@ Status: published
 •	**Setting Goals:** Use benchmarks to set realistic, achievable goals for your social media strategy.
 
 ### Introduction
-As a social media specialist, one of the most common questions I encounter is: How do I know if my Facebook page is performing well? With the vast amount of data available, understanding Facebook benchmarks is essential for evaluating your social media performance. Benchmarks provide a context for your metrics, helping you identify whether your results are on par with industry standards or if there's room for improvement. In this guide, we will explore what Facebook benchmarks are, why they are important, and how you can use them to enhance your social media strategy.
+As a [social media specialist](https://marketingproinsider.com/), one of the most common questions I encounter is: How do I know if my Facebook page is performing well? With the vast amount of data available, understanding Facebook benchmarks is essential for evaluating your social media performance. Benchmarks provide a context for your metrics, helping you identify whether your results are on par with industry standards or if there's room for improvement. In this guide, we will explore what Facebook benchmarks are, why they are important, and how you can use them to enhance your social media strategy.
 
 ![Facebook Benchmarks](/theme/assets/images/contents/post/blog_53_pic_1.png)
 

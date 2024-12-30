@@ -129,7 +129,7 @@ Using these data-driven website interactivity insights helps you make smart choi
 In today's digital world, adding social media to your website can really make a difference. It helps engage users and grow your online presence. By using sites like Facebook, Instagram, and Twitter, you can get people to share, comment, and join in on fun activities. This builds a community and loyalty to your brand.
 
 #### Leveraging Social Media Platforms
-A good social media specialist knows how to mix social media with your website. They can make your site more interactive. You can add social media feeds, run contests, and polls to keep users interested.
+A good [social media specialist](https://marketingproinsider.com/) knows how to mix social media with your website. They can make your site more interactive. You can add social media feeds, run contests, and polls to keep users interested.
 
 For example, you can put a live Twitter feed on your site. This lets visitors see and join in on conversations about your brand. Or, you could have a contest on Facebook or Instagram. People can share photos or stories about your products, encouraging them to get involved and share with others.
 

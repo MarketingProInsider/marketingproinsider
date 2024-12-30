@@ -34,7 +34,7 @@ For instance, rather than labeling yourself as "Emerging Talent," opt for someth
 Your value proposition is essentially what makes you unique compared to others in your field.
 This could be a specialization, a unique skill set, or even an aspect of your personal story. Consider what sets you apart, whether it’s practical experience, academic accomplishments, or particular interests in your field.
 
-For instance, if you've completed a significant internship where you increased social media engagement by 20%, incorporating that achievement into your headline is impactful. A well-articulated value proposition will not only make your profile more appealing but also prompt conversations with potential employers.
+For instance, if you've completed a significant internship where you increased [social media strategist](https://marketingproinsider.com/) engagement by 20%, incorporating that achievement into your headline is impactful. A well-articulated value proposition will not only make your profile more appealing but also prompt conversations with potential employers.
 
 ![LinkedIn Headline Generator](/theme/assets/images/contents/post/blog_40_pic_1.jpg)
 

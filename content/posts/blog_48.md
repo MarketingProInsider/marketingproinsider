@@ -37,7 +37,7 @@ Tailoring marketing strategies helps businesses allocate resources more effectiv
 ![Tailored Marketing Solutions](/theme/assets/images/contents/post/blog_48_pic_2.jpg)
 
 ### The Role of a Social Media Strategist
-One of the key players in crafting tailored marketing solutions is the social media strategist. This professional is responsible for developing and executing strategies that not only engage the audience but also align with the brand's overall marketing goals.
+One of the key players in crafting tailored marketing solutions is the [social media strategist](https://marketingproinsider.com/). This professional is responsible for developing and executing strategies that not only engage the audience but also align with the brand's overall marketing goals.
 
 ### Responsibilities of a Social Media Strategist
 1. **Audience Analysis:** 
