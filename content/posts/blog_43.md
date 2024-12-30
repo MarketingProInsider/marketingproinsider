@@ -10,6 +10,8 @@ Date: 2024-10-18
 Alt: Social Media Specialist
 Status: published
 
+[TOC]
+
 In today is digital landscape, the importance of maintaining an online presence cannot be overstated. Businesses are increasingly turning to social media as a means to engage with their customers and promote their products and services. This leads us to ponder a critical question: 
 **Do all businesses need a social media specialist?**.
 

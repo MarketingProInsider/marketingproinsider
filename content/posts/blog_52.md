@@ -10,6 +10,8 @@ Date: 2024-11-05
 Alt: Tumblr Tips
 Status: published
 
+[TOC]
+
 ## Key Takeaways
 
 •	**Know Your Audience:** Understand who you’re targeting to create content that resonates.

@@ -10,6 +10,8 @@ Date: 2024-11-03
 Alt: Youtube Audit
 Status: published
 
+[TOC]
+
 In the digital age, video content reigns supreme, with YouTube standing at the forefront of this transformation. With billions of active users, creators and brands alike are vying for attention, making a robust YouTube strategy essential. However, just posting videos isn’t enough; regular audits are crucial to understanding your channel’s performance and areas for improvement. A thorough YouTube audit can provide valuable insights that drive growth and engagement. Here are the top five insights to look for during a YouTube audit.
 
 ![Youtube Audit](/theme/assets/images/contents/post/blog_51_pic_1.png)

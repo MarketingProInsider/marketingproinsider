@@ -10,6 +10,8 @@ Date: 2024-08-05
 Alt: social media platforms
 Status: published 
 
+[TOC]
+
 In todays digital landscape, social media plays an indispensable role in how individuals communicate and businesses market themselves. 
 
 With billions of active users worldwide, platforms such as Facebook, Instagram, and TikTok have become essential tools for connecting people, sharing content, and promoting brands. As a result, understanding the various top social media platforms used in the United States is crucial for anyone looking to navigate this ever-evolving online environment effectively. 

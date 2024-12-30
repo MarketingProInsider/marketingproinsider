@@ -10,6 +10,8 @@ Date: 2024-11-07
 Alt: Facebook Benchmarks
 Status: published
 
+[TOC]
+
 ## Key Takeaways
 •	**Understanding Benchmarks:** Facebook benchmarks help evaluate your page's performance against industry standards.
 

@@ -10,6 +10,8 @@ Date: 2024-10-26
 Alt: Social Media Strategist
 Status: published
 
+[TOC]
+
 In today’s digital landscape, the role of a [social media strategist](https://marketingproinsider.com/) is crucial for any brand looking to enhance its online presence. As social media platforms continue to evolve, the need for professionals who can navigate these changes effectively has never been greater. A social media strategist not only helps to create and implement marketing strategies but also plays a pivotal role in connecting brands with their audiences in meaningful ways.
 
 ![Social Media Strategist](/theme/assets/images/contents/post/blog_47_pic_1.jpg)

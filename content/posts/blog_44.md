@@ -10,6 +10,8 @@ Date: 2024-10-20
 Alt: Social Media Specialist
 Status: published
 
+[TOC]
+
 In today's digital landscape, professionals and businesses alike seek to maximize their online presence. One platform that often goes underutilized is LinkedIn. So, how to use LinkedIn like a [social media specialist](https://marketingproinsider.com/)? This comprehensive guide by [Marketing Pro Insider](https://marketingproinsider.com/) will delve into strategies and techniques that can help you harness the full potential of LinkedIn for networking, content creation, brand building, thought leadership, and more.
 
 ![Social Media Specialist](/theme/assets/images/contents/post/blog_44_pic_1.png)

@@ -10,6 +10,8 @@ Date: 2024-10-30
 Alt: Youtube Audit
 Status: published
 
+[TOC]
+
 Ever wondered why some YouTube channels get super popular while others don not? It is often because they do a thorough youtube audit. This step helps creators make their channel better, get more viewers, and improve their content. By learning to do a youtube audit on their own, creators can find ways to keep their viewers coming back for more.
 
 In the next parts, you will learn how to check your channels performance and make it better. You will find out how to analyze your channels data and make changes for the best results.

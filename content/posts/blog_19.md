@@ -10,6 +10,8 @@ Date: 2024-08-26
 Alt: Social Media Courses
 Status: published 
 
+[TOC]
+
 The world of social media is always changing, and so is the need for experts. To stand out, you need the right education and ongoing learning. Find out about the top 10 social media courses that can boost your career. They'll teach you the secrets to master social media.
 
 Are you looking to turn your social media skills into a career? Discover the insights from top experts designed for those starting in social media.
