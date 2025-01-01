@@ -144,7 +144,7 @@ DEFAULT_PAGINATION = False
 # Plugins
 PLUGINS_PATH = os.path.join(os.getcwd(), "pelican-plugins")
 PLUGIN_PATHS = [PLUGINS_PATH]
-PLUGINS = ["sitemap", "articlejson", "share_post", "minify"]
+PLUGINS = ["sitemap", "articlejson", "share_post", "minify", "pelican-redirect-url"]
 
 # Sitemap settings
 SITEMAP = {
