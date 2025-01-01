@@ -19,7 +19,7 @@ Whether you're a brand, business, or individual, creating meaningful engagement 
 This blog post will walk you through five actionable tips that can help you keep your Twitter followers engaged, maximize interactions, and enhance your presence on the platform.
 
 ---
-### Key Takeaways
+## Key Takeaways
 
 ---
 - **Consistency is Key:** Regular posting and staying active keeps your audience engaged and aware of your presence.

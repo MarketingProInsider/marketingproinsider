@@ -59,7 +59,7 @@ The goal of Twitter Communities is to create a more engaging experience, where u
 
 ## How Twitter Communities Can Help Increase Tweet Reach
 
-#### 1. Join the Right Communities for Your Niche
+### Join the Right Communities for Your Niche
 
 The first step to using Twitter Communities effectively is to join groups that align with your interests and the content you share. Whether you're a business, influencer, artist, or enthusiast, there's likely a Community that shares your focus.
 
@@ -67,7 +67,7 @@ For example, if you're a photographer, you could join Communities dedicated to p
 
 Being a part of niche-specific Communities helps you target a focused group rather than relying solely on random engagement from your broader audience. This can help generate meaningful interactions, which is crucial for growing your reach on the platform.
 
-#### Create Your Own Community to Build a Stronger Brand
+### Create Your Own Community to Build a Stronger Brand
 
 ![Twitter Communities](/theme/assets/images/contents/post/blog_63_pic_2.jpg)
 
@@ -84,7 +84,7 @@ Instead of just posting your own tweets, be sure to engage with others in the Co
 
 Twitter Communities are built around shared interests, so you’re bound to find an audience that appreciates your contributions and is more inclined to amplify your content. This is one of the most effective ways to get your tweets in front of more eyes.
 
-#### Share Content That Resonates with Community Members
+### Share Content That Resonates with Community Members
 
 ![Twitter Communities](/theme/assets/images/contents/post/blog_63_pic_3.jpg)
 
