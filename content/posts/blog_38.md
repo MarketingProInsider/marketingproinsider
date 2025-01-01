@@ -42,7 +42,7 @@ With LinkedIn Post Inspector's insights, you can improve your content strategy. 
 
 ![LinkedIn Post Inspector](/theme/assets/images/contents/post/blog_38_pic_1.jpg)
 
-### Setting Up LinkedIn Post Inspector
+## Setting Up LinkedIn Post Inspector
 Unlocking LinkedIn Post Inspector's power starts with setting it up. First, access the LinkedIn Analytics dashboard. This is where you'll find the Post Inspector feature. Here's a step-by-step guide to setting it up:
 
 1. Log in to your LinkedIn account and navigate to the LinkedIn Analytics section.
@@ -85,7 +85,7 @@ Post Inspector shows you what content works best. This helps you plan your futur
 
 Keep up with LinkedIn Post Inspector analytics to improve your content strategy. This way, your posts will always be valuable and engaging for your audience.
 
-### LinkedIn Post Inspector: A Game-Changer for Content Marketers
+## LinkedIn Post Inspector: A Game-Changer for Content Marketers
 LinkedIn Post Inspector has changed how content marketers use LinkedIn. It gives deep insights into post performance. This helps make data-driven decisions and improve content impact.
 
 With LinkedIn Post Inspector, content marketers can achieve more on LinkedIn. It offers LinkedIn analytics for content marketers to track important metrics. This lets you see what content works best and improve your LinkedIn data-driven content strategy.
