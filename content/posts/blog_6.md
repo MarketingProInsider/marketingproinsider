@@ -146,5 +146,5 @@ The "banality of life" is feeling bored and unfulfilled from using social media 
 
 Social media apps can change our daily lives in many ways, both good and bad. They can make us feel more connected, entertained, and informed. But, they can also make us feel lonely, make us compare ourselves to others, and feel like life is dull if we use them too much.
 
-## Most Relevant Blogs
-[What Are The Best Social Media Apps In The US?](https://marketingproinsider.com/what-are-the-best-social-media-apps-in-the-us)
+#### Most Relevant Blogs
+##### [What Are The Best Social Media Apps In The US?](https://marketingproinsider.com/what-are-the-best-social-media-apps-in-the-us)
