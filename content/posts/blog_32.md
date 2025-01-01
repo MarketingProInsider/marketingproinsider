@@ -46,7 +46,7 @@ Utilizing tools such as Facebook's search function to explore "sold" listings of
 
 ![Sell Equipment Online](/theme/assets/images/contents/post/blog_32_pic_1.png)
 
-### How to sell equipment online?
+## How to sell equipment online?
 Crafting a successful sale on Facebook Marketplace requires more than just posting photos and a description. A methodical approach guarantees maximized visibility and consumer interest.
 
 ### Preparing Your Equipment
@@ -73,7 +73,7 @@ Taking steps to engage with potential buyers is equally essential. Promptly resp
 
 ![Sell Equipment Online](/theme/assets/images/contents/post/blog_32_pic_2.jpg)
 
-### How can a social media specialist help in selling equipment online?
+## How can a social media specialist help in selling equipment online?
 As online platforms evolve, so do the strategies required to sell effectively. A [social media specialist](https://marketingproinsider.com/) can play an invaluable role in elevating your equipment sales efforts on Facebook Marketplace.
 
 ### Strategic Marketing
