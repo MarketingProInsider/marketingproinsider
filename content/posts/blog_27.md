@@ -222,7 +222,7 @@ The social media landscape is continuously evolving, making it crucial to stay a
 
 Engage with online communities, attend conferences, or subscribe to industry publications to remain informed. Adapting proactively ensures that your brand remains relevant and competitive.
 
-### Case Studies: Real-World Examples of Social Media Success in Equipment Sales
+## Case Studies: Real-World Examples of Social Media Success in Equipment Sales
 Learning from real-world examples can provide valuable insights into effective social media strategies for selling equipment.
 
 ### Successful Brands and Their Tactics
