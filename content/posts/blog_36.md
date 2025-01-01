@@ -1,6 +1,6 @@
 Title: Why Should You Hire a Social Media Specialist for Online Media Solutions
 Description: Discover why hiring a social media specialist is crucial for building brand awareness, boosting engagement, and optimizing your online media solutions
-Slug: online-media-solutions
+Slug: why-hire-social-media-specialist
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_36.jpg
 Author: Dr. Anderson
 resume: Discover the benefits of hiring a social media specialist for effective online media solutions and boost your brand awareness today!
