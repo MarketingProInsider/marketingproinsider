@@ -14,7 +14,7 @@ Status: published
 
 Did you know the average American adult spends almost 3 hours daily on social media? This fact shows how big an impact these platforms have on our lives. Marketing Pro Insider, a top [social media experts](https://marketingproinsider.com/about), says this constant online time can make us feel bored, uninterested, and disconnected. This is what they call the "banality of life" on social media.
 
-### Key Takeaways
+## Key Takeaways
 
 - The average American adult spends nearly 3 hours per day on social media apps.
 - The constant use of social media can lead to a sense of boredom, monotony, and disconnection.
