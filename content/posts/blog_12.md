@@ -9,7 +9,7 @@ Tags: OOH Marketing, Out-of-Home Advertising, Billboards, Transit, Advertising, 
 Date: 2024-08-08
 Alt: OOH marketing
 Status: Published
-original_url: understanding-ooh-marketing-strategies-benefitd-best-practices
+original_url: understanding-ooh-marketing-strategies-benefits-best-practices
 
 [TOC]
 
