@@ -9,7 +9,7 @@ Tags: Social Media Platforms, U.S. Social Media, Marketing Strategies, Social Me
 Date: 2024-08-05
 Alt: social media platforms
 Status: Published
-original_url: top-social-media-platforms-us
+original_url: top-social-media-platforms-us-marketing-guide
 
 [TOC]
 
