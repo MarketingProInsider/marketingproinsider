@@ -8,7 +8,8 @@ Category: Social Media Marketing
 Tags: steps in social media marketing, soical media apps, social media experts, social media marketing, social media tips, digital marketing, marketing, social media strategy
 Date: 2024-08-01
 Alt: facebook marketing
-Status: published
+Status: Published
+original_url: everything-you-need-to-know-about-facebook-marketing
 
 [TOC]
 
