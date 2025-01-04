@@ -9,7 +9,7 @@ Tags: social media app banality of life, soical media apps, social media experts
 Date: 2024-07-26
 Alt: social media app banality of life
 Status: Published
-original_url: everything-you-need-to-know-about-facebook-marketing
+original_url: what-is-social-media-app-banality-of-life
 
 [TOC]
 
