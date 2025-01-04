@@ -524,6 +524,7 @@ header {
 .blog-posts h4,
 .blog-posts h5,
 .blog-posts h6 {
+	color: black;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
