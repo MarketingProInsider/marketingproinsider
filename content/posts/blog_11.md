@@ -8,7 +8,8 @@ Category: Social Media Marketing
 Tags: Social Media Platforms, U.S. Social Media, Marketing Strategies, Social Media Marketing, Digital Marketing, Platform Features, Audience Engagement, Marketing Trends, Social Media Tips, social media strategy
 Date: 2024-08-05
 Alt: social media platforms
-Status: published 
+Status: Published
+original_url: top-social-media-platforms-us-marketing-guide
 
 [TOC]
 

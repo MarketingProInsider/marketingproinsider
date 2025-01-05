@@ -53,7 +53,15 @@ class RedirectGenerator(CachingGenerator):
                 self.redirects.append(Redirect(to=article, from_url=url))
 
     def redirect_pages(self, page_generator: PagesGenerator):
+        # Define which pages you want to redirect to the homepage
+        redirect_pages = ["about.html", "old-contact.html"]  # List of pages to redirect
+
         for page in page_generator.pages:
+            # If the page matches any in the list, redirect to homepage
+            if page.url in redirect_pages:
+                self.redirects.append(Redirect(to=page, from_url=page.url))
+
+            # Check for any additional redirects using metadata or URL patterns
             for url in self.redirected_urls(page_generator, page, kind="PAGE"):
                 self.redirects.append(Redirect(to=page, from_url=url))
 
