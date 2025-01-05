@@ -1,4 +1,4 @@
-Title: how to create a social media planner template?
+Title: How to Create a Social Media Planner Template?
 Description: Create a social media planner to streamline marketing, boost consistency, and improve engagement. Explore top strategies and best practices.
 Slug: create-social-media-planner-template
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_7.png

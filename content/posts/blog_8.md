@@ -1,4 +1,4 @@
-Title: 5 Effective Steps In Social Media Marketing
+Title: 5 Effective Steps In Scial Media Marketing
 Description: Discover 5 steps in social media marketing: set goals, know your audience, pick the right platforms, create content, and monitor results.
 Slug: steps-in-social-media-marketing
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_8.jpg

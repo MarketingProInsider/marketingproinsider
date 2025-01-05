@@ -1,4 +1,4 @@
-Title: social media down? what to do when platforms crash
+Title: Social Media Down? What to do When Platforms Crash
 Description: Learn what to do when social media crashes. Discover common causes, explore alternative channels, and get expert advice to ensure business continuity!
 Slug: social-media-down
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_4.jpg

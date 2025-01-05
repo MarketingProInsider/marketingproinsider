@@ -1,4 +1,4 @@
-Title: how to find experts on social media easily
+Title: How to Find Experts on Social Media Easily
 Description: Discover how to leverage social media experts to boost your brand's online presence. Learn key strategies and engage effectively with industry leaders.
 Slug: how-to-find-experts-on-social-media-easily
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_1.jpg

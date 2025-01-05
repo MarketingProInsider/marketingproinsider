@@ -1,4 +1,4 @@
-Title: What is social media app banality of life?
+Title: What is Social Media App Banality of Life?
 Description: Explore the banality of life on social media. Break free from endless scrolling with tips to balance online and real-world living.
 Slug: social-media-app-banality-of-life
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_6.jpg

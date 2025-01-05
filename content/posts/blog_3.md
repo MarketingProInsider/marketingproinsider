@@ -1,4 +1,4 @@
-Title: how do i become a social media specialist
+Title: How do i Become a Social Media Specialist
 Description: This blog is your guide to becoming a social media specialist, covering key responsibilities, essential skills, education, and expert tips!
 Slug: how-do-i-become-a-social-media-specialist
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_3.jpg

@@ -1,4 +1,4 @@
-Title: why is influencer marketing important for success
+Title: Why is Influencer Marketing Important for Success
 Description: Discover why influencer marketing is crucial for brand success. Learn how it builds trust, enhances engagement, and find top US influencers to collaborate with.
 Slug: influencer-marketing-importance-success
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_10.jpg
