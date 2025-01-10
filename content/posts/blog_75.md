@@ -2,7 +2,7 @@ Title: AI-Powered Social Media Marketing
 Description: Explore AI-powered social media marketing to personalize content, automate tasks, and drive better results for business growth and engagement.
 Slug: ai-social-media-marketing
 Thumbnail: /theme/assets/images/contents/thumbnail/thumb_blog_75.jpg
-Author: Ella Morgan
+Author: Alex Carter
 resume: Discover how AI is transforming social media marketing by personalizing content, automating tasks, and providing data-driven insights to boost engagement and growth.
 Category: Social Media Marketing
 Tags: AI in Social Media Marketing, Social Media Automation, Digital Marketing Strategies, AI Marketing Tools, Data-Driven Marketing, Audience Targeting with AI, Social Media Optimization, Personalized Content Marketing, AI for Business Growth, Marketing Technology Trends
