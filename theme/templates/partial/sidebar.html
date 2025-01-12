@@ -42,7 +42,7 @@
           <div class="content">
             <ul>
               {% for category, articles in categories|sort %}
-                <li><a href="/{{ category.url }}">- {{ category }}</a></li>
+                <li><a href="/{{ category.url | trim('/') }}">- {{ category }}</a></li>
               {% endfor %}
             </ul>
           </div>
@@ -58,7 +58,7 @@
             <ul id="tags-list">
               {% for tag, articles in tags|sort %}
                 <li class="tag-item" {% if loop.index > 7 %} style="display: none;" {% endif %}>
-                  <a href="/{{ tag.url }}">{{ tag }}</a>
+                  <a href="/{{ tag.url | trim('/') }}">{{ tag }}</a>
                 </li>
               {% endfor %}
             </ul>
